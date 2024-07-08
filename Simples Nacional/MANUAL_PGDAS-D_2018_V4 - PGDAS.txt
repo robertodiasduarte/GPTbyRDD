@@ -1,0 +1,2840 @@
+﻿2. SIGLAS 
+ 
+CGSN Comitê Gestor do Simples Nacional 
+CNAE Classificação Nacional de Atividades Econômicas  
+CNPJ Cadastro Nacional de Pessoa Jurídica 
+Cofins Contribuição para o Financiamento da Seguridade Social  
+CPF Cadastro de Pessoa Física 
+CPP Contribuição Patronal Previdenciária para a Seguridade Social 
+CSLL Contribuição Social sobre o Lucro Líquido 
+DAS Documento de Arrecadação do Simples Nacional 
+DF Distrito Federal 
+EPP Empresa de Pequeno Porte 
+FS12 Folha de Salários, incluindo encargos, acumulada da empresa nos 12 meses anteriores ao PA  
+ICMS  Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestaduais 
+
+e Intermunicipais e de Comunicação 
+IN  Instrução Normativa 
+INSS Instituto Nacional do Seguro Social 
+IPI  Imposto sobre Produtos Industrializados 
+IRPJ Imposto sobre a Renda da Pessoa Jurídica 
+ISS Imposto Sobre Serviços 
+ME Microempresa 
+PA Período de Apuração 
+PGDAS-D Programa Gerador do Documento de Arrecadação do Simples Nacional - Declaratório 
+PIS Programa de Integração Social  
+PJ  Pessoa Jurídica 
+r - (Fator) Relação entre a FS12 e a RBT12 
+RBA Receita Bruta Acumulada no ano-calendário corrente (mercado interno + mercado externo) 
+RBA int Receita Bruta Acumulada no ano-calendário corrente no mercado interno 
+RBA ext Receita Bruta Acumulada no ano-calendário corrente no mercado externo 
+RBAA Receita Bruta Acumulada no ano-calendário anterior (mercado interno + mercado externo) 
+RBAA int Receita Bruta Acumulada no ano-calendário anterior no mercado interno 
+RBAA ext Receita Bruta Acumulada no ano-calendário anterior no mercado externo 
+RPA Receita Bruta Total do PA  
+RPA int Receita Bruta Total do PA no mercado interno 
+RPA ext Receita Bruta Total do PA no mercado externo 
+RBT12 Receita Bruta Acumulada da empresa nos 12 meses anteriores ao PA (mercado interno + mercado externo) 
+RBT12 int Receita bruta acumulada nos doze meses anteriores ao PA no mercado interno  
+RBT12 ext Receita bruta acumulada nos doze meses anteriores ao PA no mercado externo 
+RBT12 int prop Receita bruta acumulada nos doze meses anteriores ao PA no mercado interno proporcionalizada 
+RBT12 ext prop Receita bruta acumulada nos doze meses anteriores ao PA no mercado externo proporcionalizada 
+RFB Secretaria da Receita Federal do Brasil 
+SE Secretaria Executiva 
+Selic Sistema Especial de Liquidação e Custódia (juros) 
+SPE Sociedade de Propósito Específico 
+UF Unidade da Federação 
+
+ 
+ 
+
+7 
+ 
+
+
+
+3. ACESSO AO PGDAS-D 
+ 
+O PGDAS-D pode ser acessado pelo Portal do Simples Nacional, via Código de Acesso ou pelo e-CAC: 
+ 
+
+ 
+Para gerar o código de acesso usado no Portal do Simples Nacional, acesse: 
+http://www8.receita.fazenda.gov.br/SimplesNacional/controleAcesso/GeraCodigo.aspx 
+ 
+Ao clicar no ícone do Certificado Digital, o usuário será direcionado para o Portal e-CAC, que permitirá o acesso via 
+Gov.br. 
+ 
+
+8 
+
+
+
+4. CONTRIBUINTE NÃO OPTANTE 
+ 
+Pessoas jurídicas que se encontrem como não-optantes no Cadastro do Simples Nacional, ou optantes pelo Simei, 
+poderão preencher e transmitir a declaração no PGDAS-D desde que tenham formalizado processo administrativo em 
+alguma unidade das fazendas federal, estadual, distrital ou municipal que possa resultar em inclusão 
+administrativa no Simples Nacional. Por ocasião do preenchimento o contribuinte deverá informar o número do 
+processo e o ente onde foi protocolado o mesmo. 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+9 
+ 
+
+
+
+5. OPÇÃO PELO REGIME DE APURAÇÃO DAS RECEITAS 
+ 
+Antes de efetuar a declaração relativa ao primeiro período de apuração (PA) do ano-calendário é necessário definir o 
+regime de apuração das receitas (COMPETÊNCIA OU CAIXA). 
+ 
+A opção deve ser feita na internet, no Portal do Simples Nacional, dentro do PGDAS-D no menu “Regime de 
+Apuração > Optar”. 
+
+ 
+ 
+Ao acessar o item “Regime de Apuração de Receitas” é possível efetuar a opção ou consultar opção já efetuada. 
+ 
+Clicar em Optar > selecionar o ano-calendário > clicar em “Continuar”. 
+ 
+
+ 
+Ao clicar no botão “Continuar” na tela acima, será apresentada tela para selecionar o regime de apuração de receitas. 
+ 
+
+10 
+
+
+
+ 
+ 
+Ao selecionar o Regime e clicar no botão “Continuar”, será apresentada uma mensagem para confirmação da opção. 
+ 
+
+ 
+ 
+Sendo a opção confirmada, será apresentada tela com as informações da opção realizada, com possibilidade de 
+“Salvar demonstrativo”. 
+ 
+
+ 
+ 
+No item “Consultar” será apresentada tela semelhante com os dados da opção realizada. 
+ 
+ 
+
+11 
+ 
+
+
+
+ IMPORTANTE! 
+A opção pelo Regime de Apuração de Receitas (caixa ou competência) deve ser realizada anualmente, sendo 
+irretratável para todo o ano-calendário. 
+ 
+A opção deverá ser realizada conforme regras abaixo: 
+ 
+
+•  Empresa já em atividade, optante pelo Simples Nacional: opção pelo regime de apuração (caixa ou 
+competência) do ano seguinte no cálculo da competência 11 - novembro. 
+
+•  Empresa aberta em novembro: no cálculo da competência 11 - novembro opta DUAS VEZES. A primeira 
+escolhendo o regime do próprio ano da abertura. A segunda pelo regime a vigorar no ano seguinte. 
+
+•  Empresa aberta em dezembro: no cálculo da competência 12 - dezembro opta DUAS VEZES. A primeira 
+escolhendo o regime do próprio ano de abertura. A segunda para o ano seguinte ao da abertura. 
+
+•  Empresa aberta nos demais meses: no cálculo da competência relativa ao mês de abertura, opta pelo 
+regime do próprio ano. No cálculo da competência 11 - novembro, opta pelo regime a vigorar no ano 
+seguinte. 
+
+•  Empresa já em atividade, não optante pelo Simples Nacional (e que venha a optar pelo Simples Nacional em 
+janeiro): opta pelo regime de apuração no cálculo da competência 01 - janeiro. 
+
+ 
+ 
+5.1. OPÇÃO PELO REGIME DE CAIXA 
+ 
+O valor apurado pelo Regime de Caixa servirá exclusivamente para a apuração da base de cálculo mensal, 
+aplicando-se o valor apurado pelo Regime de Competência para as demais finalidades, especialmente para 
+determinação dos limites e sublimites, bem como da alíquota a ser aplicada sobre a receita bruta recebida no mês. 
+(Lei Complementar nº 123, de 2006, art. 18, § 3º).  
+ 
+Por isso, o optante do Regime de Caixa deve apurar o valor de receita bruta pelos dois regimes: pelo Regime de 
+Competência e pelo Regime de Caixa (se não houver valor a ser informado digitar 0,00, pois os campos não podem 
+ficar em branco). 
+ 
+
+ ATENÇÃO! 
+Um erro que tem sido identificado é que os contribuintes, tendo optado pelo Regime de Caixa, não informam os 
+valores das receitas apuradas pelo Regime de Competência, ou melhor, informam o valor igual a R$ 0,00 
+entendendo, equivocadamente, que, se optaram pelo Regime de Caixa, não devem apurar e informar a receita 
+bruta pelo Regime de Competência. Como consequência da informação incorreta, será acumulado o valor R$ 0,00 
+para a determinação da RBT12, RBA e RBAA, com reflexos na verificação dos limites e sublimites e na determinação 
+das alíquotas dos períodos posteriores, gerando erros no cálculo. 
+ 
+Na hipótese de a empresa ter optado pelo regime de CAIXA, além do preenchimento do campo reservado para 
+apuração pelo Regime de Competência, aparecerá o campo para a informação do valor da receita bruta total mensal 
+da empresa (matriz e filiais) no PA, apurado pelo critério do Regime de CAIXA. 
+Nesta situação, os dois campos deverão ser preenchidos. 
+ 
+São exigidas as receitas auferidas no mercado interno e no mercado externo (separadamente, pelo regime de 
+competência), e as receitas recebidas no mercado interno e no mercado externo (separadamente, pelo regime de 
+caixa). A soma das receitas segregadas por atividade e estabelecimento, que serão informadas nas telas seguintes, 
+deve ser igual ao valor da receita bruta apurada pelo Regime de Caixa. 
+ 
+
+12 
+
+
+
+ 
+ 
+O PGDAS-D alerta e solicita ao contribuinte confirmar se, realmente, o valor das receitas apuradas pelo Regime de 
+Competência é ZERO, emitindo a mensagem:  
+ 
+
+ 
+ 
+ 
+ 
+
+13 
+ 
+
+
+
+6. DECLARAÇÃO MENSAL 
+ 
+6.1. PRAZO DE ENTREGA 
+ 
+As declarações no PGDAS-D deverão ser transmitidas mensalmente até o vencimento do prazo para pagamento dos 
+tributos devidos no Simples Nacional, dia 20 do mês seguinte ao período de apuração (PA). 
+ 
+A declaração deverá ser realizada e transmitida, mensalmente, ainda que a ME ou a EPP não tenha auferido receita 
+em determinado PA ou permaneça inativa durante todo o ano-calendário, hipótese em que o campo de receita bruta 
+deverá ser preenchido com valor igual a zero. 
+ 
+ 
+6.2. MULTA POR ATRASO NA ENTREGA DA DECLARAÇÃO (MAED) 
+ 
+A ME ou EPP que deixar de prestar mensalmente à RFB as informações no PGDAS-D, no prazo previsto na 
+legislação, ou que as prestar com incorreções ou omissões, estará sujeita às seguintes multas, para cada mês de 
+referência: 
+ 
+
+• 2% ao mês-calendário ou fração, a partir do primeiro dia do quarto mês do ano seguinte à ocorrência dos 
+fatos geradores, incidentes sobre o montante dos impostos e contribuições decorrentes das informações 
+prestadas no PGDAS-D, ainda que integralmente pago, no caso de ausência de prestação de informações ou 
+sua efetuação após o prazo, limitada a 20%, observada a multa mínima de R$ 50,00 para cada mês de 
+referência;  
+
+ 
+• R$ 20,00 para cada grupo de dez informações incorretas ou omitidas. 
+
+  
+As multas serão reduzidas (observada a aplicação da multa mínima): 
+ 
+
+• à metade, quando a declaração for apresentada após o prazo, mas antes de qualquer procedimento de 
+ofício; 
+
+• a 75% (setenta e cinco por cento), se houver a apresentação da declaração no prazo fixado em intimação. 
+ 
+
+ ATENÇÃO! 
+Como o termo inicial para efeito da aplicação da multa é o primeiro dia de abril do ano seguinte ao PA da declaração, 
+não será devida MAED ao contribuinte que entregar a declaração antes desta data. Exemplo: declaração do PA 
+01/2018 entregue em atraso no dia 15/03/2019, não será gerada MAED, contudo, serão cobrados os acréscimos 
+legais (multa e juros) sobre o valor devido declarado que venceu no dia 20/02/2018. 
+ 
+A notificação da multa por atraso na entrega da declaração (MAED) será gerada no momento da transmissão da 
+declaração em atraso e estará disponível no PGDAS-D, no menu "Declaração Mensal > Consultar Declarações". 
+Informar o ano-calendário e clicar em "Consultar". Serão listados os recibos, declarações transmitidas, extrato de 
+DAS, MAED (se houver), para cada período de apuração (PA) do ano-calendário selecionado.  
+ 
+No caso de declaração transmitida em atraso, a MAED poderá ser consultada ao clicar sobre o ícone  na coluna 
+MAED. O sistema exibe em formato pdf a Multa por Atraso na Entrega da Declaração e o DARF. Caso a multa já 
+esteja vencida, o DARF atualizado da MAED poderá ser gerado: 
+ 
+a) Via e-CAC no portal da Receita Federal (se o débito já estiver em cobrança na RFB).  
+Selecione a opção Consulta Pendências - Situação Fiscal > Diagnóstico Fiscal > na Receita Federal > Conta 
+Corrente ou em Certidões e Situação Fiscal > Consulta Pendências - Situação Fiscal.  
+ 
+
+14 
+
+
+
+b) SICALCWEB - O usuário deverá informar manualmente o valor correspondente à Taxa SELIC acumulada desde o 
+mês posterior ao vencimento, mais 1% no mês do pagamento. Não há multa de mora. Os dados para preenchimento 
+do DARF estão na Notificação de Lançamento, disponível no menu Consultar Declarações. 
+ 
+Após o vencimento, o valor da multa perde a redução de 50%. 
+ 
+6.3. RECEITA BRUTA MENSAL DOS PERÍODOS ANTERIORES À OPÇÃO 
+ 
+No momento do primeiro acesso ao PGDAS-D, o usuário deverá informar as receitas brutas da empresa (matriz e 
+filiais) dos meses anteriores à opção utilizando-se do critério do Regime de Competência (mesmo se for optante 
+pelo Regime de Caixa). 
+ 
+Independente do regime de apuração de receitas (Caixa ou Competência) adotado pela empresa, esse campo deve 
+ser preenchido com o valor da receita auferida nos meses anteriores à opção, ou seja, observado o critério do 
+Regime de Competência. 
+ 
+
+ ATENÇÃO! 
+As receitas brutas anteriores ao período de apuração devem ser informadas, ainda que a empresa não seja 
+optante pelo Simples Nacional no período. Essa informação é indispensável para a correta apuração dos valores 
+devidos no Simples Nacional.  
+ 
+Nos meses em que não tenha receita, o usuário deverá preencher os campos com R$ 0,00. 
+ 
+Os valores deverão ser informados de forma separada, conforme abaixo: 
+ 
+
+• no primeiro quadro informar a Receita Auferida no Mercado Interno, ou seja, deve-se informar o somatório de 
+todas as receitas no mercado interno, exceto as receitas provenientes do produto da venda (indústria) ou 
+revenda (comércio) de mercadorias para o exterior, e prestação de serviços para o exterior que devem ser 
+informadas no segundo quadro; 
+
+• no segundo quadro informar a Receita Auferida no Mercado Externo, ou seja, informar neste quadro somente 
+as receitas provenientes do produto da venda (indústria) ou revenda (comércio) de mercadorias para o 
+exterior do país, e prestação de serviços para o exterior. 
+
+ 
+
+15 
+ 
+
+
+
+ 
+ ATENÇÃO! 
+
+Como padrão, no segundo quadro, os campos apresentam 0,00 (zeros). Havendo receita de mercado externo 
+deverão ser digitados os valores correspondentes. 
+ 
+O quadro de receitas anteriores não será apresentado para os contribuintes: 
+
+• que já eram optantes pelo Simples Nacional nos 12 períodos de apuração anteriores, ou 
+• cujo mês de início de atividade coincida com o PA que será apurado. 
+
+ 
+Para aqueles contribuintes que foram desenquadrados do Simei, mas permaneceram como optantes do Simples 
+Nacional, o quadro de receitas anteriores também será apresentado quando do preenchimento da primeira apuração 
+feita no PGDAS-D.  
+ 
+A funcionalidade "Receitas Brutas Anteriores", disponível no menu do PGDAS-D só deve ser utilizada para consultas 
+e alterações de receitas de períodos anteriores já informadas conforme os procedimentos descritos acima. 
+ 
+ 
+6.3.1. Consultar Receitas Anteriores à Opção 
+ 
+Selecionado o período, o sistema apresenta os campos – não editáveis: 
+
+• Receitas no Mercado Interno, de todos os meses do ano anterior à opção pelo Simples Nacional. 
+• Receitas no Mercado Externo, de todos os meses do ano anterior à opção pelo Simples Nacional 
+
+(compreende receita de exportação de mercadorias e serviços). 
+ 
+Se houver apenas um período de opção, serão exibidos diretamente os campos com os valores de receita bruta. 
+
+ 
+ 
+ 
+6.3.2. Retificar Receitas Anteriores à Opção 
+ 
+Selecionado o período, o sistema apresenta os campos – editáveis, para retificação dos valores: 
+
+• Receitas no Mercado Interno, de todos os meses do ano anterior à opção pelo Simples Nacional. 
+• Receitas no Mercado Externo, de todos os meses do ano anterior à opção pelo Simples Nacional 
+
+(compreende receita de exportação de mercadorias e serviços). 
+ 
+O usuário seleciona um dos campos editáveis de Receita Bruta, altera o seu conteúdo e clica em “Salvar”.  
+ 
+O sistema salva a nova informação e emite a mensagem “Dados salvos com sucesso!” 
+
+16 
+
+
+
+ 
+
+ 
+ 
+
+ ATENÇÃO! 
+Havendo algum período de apuração para o qual a receita bruta tenha sido declarada no PGDAS-D, o campo 
+respectivo não estará editável. 
+ 
+ 
+6.4. DECLARAR 
+ 
+
+Para efetuar a declaração, o contribuinte deve acessar o menu “Declaração Mensal > Declarar/Retificar”. 
+ 
+ 
+Esta função permite ao contribuinte declarar, para cada período de apuração (PA), as receitas brutas obtidas em cada 
+atividade exercida, por estabelecimento, e, se for o caso, eventuais qualificações tributárias como imunidade, 
+
+17 
+ 
+
+
+
+isenção, redução, substituição tributária, tributação monofásica, antecipação com encerramento de tributação, 
+exigibilidade suspensa e receitas decorrentes de lançamento de ofício. Ao final da declaração, o programa irá 
+apresentar o valor devido e calculado, por tributo, permitindo a geração do DAS para pagamento.  
+ 
+Deverá ser informado o mês e o ano em que foi auferida a receita. 
+ 
+
+ 
+ 
+Após informar o mês e o ano da apuração, para continuar, o contribuinte pode clicar no botão “Salvar”, ou clicar na 
+próxima aba do cabeçalho, conforme figura abaixo:  
+ 
+
+ 
+ 
+Ao continuar, será mostrada tela para que o contribuinte informe a receita bruta do PA de todos os estabelecimentos. 
+
+ 
+OBS – tela apresentada de uma empresa que optou pelo Regime de Competência para o ano-calendário. 
+ 
+ 
+Deverá ser informada a receita bruta mensal auferida pela empresa (matriz e filiais) no PA, apurada pelo Regime de 
+Competência, separando as receitas do mercado interno e externo. Para empresas que optaram pelo Regime de 
+Caixa, observar o item 5.1. 
+ 
+ 
+6.4.1. Período de Apuração (PA) sem receita 
+ 
+A declaração deverá ser realizada e transmitida, mensalmente, ainda que a ME ou a EPP não tenha auferido receita 
+em determinado PA ou permaneça inativa durante todo o ano-calendário, hipótese em que os campos de receita 
+bruta deverão ser preenchidos com valor igual a zero. 
+ 
+
+18 
+
+
+
+Caso a empresa esteja sujeita ao recolhimento de valor fixo de ICMS e/ou ISS e não tenha receita no mês, os 
+campos de receita serão preenchidos com zero e, ao final da declaração, será apresentada tela para informar o valor 
+fixo. 
+ 
+ 
+6.5. ATIVIDADES ECONÔMICAS COM RECEITA NO PERÍODO DE APURAÇÃO 
+ 
+As atividades econômicas e as receitas correspondentes deverão ser informadas por estabelecimento (matriz e 
+filiais). O aplicativo apresenta uma aba para cada estabelecimento, conforme seta abaixo, para que sejam indicadas 
+as atividades econômicas com receita no período de apuração (PA). 
+ 
+Para empresa que optou pelo Regime de Competência: selecione as atividades com receita auferida no PA. 
+ 
+Para empresa que optou pelo Regime de Caixa: selecione as atividades com receita recebida no PA. 
+ 
+
+ 
+ 
+O contribuinte deverá considerar, destacadamente, para fins de cálculo, as receitas conforme abaixo: 
+ 
+1 - Revenda de mercadorias, exceto para o exterior: 
+ 
+
+• Sem substituição tributária/tributação monofásica/antecipação com encerramento de tributação (o substituto 
+tributário do ICMS deve utilizar essa opção)  
+
+• Com substituição tributária/tributação monofásica/antecipação com encerramento de tributação (o substituído 
+tributário do ICMS deve utilizar essa opção)  
+
+ 
+2 - Revenda de mercadorias para o exterior 
+ 
+3 - Venda de mercadorias industrializadas pelo contribuinte, exceto para o exterior: 
+
+• Sem substituição tributária/tributação monofásica/antecipação com encerramento de tributação (o substituto 
+tributário do ICMS deve utilizar essa opção)  
+
+19 
+ 
+
+
+
+• Com substituição tributária/tributação monofásica/antecipação com encerramento de tributação (o substituído 
+tributário do ICMS deve utilizar essa opção)  
+
+ 
+4 - Venda de mercadorias industrializadas pelo contribuinte para o exterior 
+ 
+5 - Locação de bens móveis, exceto para o exterior 
+ 
+6 - Locação de bens móveis para o exterior 
+ 
+7 - Prestação de Serviços, exceto para o exterior: 
+
+• Escritórios de serviços contábeis autorizados pela legislação municipal a pagar o ISS em valor fixo em guia 
+do Município 
+
+• Sujeitos ao fator “r”, sem retenção/substituição tributária de ISS, com ISS devido a outro(s) Município(s) 
+• Sujeitos ao fator “r”, sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do 
+
+estabelecimento 
+• Sujeitos ao fator “r”, com retenção/substituição tributária de ISS 
+• Não sujeitos ao fator “r” e tributados pelo Anexo III, sem retenção/substituição tributária de ISS, com ISS 
+
+devido a outro(s) Município(s) 
+• Não sujeitos ao fator “r” e tributados pelo Anexo III, sem retenção/substituição tributária de ISS, com ISS 
+
+devido ao próprio Município do estabelecimento 
+• Não sujeitos ao fator “r” e tributados pelo Anexo III, com retenção/substituição tributária de ISS 
+• Sujeitos ao Anexo IV, sem retenção/substituição tributária de ISS, com ISS devido a outro(s) Município(s) 
+• Sujeitos ao Anexo IV, sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do 
+
+estabelecimento 
+• Sujeitos ao Anexo IV, com retenção/substituição tributária de ISS 
+
+ 
+8 - Prestação de Serviços relacionados nos subitens 7.02, 7.05 e 16.1 da lista anexa à LC 116/2003, exceto para o 
+exterior 
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo III, sem retenção/substituição tributária de ISS, com ISS devido a outro(s) Município(s)  
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo III, sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do 
+estabelecimento 
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo III, com retenção/substituição tributária de ISS 
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo IV, sem retenção/substituição tributária de ISS, com ISS devido a outro(s) Município(s)  
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo IV, sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do 
+estabelecimento 
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo IV, com retenção/substituição tributária de ISS 
+
+• Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros, sem 
+retenção/substituição tributária de ISS, com ISS devido a outro(s) Município(s)  
+
+• Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros, sem 
+retenção/substituição tributária de ISS, com ISS devido ao próprio Município do estabelecimento 
+
+• Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros, com 
+retenção/substituição tributária de ISS 
+
+ 
+9 - Prestação de Serviços para o exterior: 
+
+• Escritórios de serviços contábeis autorizados pela legislação municipal a pagar o ISS em valor fixo em guia 
+do Município 
+
+20 
+
+
+
+• Sujeitos ao fator “r”  
+• Não sujeitos ao fator “r” e tributados pelo Anexo III 
+• Sujeitos ao Anexo IV 
+
+ 
+10 - Prestação de Serviços relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003, para o exterior 
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo III 
+
+• Serviços da área da construção civil relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2003 e 
+tributados pelo Anexo IV 
+
+ 
+11 - Serviços de comunicação; de transporte intermunicipal e interestadual de carga; e de transporte intermunicipal e 
+interestadual de passageiros autorizados no inciso VI do art. 17 da LC 123, exceto para o exterior 
+
+• Transporte sem substituição tributária de ICMS (o substituto tributário deve utilizar essa opção) 
+• Transporte com substituição tributária de ICMS (o substituído tributário deve utilizar essa opção) 
+• Comunicação sem substituição tributária de ICMS (o substituto tributário deve utilizar essa opção) 
+• Comunicação com substituição tributária de ICMS (o substituído tributário deve utilizar essa opção) 
+
+ 
+12 - Serviços de comunicação; de transporte intermunicipal e interestadual de carga; e de transporte intermunicipal e 
+interestadual de passageiros autorizados no inciso VI do art. 17 da LC 123, para o exterior 
+
+• Transporte 
+• Comunicação 
+
+ 
+13 - Atividades com incidência simultânea de IPI e de ISS, exceto para o exterior 
+
+• Sem retenção/substituição tributária de ISS, com ISS devido a outro(s) Município(s) 
+• Sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do estabelecimento 
+• Com retenção/substituição tributária de ISS 
+
+ 
+14 - Atividades com incidência simultânea de IPI e de ISS para o exterior 
+ 
+
+ ATENÇÃO! 
+Considera-se exportação de serviços para o exterior a prestação de serviços para pessoa física ou jurídica 
+residente ou domiciliada no exterior, cujo pagamento represente ingresso de divisas, exceto quanto aos serviços 
+desenvolvidos no Brasil cujo resultado aqui se verifique. (Base Normativa: art. 25, §4º da Resolução CGSN 140/2018) 
+ 
+Para obter INFORMAÇÕES sobre as atividades econômicas enquadradas em cada item, clicar sobre o botão “?”, 
+conforme figura abaixo: 
+ 
+
+21 
+ 
+
+
+
+ 
+Serão exibidas informações adicionais sobre o item. 
+ 
+
+ 
+ 
+Para operações sujeitas à substituição tributária do ICMS: 
+ 
+
+• o substituído tributário do ICMS, optante pelo Simples Nacional, assim entendido como o contribuinte 
+que teve o imposto retido, bem como o contribuinte obrigado à antecipação, deverão segregar a receita 
+correspondente como “Com substituição tributária/tributação monofásica/antecipação com encerramento de 
+tributação (o substituído tributário do ICMS deve utilizar essa opção)”. 
+
+• o substituto tributário do ICMS, optante pelo Simples Nacional, deverá recolher o ICMS sobre a 
+operação própria na forma do Simples Nacional, segregando essa receita como “Sem substituição 
+tributária/tributação monofásica/antecipação com encerramento de tributação (o substituto tributário do ICMS 
+deve utilizar essa opção)”. Nesta hipótese, o aplicativo irá calcular o ICMS sobre a operação própria com 
+base na receita informada (ICMS devido na forma do Simples Nacional). 
+
+22 
+
+
+
+ 
+Para operações sujeitas à tributação monofásica (concentrada) de PIS e/ou Cofins: 
+ 
+A ME ou EPP que proceda à importação, à industrialização ou à comercialização de produto sujeito à tributação 
+concentrada ou à substituição tributária de PIS e/ou Cofins deve segregar a receita decorrente da venda desse 
+produto como “Com substituição tributária/tributação monofásica/antecipação com encerramento de tributação (o 
+substituído tributário do ICMS deve utilizar essa opção)”, sendo desconsiderados os percentuais relativos a esses 
+tributos no cálculo do Simples Nacional. 
+ 
+O PIS e/ou Cofins incidente sobre produtos sujeitos à tributação monofásica será apurado e recolhido fora do Simples 
+Nacional, de acordo com a legislação federal, na forma estabelecida pela RFB. 
+ 
+
+ IMPORTANTE! 
+Para operações sujeitas à substituição tributária do ICMS, se o substituto tributário do ICMS for optante pelo 
+Simples Nacional, deverá recolher o ICMS sobre a operação própria na forma do Simples Nacional, 
+segregando essa receita como “Sem substituição tributária/tributação monofásica/antecipação com 
+encerramento de tributação (o substituto tributário do ICMS deve utilizar essa opção)”. Nesta hipótese, o 
+aplicativo irá calcular o ICMS sobre a operação própria com base na receita informada (ICMS devido na forma 
+do Simples Nacional).  
+O ICMS devido por substituição tributária, retido pelo substituto tributário, é recolhido diretamente ao ente 
+federado competente, em guia específica, fora do Simples Nacional. 
+ 
+Se assinalado “Com substituição tributária/tributação monofásica/antecipação com encerramento de 
+tributação”, pelo menos uma das opções abaixo deverá ser selecionada, para que o aplicativo prossiga: 
+ 
+
+• COFINS – Tributação monofásica; 
+• COFINS – Substituição tributária; 
+• PIS – Tributação monofásica; 
+• PIS – Substituição tributária; 
+• ICMS – Antecipação com encerramento de tributação; e 
+• ICMS – Substituição tributária. 
+
+ 
+Se assinalado “Transporte sem substituição tributária de ICMS”, o usuário selecionará a Unidade da Federação 
+(UF) onde se iniciou a prestação do serviço (por padrão), consta a UF do estabelecimento). 
+ 
+Se assinalado “Comunicação sem substituição tributária de ICMS”, o usuário selecionará a Unidade da 
+Federação (UF) para a qual o ICMS é devido (por padrão), consta a UF do estabelecimento) 
+ 
+Se precisar subdividir o valor da receita COM substituição tributária (parte da receita tem substituição de ICMS e a 
+outra parte tem tributação monofásica de PIS e Cofins, hipoteticamente), basta clicar no botão “+” na extremidade 
+direita da tela.  
+ 
+
+ ATENÇÃO! 
+Ao selecionar as opções de detalhamento da receita, esteja certo de que sua escolha atende a legislação 
+referente aos tributos incidentes. 
+ 
+
+23 
+ 
+
+
+
+ 
+ 
+6.6. INFORMAR VALOR DAS RECEITAS DO PERÍODO DE APURAÇÃO 
+ 
+As atividades selecionadas na aba “Atividades” serão relacionadas nesse item para que o contribuinte informe o valor 
+da receita de cada uma. 
+ 
+Para empresa que optou pelo Regime de Competência: informe a receita auferida da atividade no PA. 
+ 
+Para empresa que optou pelo Regime de Caixa: informe a receita recebida da atividade no PA. 
+ 
+Para as atividades de prestação de serviços e atividades com incidência simultânea de IPI e ISS, com ISS devido a 
+outro(s) Município(s) é necessário selecionar o Município/UF para o qual é destinado o ISS. 
+ 
+
+ 
+Se for necessário discriminar alguma ocorrência (qualificação tributária) de um ou mais tributos, tais como 
+exigibilidade suspensa, tributação monofásica ou substituição tributária, etc, deverá selecionar a ocorrência no list 
+box do tributo correspondente.  
+ 
+Se houver mais de uma ocorrência para um mesmo tributo, por exemplo, ISS devido a mais de um município ou 
+ICMS devido a mais de um estado, clicar no sinal “+” na extremidade direita da tela para segregar as parcelas de 
+receitas correspondentes. 
+ 
+As receitas digitadas indevidamente poderão ser excluídas por meio do botão . 
+ 
+
+24 
+
+
+
+ 
+ 
+6.6.1. Qualificações tributárias 
+ 
+O contribuinte poderá informar, para cada tributo, se for o caso, as seguintes qualificações: 
+ 
+
+• Antecipação com Encerramento de Tributação: ICMS 
+• Substituição Tributária: ICMS, ISS, PIS, Cofins 
+• Tributação Monofásica: PIS e Cofins 
+• Exigibilidade Suspensa: IRPJ, CSLL, PIS, Cofins, ICMS, ISS, IPI e CPP 
+• Imunidade: ICMS, IPI e ISS  
+• Isenção/Redução: ICMS e ISS 
+• Isenção/Redução Cesta Básica: ICMS 
+• Lançamento de Ofício: IRPJ, CSLL, PIS, Cofins, ICMS, ISS, IPI e CPP 
+
+ 
+ 
+6.6.2. Exigibilidade Suspensa 
+
+ 
+ 
+
+25 
+ 
+
+
+
+ 
+Quando para a atividade selecionada for indicada a situação de “Exigibilidade Suspensa” para algum dos tributos, 
+será necessário informar o motivo da suspensão. São motivos de suspensão: 
+ 
+
+• Liminar em Mandado de Segurança  
+• Depósito Judicial  
+• Antecipação de Tutela  
+• Liminar em Medida Cautelar  
+
+ 
+Na sequência, o usuário informará o número do processo judicial, a Vara, e selecionará a Unidade da Federação (UF) 
+e o Município através da barra de rolagem. Se houver efetuado depósito, clicará na caixa apropriada (Com depósito). 
+ 
+Tamanho dos campos 
+
+• “Número do Processo” - 20 caracteres numéricos; 
+• “Vara” - 2 caracteres numéricos; 
+
+ 
+Informando “Exigibilidade Suspensa” em algum tributo, o valor correspondente será declarado, mas estará com sua 
+exigibilidade suspensa. Na geração do DAS, esse valor não será considerado.   
+ 
+
+ ATENÇÃO! 
+Se o tributo voltar a ser exigível, o contribuinte deve retificar a apuração, retirando a informação de 
+exigibilidade suspensa.  
+ 
+ 
+6.6.3. Imunidade 
+ 
+Devem ser informados os tributos imunes. 
+ 
+Informado “Imunidade” em algum tributo, no cálculo será desconsiderado o percentual desse tributo. 
+ 
+Na apuração dos valores devidos no Simples Nacional, a imunidade constitucional sobre algum tributo não afeta a 
+incidência quanto aos demais, caso em que a alíquota aplicável corresponderá ao somatório dos percentuais dos 
+tributos não alcançados pela imunidade. (Resolução CGSN nº 140/2018, art. 30) 
+ 
+ 
+
+ ATENÇÃO! 
+As hipóteses de imunidade no Simples Nacional podem ser consultadas no “Perguntas e Respostas”, 
+disponível no portal do Simples Nacional. 
+ 
+ 
+6.6.4. Lançamento de Ofício 
+ 
+Esse campo deve ser assinalado apenas na hipótese de a receita segregada ter sido objeto de lançamento de ofício 
+(Auto de Infração) por parte da RFB, Estados, Distrito Federal e/ou Municípios, ou seja, caso o débito, relativo a 
+receita informada, tenha sido apurado em procedimento de fiscalização. 
+ 
+Informado “Lançamento de Ofício”, no cálculo será desconsiderado o percentual desses tributos. 
+ 
+Se não houver Auto de Infração com lançamento de ofício no Simples Nacional para o tributo selecionado, será 
+exibida a mensagem: “Não foi identificado lançamento de ofício para o tributo informado.” 
+
+26 
+
+
+
+ 
+ ATENÇÃO! 
+
+A Receita Federal do Brasil alerta os contribuintes que títulos da dívida pública externa e interna brasileira 
+não podem ser usados para a extinção de débitos do Simples Nacional. 
+ 
+O poder judiciário tem, reiteradamente, decidido pela prescrição dos referidos títulos públicos, que não se 
+prestam ao pagamento de dívida fiscal, tampouco à compensação tributária. 
+ 
+A retificação de declarações visando suprimir ou reduzir os débitos informados com a utilização INDEVIDA 
+do campo Lançamento de Ofício, ou qualquer outro campo, está sujeita à autuação com multas que podem 
+chegar a 225% e ainda sofrerem Representação Fiscal para Fins Penais ao Ministério Público por crime 
+contra a ordem tributária e lesão aos cofres públicos. 
+ 
+ 
+6.6.5. Isenção 
+ 
+Esta opção somente deve ser utilizada para isenção de ICMS ou ISS concedida, especificamente, às empresas 
+optantes pelo Simples Nacional, por meio de legislação distrital, estadual ou municipal. 
+ 
+Quando para a atividade selecionada for indicada a condição de “Isenção” para ICMS/ISS, será necessário informar o 
+valor da parcela de receita com isenção. 
+ 
+Informado “Isenção” para ICMS/ISS, no cálculo será desconsiderado o percentual desse tributo sobre a parcela de 
+receita com isenção. 
+
+ 
+ 
+
+ ATENÇÃO! 
+Isenções e reduções concedidas às demais pessoas jurídicas não se aplicam aos optantes pelo Simples 
+Nacional. Apenas as isenções e reduções concedidas ESPECIFICAMENTE aos optantes pelo Simples 
+Nacional poderão ser aproveitadas no cálculo. Assim, na condição de optante pelo regime, o contribuinte não 
+pode aproveitar uma alíquota zero ou uma redução de base de cálculo fixada para não optantes. 
+ 
+
+ ATENÇÃO! 
+Conforme a Lei Complementar nº 157/2016, o percentual efetivo de ISS não pode ser inferior a 2% e não será 
+objeto de concessão de isenção, exceto para as atividades dos itens 7.02, 7.05 e 16.1 da lista da Lei Complementar 
+nº 116/2003.  
+ 
+ 
+6.6.6. Redução 
+ 
+Esta opção somente deve ser utilizada para redução de ICMS ou ISS concedida, especificamente, às empresas 
+optantes pelo Simples Nacional, por meio de legislação distrital, estadual ou municipal. 
+
+27 
+ 
+
+
+
+ 
+Quando em alguma das atividades selecionadas for indicada a condição de “Redução” para ICMS e/ou ISS, será 
+necessário informar o valor da parcela de receita e o percentual de redução a ser aplicado sobre a parcela, sendo no 
+mínimo de 0,01% e no máximo 100,00%. 
+ 
+Parcelas da receita com “% de redução” diferentes poderão ser informadas por meio do botão “+”. As receitas 
+digitadas indevidamente poderão ser excluídas por meio do botão . 
+ 
+Informado “Redução” na tributação do ICMS ou ISS, no cálculo os percentuais desses tributos serão reduzidos 
+conforme o percentual de redução informado. 
+ 
+A soma das parcelas de receita com isenção + redução não pode ser superior à receita total informada para a 
+atividade (pois são parcelas dessa receita). 
+ 
+
+ ATENÇÃO! 
+O campo “Parcela da receita com redução” deverá ser preenchido com o valor da parcela sujeita à redução, e 
+o percentual de redução concedido pelo ente federado e não com o percentual do tributo já reduzido. 
+ 
+
+ ATENÇÃO! 
+Conforme a Lei Complementar nº 157/2016, o percentual efetivo de ISS não pode ser inferior a 2% e poderá 
+ser objeto de concessão de redução até o limite máximo de 60%, exceto para as atividades dos itens 7.02, 
+7.05 e 16.1 da lista da Lei Complementar nº 116/2003.  
+ 
+
+ IMPORTANTE! 
+Isenções e reduções concedidas às demais pessoas jurídicas não se aplicam aos optantes pelo Simples 
+Nacional. Apenas as isenções e reduções concedidas ESPECIFICAMENTE aos optantes pelo Simples 
+Nacional poderão ser aproveitadas no cálculo. Assim, na condição de optante pelo regime, o contribuinte não 
+pode aproveitar uma alíquota zero ou uma redução de base de cálculo fixada para não optantes. 
+ 
+ 
+6.6.7. Isenção Cesta Básica 
+ 
+Quando for indicada a condição de “Isenção Cesta Básica” para ICMS, será necessário informar o valor da parcela de 
+receita com isenção. 
+ 
+Informado “Isenção Cesta Básica” para ICMS, no cálculo será desconsiderado o percentual desse tributo sobre a 
+parcela de receita com isenção. 
+
+ 
+ 
+
+ ATENÇÃO! 
+
+28 
+
+
+
+Isenções e reduções concedidas às demais pessoas jurídicas não se aplicam aos optantes pelo Simples 
+Nacional. Apenas as isenções e reduções concedidas ESPECIFICAMENTE aos optantes pelo Simples 
+Nacional poderão ser aproveitadas no cálculo. Assim, na condição de optante pelo regime, o contribuinte não 
+pode aproveitar uma alíquota zero ou uma redução de base de cálculo fixada para não optantes. 
+ 
+ 
+6.6.8. Redução Cesta Básica 
+ 
+Quando for indicada a condição de “Redução Cesta Básica” para ICMS, será necessário informar o valor da parcela 
+de receita e o percentual de redução a ser aplicado sobre a parcela, sendo no mínimo de 0,01% e no máximo 
+100,00%. 
+ 
+Parcelas da receita com “% de redução” diferentes poderão ser informadas por meio do botão “+”. As receitas 
+digitadas indevidamente poderão ser excluídas por meio do botão . 
+ 
+Informado “Redução Cesta Básica” na tributação do ICMS, no cálculo o percentual desse tributo será reduzido 
+conforme o percentual de redução informado. 
+ 
+A soma das parcelas de receita com isenção + redução não pode ser superior à receita total informada para a 
+atividade (pois são parcelas dessa receita). 
+ 
+
+ ATENÇÃO! 
+O campo “Parcela da receita com redução” deverá ser preenchido com o valor da parcela sujeita à redução, e 
+o percentual de redução concedido pelo ente federado e não com o percentual do tributo já reduzido. 
+
+ 
+ 
+ 
+
+ IMPORTANTE! 
+Isenções e reduções concedidas às demais pessoas jurídicas não se aplicam aos optantes pelo Simples 
+Nacional. Apenas as isenções e reduções concedidas ESPECIFICAMENTE aos optantes pelo Simples 
+Nacional poderão ser aproveitadas no cálculo. Assim, na condição de optante pelo regime, o contribuinte não 
+pode aproveitar uma alíquota zero ou uma redução de base de cálculo fixada para não optantes. 
+ 
+ 
+6.6.9. Valor Fixo de ICMS e ISS 
+ 
+
+29 
+ 
+
+
+
+ 
+Os campos para preenchimento de valores fixos não serão exibidos para a ME: 
+
+• com filiais; 
+• que esteja no ano-calendário de início de atividade; 
+• com receita bruta acumulada no ano-calendário anterior superior a R$ 360.000,00 (trezentos e sessenta mil 
+
+reais) ou seu limite proporcional, na hipótese da empresa ter iniciado suas atividades no ano anterior; 
+• com receita bruta acumulada no ano-calendário corrente superior a R$ 360.000,00, a partir do mês seguinte 
+
+ao excesso de receita.  
+ 
+Para o ISS, o campo de valor fixo não será exibido se o usuário marcar alguma das seguintes atividades: 
+
+• Prestação de Serviços, exceto para o exterior 
+◦ Sujeitos ao fator “r”, sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do 
+
+estabelecimento 
+◦ Não sujeitos ao fator “r” e tributados pelo Anexo III, sem retenção/substituição tributária de ISS, com ISS 
+
+devido ao próprio Município do estabelecimento 
+◦ Sujeitos ao Anexo IV, sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município 
+
+do estabelecimento 
+ 
+
+• Atividades com incidência simultânea de IPI e de ISS, exceto para o exterior 
+◦ Sem retenção/substituição tributária de ISS, com ISS devido ao próprio Município do estabelecimento 
+
+ 
+ IMPORTANTE! 
+1.  O campo de valor fixo somente deve ser preenchido se o Estado ou Município tenha estabelecido 
+
+recolhimento em valor fixo em sua legislação para empresas optantes pelo Simples Nacional, 
+conforme art. 33 da Resolução CGSN nº 140/2018. 
+
+ 
+2.  O campo deve ser preenchido com o valor fixo de ISS e/ou ICMS definido pelo ente federado. Não 
+
+preencher com o valor da receita bruta, que deve ser informada em campo específico na tela anterior. 
+ 
+
+3.  A informação de valor fixo de ISS, desde que prevista em lei municipal, só é permitida para os 
+serviços dos subitens 7.02, 7.05 e 16.1 da Lei Complementar 116/2003. 
+
+ 
+ 
+6.7. TRANSMITIR DECLARAÇÃO 
+ 
+
+30 
+
+
+
+Após preencher os dados de todos os estabelecimentos, será apresentada tela com o “Resumo da Declaração no 
+Simples Nacional – Valor Devido por Tributo”. Para concluir a operação, clicar no botão “Transmitir”. 
+ 
+
+ 
+ 
+Ao clicar no botão “Transmitir” será apresentada tela com a possibilidade de “Imprimir Recibo” ou “Gerar DAS”.  
+
+ 
+ 
+ 
+Ao clicar no botão “Imprimir Recibo” será aberto o Recibo de entrega da declaração no PGDAS-D no formato “pdf ”.  
+ 
+Caso não seja gerado o DAS neste momento, acessar a opção “Gerar DAS” do menu “Declaração Mensal”.  
+ 
+ 
+6.8. GERAR DAS 
+ 
+Selecionando a função “Gerar DAS”, no menu “Declaração Mensal”, deve-se informar o PA que se deseja gerar o 
+DAS. 
+ 
+
+31 
+ 
+
+
+
+ 
+Ao clicar no botão “Continuar”, será apresentada a tela com o resumo da apuração.  
+ 
+Para gerar o DAS, clicar no botão “Gerar DAS”. A opção "Gerar DAS" gera um documento em formato “pdf” para 
+pagamento na rede bancária credenciada. 
+
+ 
+ 
+ 
+
+ ATENÇÃO! 
+A funcionalidade “Gerar DAS” deve ser utilizada para recolhimento de períodos de apuração (PA) recentes.  
+Tratando-se de períodos de apuração anteriores a 3 (três) meses da data atual, utilize a funcionalidade 
+“Débitos > Consultar/Gerar DAS”, que identifica o débito que está sendo objeto de cobrança pela RFB, 
+considerando transferências (à PFN ou ao ente convenente, no caso de convênio de Estado ou Município 
+
+32 
+
+
+
+com a PGFN para a inscrição do ISS ou ICMS em dívida ativa) e amortizações que o débito possa vir a sofrer 
+ao longo do tempo.  
+ 
+Utilize também a funcionalidade “Débitos > Consultar/Gerar DAS” caso tenha feito compensação com débitos 
+vencidos, pois, desta forma, o DAS será gerado com o valor correto, deduzido o valor já compensado. Em caso de 
+compensação com débitos a vencer, deverá ser utilizada a geração de DAS avulso. 
+ 
+Tratando-se de PA retificado, certifique-se de que a declaração retificadora já foi considerada, antes de gerar o DAS 
+pela funcionalidade “Débitos > Consultar/Gerar DAS”. 
+ 
+Exemplo 1: Contribuinte transmitiu o período de apuração 01/2018 em 05/02/2018. Não recolheu o DAS. Em 
+março/2018 deseja gerar o DAS para recolhimento em atraso. Neste caso, poderá utilizar a opção “Gerar DAS > 
+Consolidar para outra data”. 
+ 
+Exemplo 2: Contribuinte transmitiu o período de apuração 01/2018 em 05/02/2018. Não recolheu o DAS. Em 
+abril/2018 deseja gerar o DAS para recolhimento em atraso. Neste caso, deverá utilizar a opção “Débitos > 
+Consultar/Gerar DAS”. 
+ 
+Exemplo 3: Contribuinte transmitiu o período de apuração 01/2018 em 05/02/2018. Não recolheu o DAS. Em 
+março/2018, efetuou uma compensação amortizando parte do débito do PA 01/2018 já vencido. Na sequência, deseja 
+gerar o DAS para recolhimento do saldo devedor de 01/2018. Neste caso, deverá utilizar a opção “Débitos > 
+Consultar/Gerar DAS”. A opção “Gerar DAS” estará disponível, mas não considerará a compensação realizada, 
+gerando o DAS com o valor integral do PA. 
+ 
+ 
+
+ IMPORTANTE! 
+O PGDAS-D 2018 não permite a geração de DAS por meio do menu “Gerar DAS”, para PA com débito transferido ao 
+ente convenente (Estados/DF/Municípios que possuem convênio com PGFN para inscrição dos débitos em dívida 
+ativa, nos termos do art. 41, 3º da LC 123/06) ou enviado para inscrição em Dívida Ativa da União na Procuradoria-
+Geral da Fazenda Nacional (PGFN). 
+ 
+Esse bloqueio impede que o contribuinte gere o DAS com valores indevidos (que deveriam ser pagos diretamente ao 
+ente convenente ou à PGFN). 
+ 
+Ao tentar gerar um DAS no PGDAS-D, para um PA que já tenha valores transferidos aos entes convenentes ou 
+enviados à PGFN, o sistema impedirá a emissão, e apresentará as informações sobre o débito transferido ao ente ou 
+enviado à PGFN: valor original, tributo, ente federado e situação do débito. 
+ 
+ 
+6.8.1. Pagar Online 
+ 
+A opção "Pagar Online" gera um documento para realização do pagamento por meio de débito em conta-corrente. No 
+momento, este pagamento está disponível apenas para usuários do Banco do Brasil, com acesso ao Internet 
+Banking. 
+ 
+O serviço de pagamento online está disponível em todas as páginas do PGDAS-D em que haja a opção de geração 
+de DAS. Dessa forma, o usuário poderá efetuar o pagamento online de DAS Cobrança, DAS avulso e DAS gerado 
+após a transmissão do PGDAS-D. 
+ 
+
+33 
+ 
+
+
+
+ 
+ 
+Após clicar no botão Pagar Online, o sistema exibe as informações para realização do pagamento do DAS por meio 
+de débito em conta corrente online. Selecione o seu banco (no momento só o Banco do Brasil está habilitado para 
+esta modalidade de pagamento). Leia as “Observações”, siga as instruções e clique em “Prosseguir”: 
+ 
+
+ 
+
+O usuário será direcionado para a página do seu Banco, onde poderá visualizar o valor a pagar antes de confirmar a 
+transação. Caso deseje realmente pagar, siga as instruções da página do Banco. 
+ 
+Após a confirmação do pagamento, o sistema exibirá o “Comprovante de Arrecadação” emitido pela Receita Federal 
+do Brasil (RFB) e haverá a opção de “Salvar” ou “imprimir” esse comprovante. Caso queira imprimi-lo posteriormente, 
+deverá acessar o Portal e-CAC, no sítio da Receita Federal do Brasil, utilizando certificado digital ou código de 
+
+34 
+
+
+
+acesso do referido Portal, selecionar a aba "Pagamentos e Parcelamentos" e, então, o serviço "Consulta de 
+Comprovante de Pagamento - DARF, DAS e DJE”. 
+ 
+ 
+6.8.2. Consolidar para Outra Data 
+ 
+Selecionar a função “Gerar DAS”, no menu “Declaração Mensal”. Informar o PA que se deseja gerar o DAS. 
+ 
+Caso queira gerar o DAS para pagamento em outra data, deve-se clicar no botão “Consolidar para outra data”, o 
+usuário será direcionado para a tela abaixo. 
+
+ 
+Informar a data para qual deseja consolidar e clicar no botão “Ok”. O aplicativo retorna para a tela com o resumo da 
+apuração, para gerar o DAS clicar em “Gerar DAS”. A data informada deve ser um dia útil compreendido no mês 
+corrente. 
+ 
+ 
+6.8.3. DAS com Valor Inferior a R$ 10,00  
+ 
+É vedada a emissão de DAS com valor total inferior a R$ 10,00 (dez reais). O valor devido do Simples Nacional que 
+resultar inferior a R$ 10,00 (dez reais) deverá ser diferido para os períodos subsequentes, até que o total seja igual 
+ou superior a R$ 10,00 (dez reais). 
+ 
+O contribuinte deve observar os seguintes procedimentos: 
+ 
+
+1. Caso o PGDAS-D calcule, no período de apuração informado, um valor devido menor que R$ 10,00, não 
+será gerado DAS de forma automática para este período. 
+
+2. Na apuração do período subsequente, caso o valor calculado pelo PGDAS-D, somado ao valor diferido 
+do período anterior, supere R$ 10,00, o contribuinte deverá utilizar o aplicativo "Geração de DAS Avulso", 
+disponível no portal do Simples Nacional 
+http://www8.receita.fazenda.gov.br/SIMPLESNACIONAL/Servicos/Grupo.aspx?grp=5, para efetuar a 
+geração do DAS para recolhimento. 
+
+3. O programa não controla valores diferidos de meses anteriores, sendo esta tarefa uma atribuição do 
+próprio contribuinte. 
+
+ 
+Exemplo: 
+O contribuinte apurou, para o PA 08/2018, R$ 6,00 de valor devido no Simples Nacional, sendo R$ 4,00 de CPP e R$ 
+2,00 de ISS destinado à Curitiba. Neste caso, o PGDAS-D não permitirá a geração do DAS. Na apuração do PA 
+seguinte, 09/2018, o aplicativo, novamente, calculou o valor devido de R$ 6,00, sendo R$ 4,00 de CPP e R$ 2,00 de 
+ISS destinado à São Paulo (houve alteração apenas na destinação do ISS, que agora é para São Paulo).  A soma 
+dos valores diferidos resultou em R$ 12,00 (ultrapassou R$ 10,00), valor a ser recolhido por meio do aplicativo 
+"Geração de DAS Avulso". 
+ 
+No aplicativo "Geração de DAS Avulso", o usuário deverá informar como PA "09/2018" e os valores devidos por 
+tributo/ente federado, somando-se os valores devidos para cada tributo/ente dos PA 08 e 09/2018. 
+ 
+
+35 
+ 
+
+
+
+Assim, deverá informar R$ 8,00 de CPP, R$ 2,00 de ISS destinado à Curitiba e R$ 2,00 de ISS destinado à São 
+Paulo. O aplicativo irá gerar um DAS com este perfil para recolhimento. 
+ 
+OBS - se o contribuinte indevidamente deixou de acrescentar um valor inferior a R$ 10,00 ao valor devido do mês 
+seguinte (ou do primeiro mês posterior no qual a soma dos valores devidos resultou em montante superior a R$ 
+10,00), é possível somá-lo ao valor devido e ainda não pago em qualquer outro mês. Neste caso é necessário 
+atualizar o valor inferior a R$ 10,00 da data de vencimento original até a data de vencimento do PA ao qual foi 
+acrescentado. 
+ 
+
+ IMPORTANTE! 
+Se o DAS com valor inferior a R$10,00 for relativo a saldo devedor de período de apuração no qual o valor 
+devido original foi superior a R$ 10,00, no momento da geração do DAS avulso, será necessário atualizar o 
+valor inferior a R$ 10,00 da data de vencimento original até a data de vencimento do PA ao qual foi 
+acrescentado. 
+ 
+ 
+6.8.4. DAS Avulso 
+ 
+A Emissão de DAS Avulso deverá ser utilizada pelos contribuintes nas seguintes situações: 
+ 
+a) Emissão de DAS com valores diferidos ou residuais de meses anteriores (inferiores à R$ 10,00) 
+Tendo em vista o impedimento de alteração do campo principal do DAS, para incluir os valores inferiores à R$ 10,00 
+de períodos anteriores, o contribuinte deverá utilizar o serviço de Emissão de DAS Avulso, somando o perfil da 
+apuração diferida ou residual após retificação e o perfil da apuração do PA ao qual os valores serão acrescidos 
+(somar os valores devidos dos dois PA, por tributo e ente). 
+ 
+b) Retificação de apuração aumentando valor anteriormente declarado, cujo débito foi objeto de transferência 
+ao ente convenente ou à PFN 
+Quando o contribuinte transmite uma retificadora para aumentar o valor de débito que já está transferido ao ente 
+convenente ou enviado à PFN, essa retificadora não produz efeitos imediatos nos sistemas de cobrança da RFB  
+ 
+Assim, para período de apuração (PA) com débito transferido ao convenente ou à PFN, o contribuinte deverá utilizar o 
+serviço de DAS Avulso, para gerar o DAS com a diferença entre o valor da retificadora e o valor do débito transferido 
+à PFN e/ou convenente (tributo a tributo).   
+ 
+c) Geração de DAS com valores inferiores ao da apuração/retificação 
+Caso o contribuinte queira pagar o DAS com valores inferiores aos da apuração/retificação, poderá utilizar o serviço 
+DAS Avulso. 
+ 
+d) Pagamento complementar antes que o DAS anteriormente pago seja carregado na base do PGDAS-D 
+São situações em que o contribuinte transmite uma apuração/retificação e paga o total apurado, porém, antes de o 
+pagamento constar na base de pagamento, retifica a apuração aumentando o valor total devido do PA, 
+impossibilitando a geração do DAS apenas com os valores complementares. Neste caso, para gerar o DAS apenas 
+da diferença entre a retificação e o DAS anteriormente pago, o contribuinte deverá utilizar o serviço de DAS Avulso. 
+ 
+e) Compensação com débito a vencer 
+Após efetuar a compensação com débito a vencer, caso haja saldo devedor remanescente, o contribuinte deverá 
+emitir um DAS avulso. 
+
+ 
+Para identificar o saldo devedor de CADA TRIBUTO, ENTE A ENTE (por exemplo, ISS - São Paulo/SP), após a 
+compensação, a ser informado no aplicativo DAS Avulso, o contribuinte deverá: 
+
+36 
+
+
+
+ 
+1 - Obter os valores devidos por tributo e por ente antes da compensação: no PGDAS-D 2018, na opção "Declaração 
+Mensal > Consultar Declarações", clicar em "Extrato" da operação "Geração de DAS", campo 6.1 (caso o DAS não 
+tenha sido gerado, utilizar a opção "Declaração Mensal > Gerar DAS"); 
+2 - Deduzir os valores compensados para cada tributo/ente: no aplicativo Compensação a Pedido, na opção 
+"Consulta Compensações", o valor compensado é apresentado no campo "Valor Amortizado". 
+ 
+
+ IMPORTANTE! 
+Nas demais situações, recomenda-se que o contribuinte continue gerando o DAS pelo PGDAS-D 
+(funcionalidade “Gerar DAS” ou “Débitos” conforme o caso), já que o aplicativo emite o DAS 
+automaticamente, sem que o usuário tenha que informar o valor devido de cada tributo, evitando 
+recolhimento incorreto.  
+ 
+Esse serviço pode ser acessado pelos contribuintes tanto por meio do Portal do Simples Nacional, quanto no portal e-
+CAC do sítio da RFB. 
+
+ 
+ 
+O aplicativo permite emitir um DAS Avulso, desvinculado do perfil (valores, tributos e entes federados) de uma 
+apuração/retificação específica, porém, deverá existir uma apuração transmitida para o período de apuração (PA) 
+para o qual o contribuinte deseja gerar o DAS Avulso. Neste aplicativo, o contribuinte poderá informar o(s) tributo(s) 
+(inclusive o(s) ente(s) federado(s) - no caso de ICMS e /ou ISS) e o respectivo valor principal que deseja recolher (os 
+acréscimos legais são calculados automaticamente). 
+ 
+O contribuinte deve utilizar o aplicativo com atenção, uma vez que o valor recolhido será destinado a cada um dos 
+tributos/entes de acordo com a informação prestada, não havendo possibilidade de retificação do DAS. 
+ 
+
+37 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+No menu “Consultar”, o usuário pode consultar o extrato de todos os DAS avulsos gerados para o ano selecionado. 
+ 
+
+38 
+
+
+
+ 
+ 
+ 
+
+ 
+ ATENÇÃO! 
+
+Para os PA 03 a 05/2021, a opção de emissão em duas quotas (que permite a geração da 2ª) só ficará disponível 
+após a data de vencimento da 1ª quota. 
+ 
+Até a data de vencimento da primeira quota, o aplicativo emitirá um DAS para o vencimento da primeira quota e será 
+considerado, para fins de amortização, como um “DAS Quota Única”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+39 
+ 
+
+
+
+ 
+
+Acesso em 21/07/2021. 
+ 
+Para mais informações sobre o pagamento do valor apurado nos períodos de apuração 03 a 05/2021 em quotas, ver 
+item 6.8.6. 
+ 
+ 
+6.8.5. Emissão de DAS Após Compensação 
+ 
+Se após a compensação restar saldo devedor, a empresa deverá gerar o DAS da diferença da seguinte forma: 
+
+ 
+Compensação com débito vencido: Gerar DAS Cobrança no PGDAS-D na opção "Débitos". 
+A funcionalidade “Débitos > Consultar/Gerar DAS” identifica o saldo devedor do débito que está em cobrança na RFB 
+(não inclui débitos já enviados para inscrição em dívida ativa, que devem ser recolhidos separadamente), 
+considerando todas as amortizações que o débito possa ter sofrido ao longo do tempo, como pagamentos, 
+compensações ou parcelamentos.  
+
+ 
+Nessa funcionalidade, o DAS (denominado DAS Cobrança) será gerado com o valor correto, deduzido o valor já 
+compensado. 
+
+ 
+Compensação com débito a vencer: Gerar DAS Avulso no aplicativo "Emissão de DAS Avulso" no Portal do 
+Simples Nacional. 
+
+ 
+Para identificar o saldo devedor de CADA TRIBUTO, ENTE A ENTE (por exemplo, ISS - São Paulo/SP), após a 
+compensação, a ser informado no aplicativo DAS Avulso, o contribuinte deverá: 
+ 
+1 - Obter os valores devidos por tributo e por ente antes da compensação: no PGDAS-D, na opção "Declaração 
+Mensal > Consultar Declarações", clicar em "Extrato" da operação "Geração de DAS", campo 6.1 (caso o DAS não 
+tenha sido gerado, utilizar a opção "Declaração Mensal > Gerar DAS"); 
+2 - Deduzir os valores compensados para cada tributo/ente: no aplicativo Compensação a Pedido, na opção 
+"Consulta Compensações", o valor compensado é apresentado no campo "Valor Amortizado". 
+ 
+
+ ATENÇÃO! 
+A geração do DAS Avulso é de inteira responsabilidade do contribuinte. 
+
+40 
+
+
+
+ 
+As informações da compensação NÃO aparecem no extrato do DAS do PGDAS-D (Declaração Mensal > Consultar 
+Declarações) e devem ser consultadas no próprio aplicativo Compensação a Pedido. 
+ 
+ 
+6.8.6. DAS Quotas - PA 03 a 05/2021 
+ 
+A Resolução CGSN/SE 158/2021 prorrogou o prazo para pagamento dos tributos apurados no Simples Nacional para 
+os PA 03 a 05/2021 e permitiu que o pagamento fosse efetuado em até duas quotas da seguinte maneira: 
+ 
+
+Período de Apuração Vencimento Vencimento Prorrogado 
+(PA) Original 1ª Quota     2ª Quota 
+
+03/2021 20/04/2021 20/07/2021 20/08/2021 
+04/2021 20/05/2021 20/09/2021 20/10/2021 
+05/2021 21/06/2021 22/11/2021 20/12/2021 
+
+ 
+Caso o contribuinte informe algum dos PA 03 a 05/2021 no menu “Declaração Mensal > Gerar DAS” do PGDAS-D, o 
+sistema permitirá a geração dos seguintes tipos de DAS: 
+
+• DAS Quota Única: será apresentada a opção de recolhimento em Quota Única até a data de vencimento da 
+1ª quota e desde que não haja recolhimento anterior por meio de DAS 1ª Quota, DAS 2ª Quota ou DAS de 
+Diferenças 1ª e 2ª Quotas; 
+
+• DAS 1ª Quota e DAS 2ª Quota: a opção pelo recolhimento em duas quotas sempre será apresentada ao 
+contribuinte, desde que o valor total devido seja igual ou superior a R$ 20,00; 
+
+• DAS de Diferenças 1ª e 2ª Quotas: após o vencimento da 1ª quota e quando o valor total devido for inferior a 
+R$ 20,00, os valores devidos da 1ª e da 2ª quota serão somados em um único DAS, denominado DAS de 
+Diferenças. Apesar do recolhimento ser feito em um único documento, o valor de cada quota será controlado 
+separadamente, cada qual com seu vencimento, para fins de cálculo dos acréscimos legais e amortizações. 
+
+ 
+Observação: Todos os DAS emitidos e recolhidos pelo contribuinte antes do ajuste do sistema, que ocorreu em 
+01/07/2021, serão considerados para fins de controle e amortização como “DAS Quota Única”. 
+ 
+
+ ATENÇÃO! 
+A opção de recolher o valor apurado em quotas implica a cobrança de juros a partir do primeiro dia do mês seguinte 
+ao de vencimento da 1ª quota, ou seja, se a empresa optar pelo pagamento em quotas e efetuar o pagamento da 2ª 
+quota no seu vencimento, será cobrado 1% de juros. 
+ 
+Quota Única, Primeira e Segunda Quotas: Até a data de vencimento da 1ª quota, serão apresentadas as opções 
+para pagamento em “Quota Única” ou em “Duas Quotas”. 
+
+41 
+ 
+
+
+
+ 
+
+(Acesso em 20/07/2021) 
+
+ 
+No exemplo do PA 03/2021, o contribuinte tem a opção pelo recolhimento do valor integral em quota única, sem 
+acréscimos, até o vencimento prorrogado (20/07/2021), ou a opção de recolhimento em duas quotas. 
+ 
+Nessa situação, o DAS da segunda quota foi calculado com data de acolhimento para o seu vencimento (20/08/2021) 
+com a cobrança dos juros.  
+ 
+Caso queira, o contribuinte pode utilizar a opção “consolidar para outra data” para gerar um DAS para recolhimento 
+em outra data. Se o DAS segunda quota for gerado e consolidado para pagamento após a data de vencimento, mas 
+até o último dia útil do mês de vencimento da primeira quota, não haverá cobrança de juros. No exemplo do PA 
+03/2021, o intervalo será entre 21 e 30/07/2021. 
+ 
+Para a opção “quota única”, não é possível consolidar o documento para pagamento após a data de vencimento. 
+ 
+Primeira e Segunda Quotas: Após o vencimento da 1ª quota, o sistema apresenta apenas a opção para pagamento 
+em “Duas Quotas”. 
+ 
+
+42 
+
+
+
+(Acesso em 21/07/2021) 
+
+ 
+A depender da data em que o contribuinte acessar a opção “Gerar DAS”, o sistema apresentará o cálculo das quotas 
+da seguinte maneira: 
+ 
+a) Após o vencimento da primeira quota e até o último dia útil do mesmo mês, o DAS da primeira quota será 
+calculado com validade para pagamento no mesmo dia, pois a cobrança da multa é diária, de 0,33% ao dia. No 
+exemplo do PA 03/2021, essa situação ocorreria entre 21 e 30/07/2021. 
+ 
+Caso o contribuinte queira recolher em outra data, dentro do mês de julho, pode utilizar a opção “consolidar para 
+outra data”. 
+ 
+O DAS da 2ª quota será gerado com data de validade para 30/07/2021, por ser mais vantajoso ao contribuinte, 
+possibilitando o recolhimento desta quota sem nenhum acréscimo legal. 
+ 
+b) No mês seguinte ao do vencimento da 1ª quota e até o vencimento da 2ª quota, o DAS da 1ª quota será calculado 
+com validade para pagamento no dia útil seguinte, pois a cobrança da multa é diária, de 0,33% ao dia. Além da multa, 
+serão cobrados juros de 1%. No exemplo do PA 03/2021, essa situação ocorreria entre 01 e 20/08/2021. 
+ 
+Caso o contribuinte queira recolher em outra data, dentro do mesmo mês, poderá utilizar a opção “Consolidar para 
+outra data”. 
+ 
+O DAS da 2ª quota será calculado para a sua data de validade, com a cobrança de juros de 1%. 
+ 
+c) Após o vencimento da 2ª quota, ambos os DAS terão acréscimos de multa e juros. A multa será de 0,33% ao dia, a 
+partir do dia útil seguinte ao vencimento de cada quota, limitada a 20%. Os juros serão calculados a partir do mês 
+seguinte ao do vencimento da 1ª quota (juros Selic e 1% no mês do pagamento). No exemplo do PA 03/2021, essa 
+situação ocorre após 20/08/2021. 
+ 
+
+43 
+ 
+
+
+
+Observação: caso o contribuinte faça a opção pelo pagamento em Duas Quotas, gere e pague a 1ª quota, ao 
+acessar novamente a opção “Gerar DAS”, após o reconhecimento do pagamento, será apresentada a opção para a 
+geração da 2ª quota restante. 
+ 
+
+ 
+Eventualmente, caso o contribuinte tenha feito primeiro o recolhimento da 2ª quota, será apresentado o cálculo para o 
+recolhimento da 1ª quota que faltou. 
+ 
+DAS de Diferenças da 1ª e 2ª Quotas: O artigo 44 da Resolução CGSN 140/2018 veda a emissão de DAS com 
+valor total inferior a R$ 10,00. Portanto, caso o valor total devido para os PA 03 a 05/2021 seja inferior a R$ 20,00, o 
+PGDAS-D não permitirá a emissão de DAS da primeira e segunda quotas. Em seu lugar, serão emitidos DAS quota 
+única ou DAS de Diferenças 1ª e 2ª quotas, a depender da data de acesso ao sistema. 
+ 
+a) Até a data de vencimento da 1ª quota será apresentada a opção de recolhimento em Quota Única. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44 
+
+
+
+ 
+b) Após o vencimento da 1ª quota será apresentada a opção para pagamento do DAS de Diferenças da 1ª e 2ª 
+quotas. 
+
+(Acesso em 29/09/2021) 
+
+ 
+O DAS de Diferenças possui um segundo nível, como o DAS Cobrança, permitindo o pagamento das duas quotas, 
+cada qual com seus vencimentos e atualizações, em um único documento. 
+
+45 
+ 
+
+
+
+ 
+ ATENÇÃO! 
+
+Em caso de retificação da declaração, a dedução dos pagamentos já realizados será feita pelo PGDAS-D da seguinte 
+forma: 
+ 
+
+• DAS Quota Única e DAS 1ª Quota – o valor pago será utilizado na amortização do débito da 1ª quota e, se 
+sobrar saldo credor, na amortização do débito da 2ª quota; 
+
+• DAS 2ª Quota – o valor pago será utilizado apenas na amortização do débito da 2ª quota (no PGDAS-D).  
+Em caso de erro no recolhimento (por exemplo, contribuinte utilizou o serviço Emissão de DAS Avulso e 
+gerou um DAS 2ª Quota para todo o valor devido, ao invés de gerar dois DAS, 1ª e 2ª quotas), o contribuinte 
+pode recolher eventual diferença por meio de DAS Avulso e aguardar a carga do débito no sistema de 
+cobrança (o sistema de cobrança fará o aproveitamento do valor a maior do DAS de 2ª Quota no débito da 1ª 
+quota, desde que para o mesmo tributo/ente). 
+
+• DAS de Diferenças 1ª e 2ª Quotas – o valor pago relativo a cada quota será deduzido no débito 
+correspondente à mesma quota. 
+
+ 
+ 
+
+ 
+(Acesso em 25/08/2021) 
+
+ 
+No exemplo, o valor total da declaração original era de R$ 402,00 (1ª quota de R$ 201,02 e 2ª quota de R$ 200,98). 
+Após o recolhimento da 1ª quota, a empresa retificou a declaração, alterando o valor devido para R$ 520,00 (1ª quota 
+de R$ 260,01 e 2ª quota de R$ 259,99). Após a dedução do pagamento já realizado, são apresentados os valores 
+devidos em cada quota. 
+ 
+
+ ATENÇÃO! 
+O contribuinte que gerou e pagou DAS avulso, com o valor da primeira quota antes da atualização do sistema em 
+01/07/2021, deve observar o seguinte: 
+ 
+
+46 
+
+
+
+• Até a data de vencimento da primeira quota, o sistema permitirá a emissão de DAS de quota única, no valor 
+do saldo devedor, com data de vencimento da primeira quota.  
+
+ 
+• Após o vencimento da primeira quota, e até o último dia útil do mês, o sistema permitirá a emissão de DAS 
+
+segunda quota, com data limite para acolhimento no último dia do mês, sem juros. 
+ 
+
+• A partir do primeiro dia do mês seguinte ao vencimento da primeira quota, o sistema permitirá a emissão do 
+DAS segunda quota com a incidência de juros. 
+ 
+
+ 
+ 
+6.9. CONSULTAR DECLARAÇÕES  
+ 
+Permite ao usuário consultar o recibo, a declaração transmitida, o extrato do DAS e a notificação da Multa por Atraso 
+da Declaração (MAED), se houver, em documento no formato “pdf”. 
+ 
+
+ 
+ 
+Digite o ano-calendário a ser consultado, e clique em “Continuar”. 
+
+ 
+ 
+ 
+
+47 
+ 
+
+
+
+ 
+ 
+Serão listadas as seguintes informações para cada período de apuração: 
+
+• Operação – a operação poderá ser: Declaração Original, Declaração Retificadora, Geração de DAS, DAS 
+Avulso, DAS Cobrança, DAS Medida Judicial e DAS Processo. 
+
+• Nº da Declaração – será apresentado o número da Declaração Original ou Retificadora transmitida. 
+• Data/hora Transmissão da Declaração 
+• Recibo - ao clicar sobre o ícone , o sistema exibe em formato “pdf” o Recibo da Declaração.  
+• Declaração - ao clicar sobre o ícone , o sistema exibe em formato “pdf” a Declaração transmitida. 
+• MAED - ao clicar sobre o ícone , o sistema exibe em formato “pdf” a Multa por Atraso na Entrega da 
+
+Declaração. 
+• Nº DAS – será exibido o número do DAS, quando houver DAS gerado. 
+• Data/hora emissão do DAS 
+• Extrato - ao clicar sobre o ícone , o sistema exibe: 
+
+◦ Nas operações Declaração Original e Declaração Retificadora, o extrato em formato “pdf” com as 
+informações da declaração e as informações do DAS gerado, se houver. 
+
+◦ Nas operações Geração de DAS, DAS Avulso e DAS Cobrança, o extrato, na tela, apenas com as 
+informações do DAS gerado. Nessas situações não haverá geração de arquivo em “pdf”. 
+
+• Pago - indica se o DAS gerado foi pago ou não. 
+ 
+ 
+ 
+
+ IMPORTANTE! 
+No menu “Consultar Declarações” não serão apresentados DAS de parcelamento de Simples Nacional e DAS 
+da Dívida Ativa da União (DAS-DAU). 
+ 
+Eventual compensação realizada pelo contribuinte não será exibida nesse menu. Para consultar as 
+compensações realizadas, acesse o aplicativo “Compensação a Pedido”, disponível no Portal do Simples 
+Nacional. 
+
+ 
+6.9.1. Detalhamento do Extrato do DAS para PA a partir de 2018 
+ 
+Cabeçalho: 
+Data de geração do extrato, data da apuração, se é apuração original ou retificadora e o número da versão do 
+PGDAS-D 2018. 
+ 
+ 
+
+48 
+
+
+
+ 
+Item 1 – Informações do contribuinte: 
+CNPJ básico, Nome Empresarial, Data de abertura no CNPJ, Regime de Apuração, se consta como optante ou não 
+pelo Simples Nacional no período de apuração. 
+ 
+
+ 
+Item 2 – Informações da apuração: 
+ 
+Nº da apuração (formato: CNPJ básico + ano e mês de apuração + nº sequencial da apuração no período) e o 
+Período de Apuração. 
+ 
+Item 2.1 – Discriminativo de Receitas 
+ 
+Apresenta os valores obtidos de RPA, RBT12, RBT12 proporcionalizada, RBA, RBAA e o Limite de Receita Bruta 
+Proporcionalizado, tanto para mercado interno quanto para o externo. (Definições vide item 1.6 – Siglas, no início 
+deste Manual) 
+ 
+
+ 
+Item 2.2 – Receitas Brutas anteriores: apresenta os valores mensais informados no Mercado Interno (2.2.1) e 
+Mercado Externo (2.2.2). 
+
+ 
+49 
+
+ 
+
+
+
+ 
+Item 2.3 – Folhas de Salários Anteriores: apresenta os valores mensais informados de folhas de salários dos 12 
+meses anteriores ao período de apuração. 
+ 
+Item 2.4 – Fator “r”: informa o valor do fator “r”. 
+Os itens 2.3 e 2.4 apresentarão valores apenas se for informada atividade enquadrada nos Anexos III e V da LC 
+123/2006. 
+
+ 
+ 
+Item 2.5 – Valores Fixos: mostra os valores fixos de ICMS/ISS informados 
+
+ 
+Item 3 – Informações dos Estabelecimentos: 
+ 
+CNPJ, Cidade/Estado de localização do estabelecimento, se está impedido de recolher ICMS/ISS no DAS, e o 
+sublimite anual. 
+Estabelecimento localizado em Estado que não adotou sublimite: 
+
+ 
+Em seguida, relaciona cada tipo de receita informada do estabelecimento e, em cada uma delas, informa o valor da 
+parcela de receita que está sujeita à Substituição Tributária, Tributação Monofásica, Isenção/Redução de ICMS/ISS, 
+Retenção de ISS, Exigibilidade Suspensa e Imunidade, se for o caso. Também consolida, para cada estabelecimento, 
+os valores devidos por tributo e o valor total devido. 
+
+ 
+
+50 
+
+
+
+ 
+ 
+Havendo mais de um estabelecimento, serão apresentadas as informações de cada estabelecimento na sequência. 
+ 
+Item 4 – Resumo da Apuração (total geral da empresa): 
+ 
+Apresenta a soma dos valores devidos de todos os estabelecimentos da PJ. 
+
+ 
+ 
+Item 5 – DAS que foram reconhecidos como pagos até a data da apuração e utilizados no cálculo: 
+ 
+Este item não se aplica para a apuração original, pois não há DAS pago anteriormente. 
+Sendo a apuração retificadora, e havendo DAS pago para o período, é mostrado o perfil do DAS que foi reconhecido 
+como pago e deduzido do cálculo. 
+
+ 
+ 
+Item 6 – Informações sobre o DAS gerado na apuração: 
+ 
+É o resultado do item 4 menos o item 5 (se houver), tributo a tributo, ente a ente. Constam também o nº do DAS 
+gerado nesta apuração, a data de vencimento, a data limite para pagamento e o valor original devido por tributo. Os 
+valores são totalizados em Valor Principal, multa e juros de mora (se houver acréscimos legais). 
+ 
+
+ 
+Item 6.1 – Discriminação dos valores calculados no DAS gerado:  
+ 
+Apresenta a discriminação dos valores atualizados do DAS gerado, por tributo e por ente federado (ICMS e ISS). 
+ 
+
+ 
+Item 6.2 – Informações da arrecadação do DAS gerado nesta apuração:  
+ 
+Enquanto o DAS gerado nesta apuração não for reconhecido como pago, será exibido: 
+
+51 
+ 
+
+
+
+ 
+ 
+Quando o DAS gerado nesta apuração for reconhecido como pago, serão mostrados os dados de arrecadação deste 
+DAS (Data do Pagamento, Banco e Agência em que foi pago e o valor). 
+ 
+ 
+6.10. RETIFICAR DECLARAÇÃO 
+ 
+Para retificar uma declaração já transmitida no PGDAS-D, acesse o menu “Declaração Mensal > Declarar/Retificar”.  
+ 
+O sistema exibirá a mensagem "Já existe uma declaração transmitida para esse PA. Você deseja retificar a 
+declaração anterior?". Para confirmar, clique em "Sim". Após retificar os dados necessários, clicar no botão 
+"Transmitir". 
+ 
+
+ 
+ 
+6.10.1. Retificação do Valor da Receita Bruta 
+ 
+Sempre que o usuário retificar a receita bruta de um determinado PA, tendo declarações posteriores já transmitidas, o 
+sistema exigirá a retificação dessas declarações transmitidas até o mês de dezembro do ano seguinte. A retificação 
+da receita de um determinado PA altera o valor devido das declarações posteriores, em virtude de a alíquota aplicável 
+ser determinada com base na Receita Bruta Acumulada dos 12 meses anteriores ao PA de cálculo (RBT12). Assim, 
+as declarações posteriores devem ser transmitidas novamente, ainda que não haja alteração a ser feita, para que o 
+sistema recalcule os tributos devidos, considerando a nova RBT12 apurada. 
+ 
+Exemplo: O contribuinte optante realizou as declarações do período de 01/2018 a 10/2018. Em momento posterior, 
+retificou a receita de serviços apurada do PA 03/2018, de R$ 50.000,00 para R$ 80.000,00. Assim, ao realizar a 
+declaração referente ao PA 11/2018 o sistema exigirá a retificação das declarações dos PA 04/2018 a 10/2018, para 
+que o sistema reprocesse os cálculos dos valores devidos. 
+ 
+
+ 
+ ATENÇÃO! 
+
+Atualmente as declarações são carregadas no sistema de cobrança após a transmissão, ainda que os débitos 
+estejam a vencer.  
+Em geral, a carga ocorre em até 5 dias úteis após a transmissão. Portanto, se o prazo acima já se esgotou e a 
+declaração ainda não foi considerada no sistema de cobrança, pode ter ocorrido uma das seguintes situações: 
+ 
+
+• Declaração entregue na condição de não optante 
+Empresa que entregou declaração como não optante (no PGDAS-D, opção Declarar/Retificar > Consultar 
+Declarações, acesse a declaração e veja o campo “Optante pelo Simples Nacional = Não”) e, posteriormente, foi 
+
+52 
+
+
+
+incluída no regime de forma retroativa, em razão de decisão em processo de impugnação, deve retificar e transmitir 
+nova declaração (como optante). A declaração será carregada em torno de 5 dias. 
+ 
+
+• Parcelamento Ativo 
+Caso o contribuinte transmita uma retificadora com valor total a menor para período de apuração (PA) que está 
+incluído em parcelamento ativo, a retificadora não será carregada de forma automática.   
+O contribuinte deve se dirigir a uma unidade de atendimento da RFB e solicitar, por meio de processo, a aplicação da 
+retificadora, desde que comprove, de forma inequívoca, a ocorrência do erro no preenchimento da declaração (art. 
+39, §3º da Resolução CGSN 140/2018). 
+ 
+
+• Compensação Ativa 
+Caso o contribuinte transmita uma retificadora com valor total a menor para período de apuração (PA) que está 
+compensado (compensação ativa, não cancelada), a retificadora não será carregada de forma automática. 
+ 
+
+• Informação de número de ação judicial que não possui efeito suspensivo 
+Caso o contribuinte tenha transmitido uma declaração informando número de ação judicial inválido ou que não 
+permite a suspensão do débito, a situação do débito será alterada para “devedor” e eventuais retificadoras entregues 
+posteriormente não serão carregadas de forma automática (tratamento manual).  
+O contribuinte deve se dirigir a uma unidade de atendimento da RFB e solicitar, por meio de processo, a aplicação da 
+retificadora. 
+ 
+
+• Tributo enviado para inscrição em Dívida Ativa 
+Caso o contribuinte transmita uma retificadora com valor total a menor para período de apuração (PA) que possui 
+tributo enviado para inscrição em Dívida Ativa (da União; dos Estados ou dos Municípios em caso de convênio com a 
+PGFN, nos termos do artigo 41, §3º da LC 123/06), a retificadora não será carregada de forma automática. 
+ 
+O contribuinte deve se dirigir a uma unidade de atendimento da RFB e solicitar, por meio de processo, a revisão do 
+débito, desde que comprove, de forma inequívoca, a ocorrência do erro no preenchimento da declaração (art. 39, §3º 
+da Resolução CGSN 140/2018). 
+ 
+Para ICMS e ISS inscritos em dívida ativa municipal ou estadual, em razão de convênio com a PGFN, a revisão deve 
+ser solicitada ao respectivo ente convenente. 
+ 
+ 
+6.10.2. Alterar Município de Destinação de ISS 
+ 
+Ao segregar as receitas sujeitas ao ISS, o aplicativo permite escolher a opção “com ISS devido ao próprio município 
+do estabelecimento” (situação em que o próprio aplicativo identifica o município de destinação do ISS, que será igual 
+ao da localidade do estabelecimento no cadastro da RFB) ou a opção “com ISS devido a outro município” (ISS devido 
+a município diferente daquele em que se situa o estabelecimento). 
+ 
+Ao selecionar a opção “com ISS devido a outro município”, é exigida a informação do município ao qual o ISS é 
+devido. 
+ 
+Caso tenha sido informado o município errado, o contribuinte deverá efetuar nova declaração, retificando esta 
+informação. Se o DAS, apurado com erro na informação do município, já tiver sido recolhido, ao efetuar a retificação, 
+será gerado um DAS complementar para recolhimento com o valor de ISS devido ao município correto, cabendo ao 
+contribuinte solicitar a restituição do ISS recolhido indevidamente junto ao respectivo município. 
+ 
+ 
+
+53 
+ 
+
+
+
+6.10.3. Retificar Declaração com DAS Pago  
+ 
+Retificação no valor de receita de meses anteriores provoca alteração na receita bruta acumulada nos 12 meses 
+anteriores ao período de apuração (RBT12), utilizada para definir a alíquota nominal e efetiva. Assim, será necessária 
+a retificação das declarações posteriores para que seja realizado novo cálculo do valor devido desses períodos, ainda 
+que estas receitas mensais não tenham sofrido alteração. Se o DAS inicialmente gerado já tiver sido recolhido, o 
+aplicativo gerará um DAS complementar com a diferença. 
+ 
+Há outras informações que, se retificadas, também podem acarretar a geração de DAS complementar, como, por 
+exemplo, alteração na informação da atividade exercida, pois ocasiona alteração dos tributos devidos (IRPJ, CSLL, 
+Cofins, Pis/Pasep, CPP, IPI, ICMS e ISS) e dos percentuais incidentes sobre cada tributo; alteração na marcação de 
+qualificações tributárias, tais como substituição tributária, isenção, etc. 
+ 
+Exemplo: 
+O contribuinte efetuou recolhimento do DAS conforme anexo IV, posteriormente constatou que se enquadrava no 
+anexo III. Ao retificar os dados no aplicativo de cálculo, verificou a situação abaixo.  
+ 
+
+ Apuração Anexo IV Apuração Anexo III Valor Devido após Retificação 
+IRPJ 0,00 0,00 0,00 
+CSLL 217,58 0,00 0,00 
+COFINS 225,86 167,91 0,00 
+PIS/PASEP 0,00 0,00 0,00 
+CPP 0,00 473,02 473,02 
+ICMS 0,00 0,00 0,00 
+IPI 0,00 0,00 0,00 
+ISS 329,93 329,93 0,00 
+Total 773,37 970,85 473,02 
+
+ 
+Por que foi gerado um DAS complementar no valor de R$ 473,02 em vez de R$ 197,48 (R$ 970,85 – 773,37)? 
+ 
+Neste caso, não é possível pagar apenas a diferença de R$197,48 entre a apuração original e a retificadora, após o 
+reenquadramento no Anexo III. 
+ 
+O valor calculado na retificação será comparado, tributo a tributo, com o valor do DAS reconhecido como pago. 
+Havendo diferença a menor em algum dos tributos, será gerado DAS referente ao valor complementar. 
+ 
+O sistema reconheceu o pagamento do DAS original (R$ 773,37), e, ao calcular o valor devido a partir do 
+enquadramento no Anexo III (R$ 970,85), apurou a diferença de R$ 473,02 (valor original) referente à cota 
+patronal/CPP. 
+ 
+A retificação do valor informado a título de folha de salários também ocasionará alteração dos tributos devidos, 
+quando o Fator “r” resultante indicar a tributação por outro Anexo (III ou V). 
+ 
+Em relação aos valores recolhidos indevidamente ou a maior, o contribuinte poderá solicitar a restituição diretamente 
+ao respectivo ente federado. 
+ 
+ 
+6.11. DECLARAÇÃO RETIDA EM MALHA FISCAL 
+ 
+
+54 
+
+
+
+Nos termos do artigo 39-A, da Resolução CGSN nº 140, de 22 de maio de 2018, as declarações retificadoras 
+transmitidas pelo PGDAS-D poderão ser retidas para análise com base na aplicação de parâmetros internos 
+estabelecidos pela RFB, pelos Estados, pelo Distrito Federal e pelos Municípios.  
+ 
+O contribuinte será comunicado da retenção e, se necessário, poderá ser intimado a prestar esclarecimentos ou 
+apresentar documentos sobre as possíveis inconsistências ou indícios de irregularidade detectados durante a análise.  
+ 
+Conforme dispõe o parágrafo 3°, do artigo 39-A, da Resolução CGSN nº 140, de 22 de maio de 2018, não 
+produzirão efeitos as declarações retidas, enquanto pendentes de análise ou quando rejeitadas. 
+ 
+A declaração retida poderá ser liberada quando todas as Administrações Tributárias que possuam tributos retidos 
+verificarem, de plano ou após análise das justificativas prestadas, que cessaram os motivos que determinaram sua 
+retenção. Em caso de liberação não haverá comunicação formal. A situação da declaração poderá ser consultada no 
+extrato do PGDAS-D. 
+ 
+As comunicações de retenção, intimação e rejeição serão realizadas pelo DTE do Simples Nacional, disponível no 
+Portal do Simples Nacional > Serviços > Comunicações. 
+ 
+A comunicação de retenção conterá a identificação do número das declarações retidas e dos respectivos períodos de 
+apuração. No exemplo a seguir, o contribuinte foi comunicado da retenção das declarações dos PA 11 e 12/2017, 05 
+a 08/2019: 
+
+ 
+ 
+Caso seja intimado a prestar esclarecimentos, o contribuinte receberá mensagem indicando o Ente Federativo 
+responsável pela emissão e o link para acesso ao Termo de Intimação. O Termo de Intimação conterá a identificação 
+da autoridade responsável, a(s) declaração(ões) retida(s), os documentos e esclarecimentos que devem ser 
+prestados, o prazo e o local para atendimento. 
+ 
+No exemplo a seguir, o contribuinte foi intimado pelo Município de Belo Vale/MG e, ao clicar no link destacado, terá 
+acesso ao Termo de Intimação nº 195/2020 (fictício): 
+
+55 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+Independente de intimação, a declaração retida poderá ser rejeitada pelo Ente Federativo responsável pela retenção. 
+Nesse caso, o contribuinte receberá mensagem no DTE-SN, que indicará o Ente responsável pelo ato e o link para 
+acesso ao Despacho Decisório de rejeição. O Despacho Decisório conterá a identificação da autoridade responsável, 
+a(s) declaração(ões) rejeitada(s), a fundamentação, o prazo e o local para apresentação de impugnação, caso o 
+contribuinte discorde da decisão. 
+ 
+No exemplo a seguir, o contribuinte recebeu do Estado de Minas Gerais o Despacho Decisório nº 174/2020 (fictício), 
+que poderá ser acessado ao clicar no link destacado: 
+ 
+
+ 
+ 
+ 
+6.11.1. Situação da Declaração Retida 
+ 
+
+56 
+
+
+
+A situação da declaração retida poderá ser consultada no menu Declaração Mensal > Consultar Declarações. A 
+coluna “Malha” apresentará um ícone com a situação atual de cada declaração transmitida, que tenha sido retida.  
+
+ 
+ 
+ 
+Ao posicionar a seta do mouse sobre cada ícone será exibida a descrição da situação da declaração.  
+ 
+
+ 
+As situações possíveis são as seguintes: 
+ 
+Retida em Malha – indica que a declaração incidiu em algum parâmetro de retenção e ainda não houve intimação, 
+liberação ou rejeição. Essa situação poderá ser alterada para “Sem Efeito”, “Intimada”, “Liberada” ou “Rejeitada”, 
+conforme o caso. Enquanto a declaração estiver nessa situação, não produzirá efeitos. 
+ 
+Sem Efeito – indica que a declaração foi retida em malha, mas foi substituída por outra declaração retificadora 
+posterior. Essa situação não será alterada e a declaração não produzirá efeitos. 
+ 
+Intimada – indica que a declaração foi retida e há Termo de Intimação emitido por pelo menos uma Administração 
+Tributária. Indica, ainda, que não houve liberação de todos os tributos ou rejeição de pelo menos um deles. Essa 
+situação poderá ser alterada para “Sem Efeito”, “Liberada” ou “Rejeitada”, conforme o caso.Enquanto a declaração 
+estiver nessa situação, não produzirá efeitos. 
+ 
+Liberada – indica que a declaração foi retida em malha, mas que todas as Administrações Tributárias responsáveis 
+pela retenção liberaram seus respectivos tributos. Após a liberação, a situação não será mais alterada e a declaração 
+produzirá efeitos. 
+ 
+
+57 
+ 
+
+
+
+Rejeitada – indica que a declaração foi retida em malha e que pelo menos uma Administração Tributária a rejeitou. 
+Nesse caso o contribuinte receberá despacho decisório de rejeição. Essa situação não será alterada e a declaração 
+não produzirá efeitos.  
+ 
+Para ter acesso às informações sobre o Ente Federativo responsável pela retenção e sobre a situação de cada tributo 
+retido, o usuário deverá clicar sobre o ícone.  
+ 
+Exemplos: 
+A declaração do PA 06/2019 está na situação “Retida em Malha”. Os tributos Federais, de competência da Receita 
+Federal e o ICMS-MG, de competência da SEFAZ-MG, estão na situação “Retida em Malha”: 
+ 
+
+ 
+ 
+A declaração do PA 05/2019 está na situação “Sem Efeito”. Os tributos Federais, de competência da Receita Federal, 
+o ICMS-MG, de competência do Estado de Minas Gerais e o ISS – Belo Vale/MG, de competência do Município, 
+estão na situação “Sem Efeito”: 
+
+ 
+ 
+ 
+A declaração do PA 05/2019 está na situação “Intimada”. Os tributos Federais, de competência da Receita Federal, 
+estão na situação “Retido em Malha” e o ICMS-MG, de competência do Estado de Minas Gerais está na situação 
+“Intimado”. O Termo de Intimação emitido pelo Estado de Minas Gerais pode ser consultado no DTE-SN: 
+ 
+ 
+
+58 
+
+
+
+ 
+ 
+A declaração do PA 01/2019 está na situação “Liberada”. Os tributos Federais, de competência da Receita Federal, o 
+ICMS-MG, de competência do Estado de Minas Gerais e o ISS – Belo Vale/MG, de competência do Município, estão 
+na situação “Liberado”: 
+
+ 
+ 
+Embora o ISS esteja liberado e os Tributos Federais estejam intimados, como o ICMS foi rejeitado, a declaração 
+como um todo foi rejeitada. Ou seja, basta que um tributo seja rejeitado para que toda a declaração seja rejeitada, 
+independente da situação dos demais tributos. 
+ 
+ 
+
+ IMPORTANTE! 
+O Ente Federativo responsável pelos atos de retenção, intimação, liberação e rejeição poderá ser deduzido pela 
+identificação do tributo exibido no campo de mesmo nome. 
+Os Tributos Federias são de competência da Receita Federal do Brasil.  
+O ICMS é de competência da Administração Tributária do Estado indicado pela sigla da UF. 
+O ISS é de competência da Administração Tributária do Município indicado. 
+ 
+Em caso de rejeição de uma declaração, o contribuinte será alertado, no Despacho Decisório e no PGDAS-D, sobre a 
+necessidade de transmitir uma declaração retificadora para substituir a que foi rejeitada. Além da declaração 
+rejeitada, o PGDAS-D poderá exigir a retificação dos períodos de apuração seguinte (ver item 6.10.1 – Retificação do 
+Valor da Receita Bruta). 
+ 
+Após a rejeição de uma declaração será exibido um ícone de Alerta no menu Declaração Mensal do PGDAS-D.  
+ 
+
+59 
+ 
+
+
+
+ 
+ 
+Se o usuário clicar no ícone de alerta, será exibida mensagem indicando a existência de declaração rejeitada para 
+determinado PA e alertando sobre a necessidade de retificação. Essa mensagem também será exibida sempre que o 
+contribuinte iniciar uma apuração que não seja a do PA rejeitado. O alerta deixará de ser exibido quando a retificação 
+do PA rejeitado for transmitida. 
+ 
+No exemplo abaixo, a mensagem alerta para a rejeição e necessidade de retificação do PA 07/2019: 
+
+ 
+ 
+
+60 
+
+
+
+7. CONSULTAR DÉBITOS 
+
+ 
+ 
+O menu “Débitos” permite ao contribuinte consultar seus débitos do Simples Nacional em cobrança no âmbito da RFB 
+e imprimir os DAS de cobrança para a regularização dos referidos valores. 
+ 
+Utilize também essa funcionalidade caso tenha feito compensação com débitos vencidos, pois desta forma o DAS 
+será gerado com o valor correto, deduzido o valor já compensado. Em caso de compensação com débitos a vencer, 
+eventual saldo devedor remanescente deve ser recolhido por meio de DAS avulso gerado pelo contribuinte. 
+ 
+Não constarão no DAS de cobrança os débitos de ICMS e ISS transferidos aos entes federados que firmaram 
+convênio com a Procuradoria Geral da Fazenda Nacional – PGFN. Também não constarão no DAS de cobrança os 
+débitos inscritos em Dívida Ativa da União. Os débitos transferidos aos entes federados devem ser recolhidos em 
+guia própria, ao Estado/Município. Os débitos transferidos à PGFN devem ser recolhidos em DAS da Dívida Ativa da 
+União, gerado no Portal da PGFN. 
+ 
+Ao selecionar “Débitos > Consultar/Gerar DAS” é exibida a lista dos débitos anteriores a 2018, posteriores a 2018, e 
+débitos provenientes de processo, separadamente. 
+ 
+
+ IMPORTANTE! 
+Os saldos devedores de débitos parcelados também serão apresentados na funcionalidade “Débitos”, com a 
+indicação do número do Parcelamento. 
+ 
+Tratando-se de PA retificado, certifique-se de que a declaração retificadora já está sendo considerada antes de gerar 
+o DAS nessa funcionalidade. 
+ 
+O menu “Débitos” exibirá a informação “Devedor” quando o contribuinte possuir débitos de Simples Nacional em 
+cobrança no âmbito da RFB. 
+ 
+
+61 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+Para pagamento de débitos anteriores a 2018, será necessária a geração de um DAS para cada período 
+de apuração (PA), obrigatoriamente. 
+ 
+Para pagamento de débitos a partir de 2018, o contribuinte poderá selecionar quantos períodos desejar, 
+sendo gerado um único DAS para estes períodos. 
+ 
+ 
+ 
+
+62 
+
+
+
+8. CÁLCULO DO VALOR DEVIDO 
+ 
+A partir do PA 01/2018, serão utilizadas as tabelas a seguir da Resolução CGSN 140/2018: 
+ 
+
+• Anexo I: para atividades de revenda de mercadorias; 
+• Anexo II*: para atividades de venda de mercadorias industrializadas pelo contribuinte; 
+• Anexo III: para atividades “não sujeitas ao fator r” ou “sujeitas ao fator r” cujo fator “r” seja igual ou superior a 
+
+0,28; 
+• Anexo IV: para atividades sujeitas ao Anexo IV; 
+• Anexo V: para atividades “sujeitas ao fator r” cujo fator “r” seja inferior a 0,28. 
+
+ 
+*A receita de venda de mercadoria importada por estabelecimento comercial optante pelo Simples Nacional será 
+tributada pelo Anexo II (Solução de Divergência Cosit nº 4, de 2014); 
+ 
+Equiparam-se a estabelecimento industrial os estabelecimentos comerciais de produtos cuja industrialização tenha 
+sido realizada por outro estabelecimento da mesma firma ou de terceiro, mediante a remessa, por eles efetuada, de 
+matérias-primas, produtos intermediários, embalagens, recipientes, moldes, matrizes ou modelos. A receita de venda 
+de mercadoria por estabelecimento comercial equiparado a industrial, optante pelo Simples Nacional, será tributada 
+pelo Anexo II da Lei Complementar nº 123, de 2006 (Solução de Consulta Cosit nº 212, de 2014). 
+ 
+a) São enquadradas como prestação de serviços sujeitos ao fator “r” as seguintes atividades (art. 25, §1º, V da 
+Resolução CGSN 140/2018): 
+ 
+
+• administração e locação de imóveis de terceiros, assim entendidas a gestão e administração de imóveis de 
+terceiros para qualquer finalidade, incluída a cobrança de alugueis de imóveis de terceiros; academias de 
+dança, de capoeira, de ioga e de artes marciais; academias de atividades físicas, desportivas, de natação e 
+escolas de esportes; elaboração de programas de computadores, inclusive jogos eletrônicos, desde que 
+desenvolvidos em estabelecimento da optante; licenciamento ou cessão de direito de uso de programas de 
+computação; planejamento, confecção, manutenção e atualização de páginas eletrônicas, desde que 
+realizados em estabelecimento da optante; empresas montadoras de estandes para feiras; laboratórios de 
+análises clínicas ou de patologia clínica; serviços de tomografia, diagnósticos médicos por imagem, registros 
+gráficos e métodos óticos, bem como ressonância magnética; serviços de prótese em geral; fisioterapia; 
+medicina, inclusive laboratorial, e enfermagem; medicina veterinária; odontologia e prótese dentária; 
+psicologia, psicanálise, terapia ocupacional, acupuntura, podologia, fonoaudiologia, clínicas de nutrição e de 
+vacinação e bancos de leite; serviços de comissaria, de despachantes, de tradução e de interpretação; 
+arquitetura e urbanismo; engenharia, medição, cartografia, topografia, geologia, geodésia, testes, suporte e 
+análises técnicas e tecnológicas, pesquisa, design, desenho e agronomia; representação comercial e demais 
+atividades de intermediação de negócios e serviços de terceiros; perícia e avaliação; auditoria, economia, 
+consultoria, gestão, organização, controle e administração; jornalismo e publicidade; agenciamento; OUTROS 
+serviços intelectuais não relacionados no art. 25, §1º, III e IV, §2º, I, e § 11 da Resolução CGSN 140/2018. 
+
+ 
+ 
+b) São enquadradas como prestação de serviços não sujeitos ao fator “r” e tributados pelo Anexo III as seguintes 
+atividades (art. 25, §1º, III, §2º, I e §11 da Resolução CGSN 140/2018): 
+ 
+
+• creche, pré-escola e estabelecimento de ensino fundamental, escolas técnicas, profissionais e de ensino 
+médio, de línguas estrangeiras, de artes, cursos técnicos de pilotagem, preparatórios para concursos, 
+gerenciais e escolas livres, exceto as previstas nas alíneas “b” e “c” do inciso V do art. 25, § 1º da Resolução 
+CGSN 140/2018; agência terceirizada de correios; agência de viagem e turismo; transporte municipal de 
+passageiros e de cargas em qualquer modalidade; centro de formação de condutores de veículos 
+automotores de transporte terrestre de passageiros e de carga; agência lotérica; serviços de instalação, de 
+
+63 
+ 
+
+
+
+reparos e de manutenção em geral, bem como de usinagem, solda, tratamento e revestimento em metais; 
+produções cinematográficas, audiovisuais, artísticas e culturais, sua exibição ou apresentação, inclusive no 
+caso de música, literatura, artes cênicas, artes visuais, cinematográficas e audiovisuais; corretagem de 
+seguros; corretagem de imóveis de terceiros, assim entendida a intermediação na compra, venda, permuta e 
+locação de imóveis; serviços vinculados à locação de bens imóveis, assim entendidos o assessoramento 
+locatício e a avaliação de imóveis para fins de locação; locação, cessão de uso e congêneres, de bens 
+imóveis próprios com a finalidade de exploração de salões de festas, centro de convenções, escritórios 
+virtuais, stands, quadras esportivas, estádios, ginásios, auditórios, casas de espetáculos, parques de 
+diversões, canchas e congêneres, para a realização de eventos ou negócios de qualquer natureza; escritórios 
+de serviços contábeis não autorizados pela legislação municipal a pagar o ISS em valor fixo em guia do 
+Município; comercialização de medicamentos e produtos magistrais, produzidos por manipulação de 
+fórmulas, sob encomenda, no próprio estabelecimento; OUTROS serviços não intelectuais e não 
+relacionados no art. 25, §1º, incisos IV e V da Resolução CGSN 140/2018. 
+
+ 
+c) São enquadradas como prestação de serviços sujeitos ao Anexo IV as seguintes atividades: 
+
+• construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada; execução 
+de projetos e serviços de paisagismo; decoração de interiores; serviço de vigilância, limpeza ou conservação; 
+serviços advocatícios. 
+
+OBS – Os serviços relacionados nos subitens 7.02 e 7.05 da lista anexa à LC 116/2013 devem ser informados em 
+item específico. 
+ 
+d) São enquadrados como Escritórios de serviços contábeis autorizados pela legislação municipal a pagar o 
+ISS em valor fixo em guia do Município, quando o Município estabelecer recolhimento em valor fixo de ISS. Neste 
+caso, o recolhimento do ISS será efetuado em guia própria de arrecadação de tributo municipal. O enquadramento é 
+realizado no Anexo III, desconsiderando o percentual de ISS. Esse ajuste é processado automaticamente pelo 
+sistema. Para tanto, o contribuinte deve selecionar, no PGDAS-D, o grupo específico para esta atividade. 
+ 
+Todavia, quando o escritório de serviços contábeis não estiver autorizado pela legislação municipal a efetuar o 
+recolhimento do ISS em valor fixo diretamente ao Município, o optante deve recolher o ISS juntamente com os 
+demais tributos abrangidos pelo Simples Nacional, hipótese em que a empresa deverá selecionar a opção “Prestação 
+de serviços não sujeitos ao fator “r” e tributados pelo Anexo III”. 
+ 
+e) A receita decorrente da locação de bens móveis é tão-somente aquela oriunda da exploração de atividade não 
+definida na lista de serviços anexa à Lei Complementar nº 116/2003. O enquadramento é realizado no Anexo III, 
+desconsiderando o percentual de ISS. Esse ajuste é processado automaticamente pelo sistema. Para tanto, o 
+contribuinte deve selecionar, no PGDAS-D, o grupo específico para esta atividade.  
+ 
+Não deverão ser informadas como receita de locação de bens móveis aquelas relacionadas nos itens 3.02 a 3.05 da 
+Lista anexa à Lei Complementar nº 116/2003: 
+ 
+3.02 – Cessão de direito de uso de marcas e de sinais de propaganda. 
+3.03 – Exploração de salões de festas, centro de convenções, escritórios virtuais, stands, quadras esportivas, 
+estádios, ginásios, auditórios, casas de espetáculos, parques de diversões, canchas e congêneres, para realização 
+de eventos ou negócios de qualquer natureza. 
+3.04 – Locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de 
+ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza. 
+3.05 – Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário. 
+ 
+f) Prestação de Serviços relacionados nos subitens 7.02; 7.05 e 16.1 da lista anexa à LC 116/2003: 
+Os serviços dos subitens 7.02 e 7.05 são enquadrados no Anexo III ou IV, dependendo da atividade exercida, já os 
+serviços do subitem 16.01 são enquadrados no Anexo III. O contribuinte deve selecionar, no PGDAS-D, o grupo 
+específico para essas atividades. 
+
+64 
+
+
+
+ 
+Descrição dos serviços, conforme LC 116/2003: 
+ 
+7.02 – Execução, por administração, empreitada ou subempreitada, de obras de construção civil, hidráulica ou 
+elétrica e de outras obras semelhantes, inclusive sondagem, perfuração de poços, escavação, drenagem e irrigação, 
+terraplanagem, pavimentação, concretagem e a instalação e montagem de produtos, peças e equipamentos (exceto 
+o fornecimento de mercadorias produzidas pelo prestador de serviços fora do local da prestação dos serviços, que 
+fica sujeito ao ICMS). 
+7.05 – Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento 
+de mercadorias produzidas pelo prestador dos serviços, fora do local da prestação dos serviços, que fica sujeito ao 
+ICMS). 
+16.01 - Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros. 
+ 
+
+ 
+ 
+g) Os serviços de comunicação; de transporte intermunicipal e interestadual de carga; e de transporte 
+intermunicipal e interestadual de passageiros autorizados no inciso VI do art. 17 da LC 123 são enquadrados 
+no Anexo III, desconsiderando o percentual de ISS e acrescentando o percentual de ICMS do Anexo I. Esse ajuste é 
+realizado automaticamente pelo sistema. Para tanto, o contribuinte deve selecionar, no PGDAS-D, o grupo específico 
+para essas atividades. 
+ 
+De modo geral, o serviço de transporte intermunicipal e interestadual de passageiros é vedado aos optantes do 
+Simples Nacional. No entanto, a partir de 1º de janeiro de 2015, ele é permitido quando for prestado na modalidade 
+fluvial ou, nas demais modalidades, quando possuir características de transporte urbano ou metropolitano ou realizar-
+se sob fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores (art. 17, VI da 
+LC 123/2006). 
+ 
+Para esses efeitos, considera-se transporte urbano ou metropolitano o que, cumulativamente:  
+
+• for realizado entre municípios limítrofes, ainda que de diferentes estados, ou obedeça a trajetos que 
+compreendam regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por 
+
+65 
+ 
+
+
+
+agrupamentos de municípios, instituídas por legislação estadual, podendo, no caso de transporte 
+metropolitano, ser intercalado por áreas rurais;  
+
+• possuir caráter público coletivo de passageiros entre municípios, assim considerado aquele realizado por 
+veículo com especificações apropriadas, acessível a toda a população mediante pagamento individualizado, 
+com itinerários e horários previamente estabelecidos, viagens intermitentes e preços fixados pelo Poder 
+Público. 
+
+ 
+E considera-se fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores o que, 
+cumulativamente:  
+
+• for realizado sob a forma de fretamento contínuo, assim considerado aquele prestado a pessoa física ou 
+jurídica, mediante contrato escrito e emissão de documento fiscal, para a realização de um número 
+determinado de viagens, com destino único e usuários definidos;  
+
+• obedecer a trajetos que compreendam regiões metropolitanas, aglomerações urbanas e microrregiões, 
+constituídas por agrupamentos de municípios limítrofes, instituídas por legislação estadual. 
+
+ 
+ 
+
+ ATENÇÃO! 
+O transporte municipal de passageiros sempre foi permitido ao Simples Nacional. O contribuinte deve selecionar a 
+atividade “Prestação de serviços não sujeitos ao fator “r” e tributados pelo Anexo III” 
+ 
+h) As atividades com incidência simultânea de IPI e de ISS são tributadas pelo Anexo II, desconsiderando o 
+percentual de distribuição do ICMS e acrescentando o percentual de distribuição do ISS sobre alíquota efetiva do 
+Anexo III. Esse ajuste é realizado automaticamente pelo sistema. Para tanto, o contribuinte deve selecionar, no 
+PGDAS-D, o grupo específico para essas atividades. 
+ 
+ 
+
+66 
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+67 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+68 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+69 
+ 
+
+
+
+ 
+ 
+ 
+
+70 
+
+
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+71 
+ 
+
+
+
+8.1. ALÍQUOTA NOMINAL E ALÍQUOTA EFETIVA 
+ 
+As alíquotas nominais, interna e externa, constam das tabelas dos Anexos I a V. 
+ 
+A alíquota efetiva é o resultado de: 
+ 
+ 
+[(RBT12 x alíquota nominal da respectiva faixa) – parcela a deduzir da faixa]/RBT12 
+ 
+ 
+Os percentuais efetivos de cada tributo serão calculados a partir da alíquota efetiva, multiplicada pelo percentual de 
+repartição constante dos Anexos I a V. 
+O percentual efetivo máximo destinado ao ISS será de 5%, transferindo-se eventual diferença, de forma proporcional, 
+aos tributos federais da mesma faixa de receita bruta anual.  
+ 
+
+ ATENÇÃO! 
+Para determinação da alíquota efetiva, quando RBT12=0, considerar RBT12=1. 
+ 
+Exemplo:  
+Considere a empresa Cleusa Ltda com as seguintes receitas totais mensais, de revenda de mercadorias sem 
+substituição tributária exceto para o exterior: 
+ 
+JAN FEV MAR ABR MAI JUN JUL AGO SET OUT NOV DEZ JAN/18 
+
+50.000 50.000 100.000 100.000 100.000 100.000 100.000 100.000 200.000 200.000 200.000 200.000 120.000 
+
+RBT12  
+
+ RBA 
+
+ 
+Período de Apuração (PA): 
+PA = JANEIRO/2018 
+ 
+Receita Bruta do PA (RPA): 
+RPA = 120.000 
+ 
+Receita Bruta Acumulada da empresa nos 12 meses anteriores ao Período de Apuração (RBT12): 
+RBT12 = (receita de janeiro + receita de fevereiro + ... + receita de dezembro) 
+RBT12 = (50.000 + 50.000 + 100.000 + 100.000 + 100.000 + 100.000 + 100.000 + 100.000 + 200.000 + 200.000 + 
+200.000 + 200.000) 
+RBT12 = 1.500.000 
+Anexo I – Revenda de mercadorias 
+ 
+
+72 
+
+
+
+ 
+ 
+Alíquota Nominal = 10,70% 
+Parcela a deduzir = R$ 22.500,00 
+Alíquota efetiva = (RBT12 x alíquota nominal da respectiva faixa) – parcela a deduzir da faixa 
+                                                   RBT12 
+ 
+Alíquota efetiva = (1.500.000 x 10,70%) – 22.500 
+                1.500.000                             
+ 
+Alíquota efetiva =  160.500 – 22.500 
+    1.500.000        
+ 
+Alíquota efetiva =        138.000      
+   1.500.000        
+ 
+Alíquota efetiva = 0,092 x 100% = 9,2% 
+ 
+ 
+8.2. FOLHA DE SALÁRIOS – ANEXOS III E V 
+ 
+Conceito de Folha de Salário - Montante pago, incluídos encargos, nos 12 (doze) meses anteriores ao do período 
+que está sendo apurado, a título de remunerações a pessoas físicas decorrentes do trabalho, incluídas retiradas de 
+pró-labore, acrescidos do montante efetivamente recolhido a título de contribuição patronal previdenciária e para o 
+FGTS. Deverão ser consideradas tão-somente as remunerações informadas na GFIP e no eSocial/DCTFWeb. 
+Consideram-se remunerações o valor da base de cálculo da contribuição prevista nos incisos I e III do art. 22 da Lei 
+nº 8.212, de 1991, agregando-se o valor do décimo terceiro salário na competência da incidência da referida 
+contribuição, na forma do caput e dos §§ 1º e 2º do art. 7º da Lei nº 8.620, de 5 de janeiro de 1993. Não devem ser 
+considerados os valores pagos a título de aluguéis e de distribuição de lucros. 
+ 
+Caso o contribuinte possua receitas informadas relativas a atividades dos Anexos III e/ou V, sujeitas ao fator “r”, após 
+o preenchimento das informações do último estabelecimento, serão solicitadas as informações referentes à folha de 
+salários dos 12 meses anteriores ao PA (FS12). 
+ 
+
+73 
+ 
+
+
+
+ 
+ 
+É necessário informar a folha de salários dos doze meses anteriores ao PA de cálculo (FS12), que será utilizada para 
+a determinação do Fator “r ”, que é a relação entre a FS12 e a RBT12.  
+ 
+Dependendo do fator “r” calculado, será utilizada a tabela do Anexo III ou V. 
+ 
+
+ ATENÇÃO! 
+A retificação no valor da folha de salários ou da receita informada poderá ocasionar a alteração do valor devido. O 
+contribuinte deve retificar os períodos de apuração (PA) posteriores ao PA em que houve a alteração no valor da folha 
+de salário ou receita, ainda que seus valores não tenham sido modificados. 
+ 
+ 
+8.2.1. Cálculo do Fator “r” 
+ 
+Conforme o artigo 26 da Resolução CGSN nº 140/2018, o Fator “r” é determinado pela fórmula abaixo: 
+Fator “r” =   FS12  
+                  RBT12 
+ 
+Onde: 
+FS12: folha de salários dos 12 meses anteriores ao PA 
+RBT12: receita bruta acumulada dos 12 meses anteriores ao PA (mercado interno + externo) 
+ 
+Se FS12 = 0 e RBT12 = 0, o fator “r” = 0,01 
+ 
+Se FS12 = 0 e RBT12 >0, o fator “r” = 0,01 
+ 
+Se a FS12 > 0 e RBT12 = 0, o fator “r” = 0,28 
+ 
+Para o cálculo do fator “r” do mês de abertura da empresa será considerada a folha de salários do PA (FSPA) e a 
+receita bruta do PA (RPA). 
+Fator “r” =   FSPA   
+                    RPA 
+ 
+Sendo: 
+FSPA: folha de salários do PA 
+RPA: receita bruta do PA (mercado interno + externo) 
+ 
+Se a FSPA > 0 e RPA = 0, o fator “r” = 0,28 
+Se FSPA = 0 e RPA >0, o fator “r”= 0,01 
+ 
+
+74 
+
+
+
+Para empresas em início de atividade, se o período de tempo decorrido entre a data de abertura e o período de 
+apuração for inferior a 13 meses, o fator “r” será determinado da seguinte forma: 
+ 
+Fator “r” =     soma das FS desde o mês da data de abertura até o mês anterior ao do PA     
+                  soma das receitas desde o mês da data de abertura até o mês anterior ao do PA 
+ 
+O Fator “r” é utilizado para determinar o enquadramento nos Anexos III ou V, conforme regra estabelecida no art. 18, 
+§§ 5º-J e 5º-M da Lei Complementar nº 123/2006. 
+ 
+Se o Fator “r” for maior ou igual a 0,28, o enquadramento será no Anexo III; 
+Se o Fator “r” for menor que 0,28 o enquadramento será no Anexo V. 
+ 
+De 01/2018 a 03/2018, o sistema arredondava o resultado do fator “r”. A partir de 04/2018, o sistema considera duas 
+casas decimais sem arredondamento, por exemplo, se o fator “r” resultar em 0,2774, será considerado 0,27. 
+ 
+
+ IMPORTANTE! 
+No cálculo do fator “r”, a RBT12 inclui as receitas auferidas (regime de competência) no mercado interno e externo 
+nos 12 meses anteriores ao PA de cálculo. 
+ 
+A FS12 inclui as remunerações pagas nos 12 meses anteriores ao PA de cálculo (regime de 
+caixa), informadas em GFIP. 
+ 
+Exemplo 1:  
+A empresa ABC Clínica Médica Ltda realizou a seguinte apuração para o PA janeiro/2018: 
+ 
+RBT12: R$ 500.000,00 
+FS12: R$ 250.000,00 
+RPA: R$ 10.000,00 (Prestação de serviços, exceto para o exterior, sujeitos ao Fator “r”) 
+ 
+Fator “r” =   FS12  
+                  RBT12 
+ 
+Fator “r” = 250.000 
+                 500.000 
+ 
+Fator “r” = 0,50 
+ 
+Como o Fator “r” é igual ou superior a 0,28, para o cálculo será considerada a alíquota do Anexo III. 
+ 
+A alíquota nominal conforme RBT12 = 13,50% 
+ 
+Exemplo 2:  
+A empresa XYZ Ltda realizou a seguinte apuração para o PA janeiro/2018: 
+ 
+RBT12: R$ 500.000,00 
+FS12: R$ 100.000,00 
+RPA: R$ 10.000,00 (Prestação de serviços, exceto para o exterior, sujeitos ao Fator “r”) 
+ 
+Fator “r” =   FS12  
+                  RBT12 
+ 
+
+75 
+ 
+
+
+
+Fator “r” = 100.000 
+                 500.000 
+ 
+Fator “r” = 0,20 
+ 
+Como o Fator “r” é inferior a 0,28, para o cálculo será considerada a alíquota do Anexo V. 
+ 
+A alíquota nominal conforme RBT12 = 19,50% 
+ 
+ 
+8.3. EMPRESA EM INÍCIO DE ATIVIDADE 
+ 
+Considera-se empresa em início de atividade aquela que se encontra no período de 60 (sessenta) dias a partir da 
+data de abertura constante do CNPJ. (Resolução CGSN nº 140/2018, art. 2º, inciso IV) 
+ 
+
+ ATENÇÃO! 
+A data de início de atividade é a data de abertura constante do CNPJ. (Resolução CGSN nº 140/2018, art. 2º, inciso 
+V) 
+ 
+Para fins de determinação da alíquota, em caso de início de atividade, os valores de receita bruta acumulada 
+constantes das tabelas dos Anexos I a V da Lei Complementar nº 123/2006 devem ser proporcionalizados pelo 
+número de meses de atividade no período (Lei Complementar nº 123/2006, art. 18, § 2º). 
+ 
+Receita Bruta Acumulada Proporcionalizada (RBT12p) é um critério utilizado nos 12 primeiros meses de atividade da 
+empresa, cuja finalidade é o enquadramento na tabela de faixas de alíquotas do Simples Nacional. Assim, nos 12 
+primeiros meses de atividade, o enquadramento na tabela de faixas de alíquotas é feito com base na Receita Bruta 
+Acumulada Proporcionalizada (RBT12p). 
+ 
+No primeiro mês de atividade será utilizada como receita bruta total acumulada a receita do próprio mês de apuração 
+multiplicada por doze. 
+ 
+Nos 11 (onze) meses posteriores ao do início de atividade, será utilizada a média aritmética da receita bruta total dos 
+meses anteriores ao do período de apuração, multiplicada por 12 (doze). 
+ 
+Exemplo: Empresa aberta em fevereiro/2018 que presta serviços não sujeitos ao fator “r” e tributados pelo Anexo III. 
+ 
+1. No primeiro mês de atividade 
+PA (período de apuração) = fevereiro/2018 
+Receita Bruta 02/2018 = R$ 10.000,00 
+ 
+RBT12p = R$ 10.000,00 x 12 = R$ 120.000,00 
+ 
+2. No quarto mês de atividade 
+PA (período de apuração) = maio/2018 
+Receita Bruta do PA = R$ 50.000,00 
+Receita Bruta dos meses anteriores: 
+Fevereiro/2018 = R$ 10.000,00 
+Março/2018 = R$ 0,00 
+Abril/2018 = R$ 590.000,00 
+ 
+MA (média aritmética) = (R$ 10.000,00 + R$ 590.000,00) / 3 = R$ 200.000,00 
+
+76 
+
+
+
+ 
+RBT12p = R$ 200.000,00 x 12 = R$ 2.400.000,00 
+ 
+O enquadramento na tabela de faixas de alíquotas é feito com base na Receita Bruta Acumulada Proporcionalizada 
+(RBT12p). A alíquota nominal será a da 5ª faixa da tabela, pois a RBT12 proporcionalizada = R$ 2.400.000,00. 
+ 
+ Anexo III – Prestação de serviços 
+
+ 
+ 
+ 
+8.4. SUBLIMITE 
+ 
+A partir de 2018, o limite de receita bruta anual do Simples Nacional passou a ser R$ 4,8 milhões, no entanto, os 
+sublimites para recolhimento do ICMS e do ISS na forma do Simples Nacional permaneceram em R$ 3,6 milhões. 
+Sendo assim, uma empresa com faturamento entre R$ 3,6 milhões e R$ 4,8 milhões poderá ser optante pelo Simples 
+Nacional e, ao mesmo tempo, ter que cumprir suas obrigações relativas ao ICMS e ao ISS no respectivo Estado, 
+Distrito Federal ou Município.  
+ 
+Sublimites são limites diferenciados de receita bruta válidos apenas para efeito de recolhimento do ICMS e do ISS. A 
+aplicação de sublimites depende da participação do Estado ou do Distrito Federal no produto interno bruto (PIB) 
+brasileiro.  
+ 
+A partir de 2018:  
+
+• os Estados cuja participação no PIB seja de até 1% poderão adotar, em seus respectivos territórios, o 
+sublimite de receita bruta anual de R$ 1.800.000,00;  
+
+• os Estados que não adotarem o sublimite opcional acima, bem como aqueles cuja participação no PIB seja 
+igual ou superior a 1%, ficam obrigados a aplicar o sublimite de receita bruta anual de R$ 3.600.000,00. 
+
+(Base legal: art. 19 da Lei Complementar nº 123, de 2006.) 
+ 
+Por exemplo, em 2018 adotaram o sublimite de R$ 1,8 milhões apenas os Estados do Acre, Roraima e Amapá. Os 
+demais estados terão sublimite de R$ 3,6 milhões, obrigatoriamente. O histórico dos sublimites até 2020 encontra-se 
+no Anexo XII da Resolução CGSN nº 140/2018. A partir de 2021, eles são divulgados por meio de Portaria CGSN. 
+ 
+O parâmetro para ultrapassagem do sublimite é receita bruta acumulada no ano calendário anterior (RBAA) ou a 
+receita bruta acumulada no ano corrente (RBA), incluindo a do mês.  
+ 
+
+77 
+ 
+
+
+
+As receitas brutas de mercado interno e de mercado externo devem ser consideradas separadamente. Ou seja, o 
+contribuinte deverá observar o sublimite de receitas do mercado interno e o sublimite de receita do mercado externo. 
+Se for ultrapassado qualquer um dos sublimites, o contribuinte estará sujeito ao impedimento de recolhimento do 
+ICMS e do ISS, conforme explicado a seguir. 
+ 
+Quando o sublimite é ultrapassado, o contribuinte não deve fazer nada em relação ao preenchimento do PGDAS-
+D, o próprio aplicativo identifica que um dos sublimites foi ultrapassado e apresenta uma mensagem esclarecendo 
+que o ICMS e o ISS deixarão de ser recolhidos no Simples Nacional, e a partir de qual mês. Os tributos ICMS e ISS, 
+que serão pagos "por fora", deverão ser calculados de acordo com as regras estabelecidas pelos estados e pelos 
+municípios envolvidos, e recolhidos em guias próprias de cada um deles. Os demais tributos (federais) serão 
+calculados pelo PGDAS-D e recolhidos em DAS. 
+ 
+ 
+8.4.1. Efeitos do impedimento 
+ 
+Os estabelecimentos localizados na unidade da federação de vigência do sublimite ficarão impedidos de recolher o 
+ICMS/ISS no Simples Nacional: 
+ 
+
+• desde o início do ano, caso a receita acumulada da empresa no ano calendário ANTERIOR ultrapasse 
+qualquer um dos sublimites (do mercado interno ou externo); 
+
+• a partir do ano seguinte, caso a receita acumulada da empresa no ano calendário CORRENTE ultrapasse 
+qualquer um dos sublimites em ATÉ 20%;  
+
+• a partir do mês seguinte ao do excesso, caso a receita acumulada da empresa no ano-calendário 
+CORRENTE ultrapasse qualquer um dos sublimites em MAIS DE 20%. 
+
+ 
+No ano-calendário de início de atividade, cada um dos sublimites deve ser proporcionalizado pelo número de meses 
+compreendidos entre a abertura do CNPJ e o final do respectivo ano. 
+ 
+ 
+8.4.2. Sublimites – Exemplos 
+ 
+Nas situações abaixo, consideremos que todos os estabelecimentos da empresa estão localizados em estados que 
+adotam o sublimite de R$ 3.600.000,00; que a empresa iniciou suas atividades antes de 2017 (caso contrário, o 
+sublimite e o limite devem ser proporcionalizados). 
+ 
+1. No início do ano de 2018, para verificar se a empresa pode iniciar o ano no regime Simples Nacional ou iniciar o 
+ano recolhendo o ICMS/ISS no Simples Nacional, é preciso consultar as receitas acumuladas do ano anterior, do 
+mercado interno e externo (RBAA). Em janeiro de 2018, consultamos as RBAA (receitas de janeiro a dezembro de 
+2017): 
+ 
+
+• Situação 1: em 2017 a RBAA do mercado interno foi de R$ 2 milhões e a RBAA do mercado externo também 
+foi de R$ 2 milhões: a empresa pode iniciar o ano de 2018 no Simples Nacional, recolhendo todos os tributos 
+neste regime; 
+
+• Situação 2: em 2017 a RBAA do mercado interno foi de 4 milhões e a RBAA do mercado externo foi de R$ 2 
+milhões: a empresa pode iniciar o ano de 2018 recolhendo os tributos federais no Simples Nacional, mas 
+estará impedida de recolher o ICMS/ISS desde o início do ano neste regime. Deve apurar o ICMS e/ou ISS 
+“por fora” do SN o ano todo. Voltando a recolher o ICMS/ISS no Simples Nacional em 2019 apenas se o 
+sublimite não tiver sido ultrapassado no exercício de 2018.  
+
+• Situação 3: em 2017 a RBAA do mercado interno foi de R$ 2 milhões e a RBAA do mercado externo foi de R$ 
+5 milhões: a empresa não pode optar pelo Simples Nacional em 2018.  
+
+ 
+
+78 
+
+
+
+2. Durante o ano de 2018, a empresa também deve verificar se pode continuar no Simples Nacional ou se ficará 
+impedida de recolher o ICMS/ISS no SN, e a partir de quando. Ao longo do ano de 2018, consultamos as receitas 
+acumuladas no ano corrente, do mercado interno e externo (RBA), em cada PA de cálculo: 
+ 
+
+• Situação 4: em 2018 a RBA do mercado interno foi de R$ 2 milhões e a RBA do mercado externo também foi 
+de R$ 2 milhões: a empresa continua recolhendo todos os tributos no Simples Nacional; 
+
+• Situação 5: em 2018 a RBA do mercado interno foi de R$ 2 milhões e a RBA do mercado externo foi de R$ 4 
+milhões. Ultrapassou o sublimite externo em até 20%, mas não ultrapassou o limite de R$ 4,8 milhões: a 
+empresa continua recolhendo no Simples Nacional os tributos federais, mas estará impedida de recolher o 
+ICMS/ISS no Simples Nacional a partir do ano seguinte; 
+
+• Situação 6: em 2018 a RBA do mercado interno foi de R$ 2 milhões e a RBA do mercado externo foi de R$ 
+4,5 milhões. Ultrapassou o sublimite externo em mais de 20%, mas não ultrapassou o limite de R$ 4,8 
+milhões: a empresa continua recolhendo no Simples Nacional os tributos federais, mas estará impedida de 
+recolher o ICMS/ISS no Simples Nacional a partir do mês seguinte; 
+
+• Situação 7: em 2018 a RBA do mercado interno foi de R$ 2 milhões e a RBA do mercado externo foi de R$ 5 
+milhões. Ultrapassou o limite em até 20%: a empresa estará sujeita à exclusão do Simples Nacional a partir 
+do ano seguinte. 
+Nesta situação, o contribuinte deve comunicar a exclusão da empresa do Simples Nacional até o último dia 
+útil do mês de janeiro de 2018, com efeitos a partir de 01/01/2019. 
+
+• Situação 8: em 2018 a RBA do mercado interno foi de R$ 2 milhões e a RBA do mercado externo foi de R$ 6 
+milhões. Ultrapassou o limite em mais de 20%: a empresa estará sujeita à exclusão do Simples Nacional a 
+partir do mês seguinte. 
+
+ 
+3. No início de 2019:  
+
+• Situação 9: em 2017, a RBA do mercado interno foi de R$ 4 milhões e a RBA do mercado externo foi de R$ 2 
+milhões. Em 2018 a RBA do mercado interno foi de R$ 2 milhões e a RBA do mercado externo também foi de 
+R$ 2 milhões  
+No ano de 2018 a empresa está impedida de recolher o ICMS/ISS no Simples Nacional. O PGDAS-D não 
+inclui esses tributos no cálculo do valor devido, de forma automática. No extrato, a existência de impedimento 
+para o PA declarado está registrada no campo 3. Ver tela anexa a seguir. 
+No ano de 2019 o PGDAS-D volta a calcular o ICMS/ISS dentro do Simples Nacional, de forma automática. 
+Como o contribuinte não foi excluído do regime, não é necessário nenhum procedimento/comunicação por 
+parte da empresa. 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+79

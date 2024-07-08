@@ -1,0 +1,806 @@
+﻿9. DECLARAÇÃO DE INFORMAÇÕES SOCIOECONÔMICAS E FISCAIS – DEFIS 
+ 
+A Declaração de Informações Socioeconômicas e Fiscais - DEFIS deve ser prestada por contribuinte optante do 
+Simples Nacional por pelo menos um período por ela abrangido, ou para o qual exista processo administrativo 
+formalizado em alguma unidade das administrações tributárias, quer seja Federal, Estadual, Distrital ou Municipal, 
+que possa resultar em sua inclusão no Simples Nacional em período abrangido pela DEFIS. 
+ 
+As informações prestadas pelo contribuinte na DEFIS serão compartilhadas entre a RFB e os órgãos de fiscalização 
+tributária dos Estados, Distrito Federal e municípios. (Lei Complementar nº 123, de 2006, art. 25, caput). 
+A exigência da DEFIS não desobriga a prestação de informações relativas a terceiros. (Lei Complementar nº 123, de 
+2006, art. 26, § 3º) 
+ 
+A DEFIS é um módulo do PGDAS-D. O seu acesso se dá por meio do menu “DEFIS”. 
+
+ 
+ 
+ 
+9.1 – ENTREGA DA DECLARAÇÃO 
+ 
+9.1.1 – Local de Entrega 
+ 
+A Declaração de Informações Socioeconômicas e Fiscais – DEFIS deve ser preenchida e transmitida pela Internet, 
+por meio da aplicação disponível no Portal do Simples Nacional, no endereço abaixo: 
+(www8.receita.fazenda.gov.br/SimplesNacional). 
+ 
+ 
+9.1.2 – Prazo de Entrega 
+ 
+A declaração deve ser entregue até às 23:59 h (horário de Brasília-DF) do dia 31 de março do ano-calendário 
+subsequente ao da ocorrência dos fatos geradores dos tributos previstos no Simples Nacional. (Resolução CGSN nº 
+140/2018, art. 72, § 1º). 
+ 
+A DEFIS – Situação Especial deve ser preenchida em nome da pessoa jurídica cindida parcialmente, cindida 
+totalmente, extinta, fusionada ou incorporada e entregue até o último dia do mês subsequente ao do evento, exceto 
+nos casos em que essas situações especiais ocorram no primeiro quadrimestre do ano-calendário, hipótese em que a 
+declaração deverá ser entregue até o último dia do mês de junho (Resolução CGSN nº 140/2018, art. 72, § 2º). 
+ 
+
+80 
+
+
+
+ 
+ ATENÇÃO! 
+
+Não há multa pela entrega em atraso da DEFIS. 
+No entanto, as apurações dos períodos a partir de março de cada ano no PGDAS-D ficam condicionadas à entrega 
+da DEFIS relativa ao ano anterior. 
+Por exemplo, para realizar a apuração do período de apuração - PA 03/2023, a ME/EPP deverá, primeiramente, 
+transmitir a DEFIS do ano de 2022 (caso a empresa tenha sido optante pelo Simples Nacional em algum período de 
+2022). 
+ 
+ 
+9.2. DECLARAR  
+
+ 
+ 
+ 
+Esta função permite ao usuário declarar as Informações Socioeconômicas e Fiscais (DEFIS) de toda a ME ou EPP, 
+referente a ano-calendário anterior, no caso de situação normal, e referente ao ano-calendário corrente, no caso de 
+situação especial como extinção, incorporação, fusão, ou cisão total ou parcial. 
+ 
+Esta funcionalidade coleta os dados econômicos e fiscais, verifica pendências no preenchimento, envia a declaração 
+para a base de dados e permite a gravação do recibo de entrega.  
+ 
+ 
+9.2.1. Tipos de Declaração 
+ 
+O usuário informa o ano-calendário e o tipo (Original ou Retificadora) a que se refere a declaração.  
+ 
+Declaração Original: É a primeira declaração apresentada pela pessoa jurídica relativamente a um determinado 
+ano-calendário. 
+ 
+Declaração Retificadora: é a declaração apresentada que visa retificar informações constantes de declaração 
+original ou retificadora anteriormente apresentada. 
+ 
+Declaração de Situação Normal: é a declaração, original ou retificadora, que não é de situação especial. 
+ 
+Declaração de Situação Especial: é a declaração apresentada pela pessoa jurídica extinta (extinção voluntária ou 
+por decretação de falência), cindida parcialmente, cindida totalmente, fusionada ou incorporada.  
+ 
+As informações Socioeconômicas e Fiscais do ano-calendário corrente somente ficam disponíveis para a situação 
+especial. Caso o período de entrega da declaração – situação normal do ano-calendário selecionado não tenha sido 
+iniciado, a opção “Situação Especial” é selecionada automaticamente.  
+ 
+No exemplo a seguir, a data da transmissão é 04/02/2015, mas como o período de apresentação da DEFIS – 
+situação normal referente ao ano-calendário 2015 só se inicia em 2016, a opção “Situação Especial” é 
+automaticamente selecionada. 
+ 
+
+81 
+ 
+
+
+
+ 
+9.2.2. Contribuinte não Optante pelo Simples Nacional 
+ 
+Ao contribuinte não-optante pelo Simples Nacional ou optante pelo Simei, somente será permitido declarar caso 
+tenha formalizado processo administrativo em uma unidade da Administração Tributária (Federal, Distrital, Estadual 
+ou Municipal) que possa resultar em inclusão administrativa no Simples Nacional no período abrangido pela 
+declaração. Para tanto, serão solicitadas as seguintes informações: 
+ 
+
+• Administração tributária onde foi protocolado – o usuário deverá selecionar a unidade da administração 
+tributária (Federal, Distrital, Estadual ou Municipal) onde foi formalizado o processo. 
+
+• UF e Município da repartição – localidade da repartição onde foi protocolado o processo. 
+• Número do processo – número do processo (se Administração tributária = “Federal”, o número do processo 
+
+será validado no sistema COMPROT).  
+ 
+
+ 
+ 
+Caso seja não-optante ou optante pelo Simei no ano-calendário informado, o sistema vai considerar como data de 
+opção a data de abertura constante no CNPJ ou 01/01/ano-calendário selecionado. Emite esta mensagem: 
+
+ 
+ 
+ 
+Em relação ao ano-calendário de exclusão da PJ do Simples Nacional, a DEFIS abrangerá o período em que esteve 
+na condição de optante. 
+
+82 
+
+
+
+ 
+9.2.3. Validação das Apurações Realizadas 
+ 
+Para apresentar a declaração, todas as apurações para o período abrangido pela declaração devem ter sido 
+transmitidas. Se faltar alguma, o sistema orienta o usuário a efetuá-la acessando o menu “Declaração Mensal > 
+Declarar/Retificar”. É emitida a mensagem abaixo: 
+ 
+
+ 
+9.2.4. Declaração do Ano-calendário Anterior Pendente de Transmissão 
+ 
+Não é permitido transmitir a DEFIS caso a PJ conste como optante do Simples Nacional no ano-calendário anterior e 
+seja identificado que não houve a transmissão da DEFIS referente a esse ano-calendário.  
+ 
+ 
+9.2.5. Situação Especial 
+ 
+Se incorrer em situação especial (fusão, cisão, incorporação ou extinção) – inclusive no ano-calendário corrente – 
+deverá marcar o campo, selecionar o evento e informar a data de sua ocorrência. 
+ 
+Selecionando a opção “Situação Especial”, os campos “Tipo de Evento” e “Data do Evento” são disponibilizados. 
+
+ 
+ 
+
+ 
+ 
+
+83 
+ 
+
+
+
+O aplicativo exibe a mensagem alertando que a entrega da declaração de situação especial bloqueia a apuração e 
+emissão do DAS para os períodos de apuração posteriores à data do evento. O contribuinte precisa clicar em “OK” 
+para confirmar a situação especial e continuar o preenchimento da declaração. 
+ 
+9.2.5.1. Data do Evento de Situação Especial 
+ 
+Considera-se ocorrido o evento, na data: 
+ 
+1. da deliberação entre seus membros, nos casos de cisão total, cisão parcial, fusão e incorporação; 
+2. da sentença de encerramento, no caso de falência; 
+3. da expiração do prazo estipulado no contrato, no caso de extinção de sociedades com data prevista no 
+contrato social; 
+4. do registro de ato extintivo no órgão competente, nos demais casos. 
+ 
+Caso exista data de baixa no cadastro CNPJ, esta será exibida para o usuário no campo “Data do evento”, que 
+poderá confirmá-la ou alterá-la para data anterior. 
+ 
+Não é permitida a transmissão da DEFIS de situação especial se a data do evento não ocorreu durante o período de 
+opção pelo Simples Nacional. Nesse caso, deve ser entregue DEFIS situação normal. Exemplo: a PJ foi optante pelo 
+Simples Nacional até 29/02/2017 e foi extinta em 20/04/2017. Deverá apresentar, em 2018, a DEFIS situação 
+normal referente ao período 01/01/2017 a 29/02/2017). 
+ 
+
+ 
+Se a data do evento de situação especial for anterior à data fim da opção pelo Simples Nacional, o sistema solicita 
+confirmação exibindo a mensagem: “A data fim da opção pelo Simples Nacional é posterior à data do evento. 
+Confirma a data do evento informada?”. 
+ 
+Para transmitir a DEFIS a Pessoa Jurídica deverá, primeiramente, preencher e transmitir todas as apurações do 
+período abrangido pela declaração.  
+ 
+Se o contribuinte já realizou uma entrega de declaração de situação especial relativa a um ano-calendário anterior, o 
+sistema não permite a entrega da declaração de situação especial para o ano-calendário seguinte e é exibida 
+mensagem conforme abaixo: 
+ 
+
+ 
+Após a transmissão da DEFIS – Situação especial não será permitido efetuar apurações de períodos posteriores à 
+data do evento. 
+ 
+ 
+
+84 
+
+
+
+ 
+
+ 
+9.3. RETIFICAR DEFIS 
+ 
+A DEFIS poderá ser retificada independentemente de prévia autorização da administração tributária e terá a mesma 
+natureza da declaração originariamente apresentada, observado o disposto no parágrafo único do art. 138 do CTN. 
+(Lei Complementar nº 123, de 2006, art. 25, caput) 
+ 
+Para retificar a DEFIS, acesse o menu “DEFIS”, item “Declarar”, será exibida a seguinte mensagem: 
+ 
+
+ 
+Após clicar no menu “Declarar”, será mostrada a tela abaixo: 
+ 
+
+ 
+9.3.1. Retificar Data do Evento de Situação Especial para uma Data Posterior 
+ 
+Para retificar uma DEFIS – Situação Especial cuja data de evento deva ser alterada para uma data posterior, ao clicar 
+no Check Box “Situação Especial” e informar a nova data, o aplicativo verifica se há pendências de apurações e 
+orienta o usuário a acessar o menu “Declaração Mensal > Declarar/Retificar”, permitindo realizar a(s) apuração(ões) 
+do(s) períodos(s) subsequente(s) à data do evento anteriormente informada, até o mês da nova data do evento.  
+ 
+Para efetuar a apuração, o acesso ao PGDAS-D deve se dar “por dentro” da DEFIS, acionando o menu “Acessar 
+Apuração”. 
+ 
+
+ 
+Exemplo: Transmitiu DEFIS com data de extinção = 31/01/2017 quando o correto era 01/02/2017. Assim, para retificar 
+essa informação e transmitir a apuração do PA 02/2017 o usuário deverá clicar em “Acessar Apuração” e efetuar a 
+apuração do mês 02/2017.  
+
+85 
+ 
+
+
+
+ 
+Transmitida a apuração, deverá retornar à DEFIS mediante o acionamento do botão “Retornar Informações 
+Socioeconômicas”, para dar continuidade ao preenchimento e transmissão da DEFIS retificadora, com a nova data do 
+evento. 
+
+ 
+ 
+9.3.2. Retificar Situação Especial para Situação Normal 
+ 
+Só é possível efetuar essa alteração se o período de entrega da DEFIS situação normal tiver sido iniciado. 
+ 
+Caso o contribuinte queira transmitir uma declaração retificadora normal para ano-calendário cuja declaração anterior 
+tenha sido transmitida com situação especial, é exibida a mensagem:  
+
+ 
+Após clicar no botão “ok”, o aplicativo verifica se há pendências de apurações e, se houver, orienta o usuário a 
+acessar o menu “Declaração Mensal > Declarar/Retificar”, permitindo realizar a(s) apuração(ões) do(s) períodos(s) 
+subsequente(s) à data do evento de situação especial anteriormente informada.  
+ 
+
+ 
+Após a transmissão, a Declaração de Situação Normal substituirá a de Situação Especial indevidamente 
+apresentada. 
+ 
+
+ ATENÇÃO! 
+Se foi transmitida indevidamente uma declaração de situação especial cujo evento não ocorreu, o contribuinte não 
+conseguirá efetuar apurações dos meses posteriores ao da data de evento informada. Para conseguir efetuar a 
+apuração desses períodos, deverá alterar a data do evento de situação especial para a data corrente, acessar o 
+PGDAS-D através da opção “Declaração Mensal > Declarar/Retificar”, efetuar e transmitir a apuração, retornar à 
+DEFIS e transmiti-la com a nova data de evento. Isto deverá ser efetuado em todos os meses do ano-calendário, até 
+a apuração do mês de dezembro. No ano seguinte, quando estiver disponível a DEFIS - situação normal referente a 
+este ano-calendário, o contribuinte deverá transmiti-la informando situação normal e assim será regularizada a 
+situação. 
+ 
+
+86 
+
+
+
+ 
+
+87 
+ 
+
+
+
+9.4. PREENCHIMENTO DA DEFIS 
+ 
+9.4.1. Orientações Gerais 
+ 
+Ao acessar a opção “Declarar”, é mostrada a tela com as orientações gerais. 
+
+ 
+ 
+ 
+9.4.2. Declaração de Inatividade 
+ 
+Considera-se em situação de inatividade a PJ que não apresente mutação patrimonial e atividade operacional 
+durante todo o ano-calendário. (Lei Complementar nº 123, de 2006, art. 25, § 3º). 
+Se, em todos os períodos do ano-calendário selecionado, o valor da receita mensal (RPA) for igual a zero, é exibida, 
+na árvore da declaração, a opção para informar se esteve ou não inativa no ano-calendário: 
+ 
+
+ 
+ 
+
+ ATENÇÃO! 
+Mesmo inativa, a empresa está obrigada a apresentar a Declaração de Informações Sócioeconômicas e Fiscais – 
+DEFIS. 
+ 
+ 
+9.4.3. Informações Econômicas e Fiscais 
+
+ 
+ 
+Devem ser informados os dados econômicos e fiscais da PJ em geral e dados específicos dos seus estabelecimentos 
+durante o período abrangido pela declaração. 
+ 
+ 
+
+88 
+
+
+
+9.4.3.1. Informações de Toda a ME/EPP 
+ 
+
+ 
+1. Ganhos de capital (R$):  
+Informar o valor correspondente ao ganho de capital. 
+ 
+2. Quantidade de empregados no início do período abrangido pela declaração: 
+Informar o número de empregados da empresa no início do período abrangido pela declaração. 
+ 
+3. Quantidade de empregados no final do período abrangido pela declaração: 
+Informar o número de empregados da empresa no fim do período abrangido pela declaração. 
+ 
+4. Caso a ME/EPP mantenha escrituração contábil e tenha evidenciado lucro superior ao limite de que trata o 
+§2º do art. 145 da Resolução CGSN nº 140/2018, no período abrangido por esta declaração, informe o valor do 
+lucro contábil apurado (R$):  
+Informar o valor do lucro contábil apurado. 
+ 
+5. Receita proveniente de exportação direta (R$):  
+Informar a receita proveniente de exportação direta, caso a pessoa jurídica tenha informado no PGDAS-D. 
+ 
+6. Receita proveniente de exportação por meio de comercial exportadora: 
+
+89 
+ 
+
+
+
+Informar o(s) CNPJ(s) da(s) empresa(s) comercial(is) exportadora(s) e o(s) valor(es) correspondente(s) à(s) 
+operação(ões). 
+ 
+7. Identificação e rendimentos dos sócios 
+CPF do sócio e nome:  
+Informar o número de inscrição no Cadastro de Pessoas Físicas (CPF) do sócio da pessoa jurídica, e o nome. 
+Quando houver mais de um sócio deverá inserir novas ocorrências por meio do botão “clique aqui”. 
+ 
+7.1. Rendimentos isentos pagos ao sócio pela empresa (R$): 
+Informar os rendimentos isentos do imposto de renda, na fonte e na declaração de ajuste do beneficiário, 
+efetivamente pagos ao sócio ou ao titular da pessoa jurídica, exceto os correspondentes a pró-labore, aluguéis ou 
+serviços prestados. Observar o §1º do artigo 14 da Lei Complementar 123/2006.  
+ 
+7.2. Rendimentos tributáveis pagos ao sócio pela empresa (R$): 
+Informar como rendimentos tributáveis os valores pagos ao sócio ou ao titular da pessoa jurídica que corresponderem 
+a pró-labore, aluguéis ou serviços prestados. Observar o §1º do artigo 14 da Lei Complementar 123/2006. 
+ 
+7.3. Percentual de participação do sócio no capital social da empresa no último dia do período abrangido pela 
+declaração (%): 
+Informar o percentual de participação, do sócio ou do titular da pessoa jurídica, sobre o capital social na data do 
+último dia a que se refere a declaração. 
+A soma do percentual de participação dos sócios ou titulares da pessoa jurídica deverá ser igual a 100%.  
+ 
+7.4. Imposto de renda retido na fonte sobre os rendimentos pagos ao sócio pela ME/EPP (R$): 
+Informar o valor do imposto de renda retido na fonte por ocasião do pagamento dos rendimentos. 
+ 
+8. Total de ganhos líquidos auferidos em operações de renda variável (R$): 
+Informar o valor correspondente aos rendimentos e ganhos líquidos auferidos nas aplicações financeiras de renda 
+fixa ou variável. 
+ 
+9. Doações à campanha eleitoral 
+
+ 
+ 
+
+ 
+
+ 
+ 
+Quando houver mais de um CNPJ a ser informado deverá inseri-lo acionando “clique aqui”. 
+ 
+
+90 
+
+
+
+ 
+8. Percentual de participação em cotas em tesouraria no capital social da empresa (%): 
+Informar o percentual de participação em cotas em tesouraria, se houver. A soma de todos os percentuais de sócios 
+mais as cotas em tesouraria deve ser 100%. 
+ 
+9.4.3.2. Informações por Estabelecimento 
+ 
+
+ 
+ 
+O usuário deve informar os dados econômicos e sociais específicos de cada um dos estabelecimentos da PJ 
+declarante durante o período abrangido pela declaração. 
+ 
+
+91 
+ 
+
+
+
+ 
+ 
+1. Estoque inicial do período abrangido pela declaração 
+ 
+Informar o valor do estoque inicial, constante do Livro de Registro de Inventário, de mercadorias e produtos 
+destinados à comercialização ou industrialização.  
+ 
+Exemplo: DEFIS referente ao ano-calendário 2017: Empresa optante do Simples Nacional em 01/01/2017- o estoque 
+inicial será o registrado em 31/12/2016. 
+ 
+2. Estoque final do período abrangido pela declaração 
+ 
+
+92 
+
+
+
+Informar o valor do estoque final, constante do Livro de Registro de Inventário, de mercadorias e produtos destinados 
+à comercialização ou industrialização.  
+ 
+Exemplo: DEFIS referente ao ano-calendário 2017: Empresa optante do Simples Nacional em atividade durante todo 
+o ano-calendário de 2017 - o estoque final será o registrado em 31/12/2017. 
+ 
+3. Saldo em caixa/banco no início do período abrangido pela declaração 
+ 
+Informar o valor correspondente à soma dos saldos existentes em caixa e bancos (depositados e aplicados) no 
+primeiro dia do período abrangido pela declaração, de titularidade da personalidade jurídica. É permitida a entrada de 
+valores negativos neste campo, o valor negativo é identificado quando o usuário digitar o caractere “-“ no campo. 
+ 
+4. Saldo em caixa/banco no final do período abrangido pela declaração 
+ 
+Informar o valor correspondente a soma dos saldos existentes em caixa e bancos (depositados e aplicados) no último 
+dia do período abrangido pela declaração, de titularidade da personalidade jurídica. É permitida a entrada de valores 
+negativos neste campo, o valor negativo é identificado quando o usuário digitar o caractere “-“ no campo. 
+ 
+5. Total de aquisições de mercadorias para comercialização ou industrialização no período abrangido pela 
+declaração 
+ 
+Informar os valores correspondentes às aquisições de mercadorias e produtos destinados à comercialização ou 
+industrialização no período abrangido pela declaração, separados, respectivamente, nos itens 5.1 (Aquisições no 
+mercado interno) e 5.2 (Importações).  
+ 
+6. Total de entradas de mercadorias por transferência para comercialização ou industrialização no período 
+abrangido pela declaração 
+ 
+Informar o valor correspondente às entradas por transferência de mercadorias e produtos destinados à 
+comercialização ou industrialização no período abrangido pela declaração, somente em relação às operações entre 
+estabelecimentos da mesma empresa. 
+ 
+Exemplo: Empresa comercial com estabelecimentos A e B, onde o estabelecimento A transfere mercadorias para 
+comercialização ao estabelecimento B. Neste caso, o estabelecimento A informará a saída no campo 7 (campo 
+seguinte) enquanto o estabelecimento B informará a mesma operação neste campo 6.  
+ 
+7. Total de saídas de mercadorias por transferência para comercialização ou industrialização no período 
+abrangido pela declaração 
+ 
+Informar o valor correspondente às saídas por transferência de mercadorias e produtos destinados à comercialização 
+ou industrialização no período abrangido pela declaração, somente em relação às operações entre estabelecimentos 
+da mesma empresa. 
+ 
+8. Total de devoluções de vendas de mercadorias para comercialização ou industrialização no período 
+abrangido pela declaração  
+ 
+Informar o valor correspondente às devoluções recebidas de revendas de mercadorias ou venda de produtos 
+industrializados no período abrangido pela declaração.  
+ 
+9. Total de entradas (incluídos os ítens 5, 6 e 8) no período abrangido pela declaração 
+ 
+
+93 
+ 
+
+
+
+Informar o valor correspondente ao total de entradas. O valor informado deverá ser maior ou igual à soma dos itens 
+citados. 
+ 
+No campo 9 deverá ser informado o total das entradas incluídas as entradas interestaduais. Assim, valores referentes 
+a aquisições de material de uso e consumo, aquisições para o ativo imobilizado, entradas de simples remessa para 
+industrialização, entradas de simples remessa para conserto e prestação de serviços de transporte interestadual e 
+intermunicipal devem ser informados nesse campo. 
+ 
+10. Total de devoluções de compras de mercadorias para comercialização ou industrialização no período 
+abrangido pela declaração 
+ 
+Informar o valor correspondente às devoluções de compras de mercadorias e produtos destinados à comercialização 
+ou industrialização no período abrangido pela declaração.  
+ 
+11. Total de despesas no período abrangido pela declaração  
+ 
+Informar o total das despesas da pessoa jurídica no período abrangido pela declaração. 
+ 
+Consideram-se despesas pagas as decorrentes de desembolsos financeiros relativos ao curso das atividades da 
+empresa e inclui custos, salários e demais despesas operacionais e não operacionais. 
+ 
+12. Total de entradas interestaduais por UF 
+ 
+Informar por UF o total de entradas interestaduais no período abrangido pela declaração. Quando houver mais de 
+uma UF deverá inserir novas ocorrências por meio do botão “clique aqui”. 
+Se preenchido valor zero, o usuário é notificado para que informe valor maior do que zero ou desmarque a UF. 
+Esse campo será preenchido com a totalidade de entradas interestaduais, não apenas aquelas destinadas a 
+comercialização ou industrialização. Assim, valores referentes a aquisições de material de uso e consumo, aquisições 
+para o ativo imobilizado, entradas de simples remessa para industrialização, entradas de simples remessa para 
+conserto e prestações de serviços de transporte interestadual devem ser informados nesse campo. 
+ 
+13. Total de saídas interestaduais por UF  
+ 
+Informar por UF o total de saídas interestaduais no período abrangido pela declaração. Quando houver mais de uma 
+UF deverá inserir novas ocorrências por meio do botão “clique aqui”. 
+Se preenchido valor zero, o usuário é notificado para que informe valor maior do que zero ou desmarque a UF.  
+Esse campo será preenchido com a totalidade de saídas interestaduais, não apenas aquelas destinadas a 
+comercialização ou industrialização. Assim, valores referentes a saídas de material de uso e consumo, saídas do 
+ativo imobilizado, saídas de simples remessa para industrialização, saídas de simples remessa para conserto e 
+prestações de serviços de transporte interestadual devem ser informados nesse campo.  
+ 
+14. Valor do ISS retido na fonte no ano-calendário, por Município 
+ 
+Informar o valor do ISS retido na fonte, na condição de prestador de serviço, selecionando a UF e o Município 
+correspondente. Quando houver mais de um Município deverá inserir novas ocorrências por meio do botão “clique 
+aqui”.  
+ 
+Se houver valor informado é exigido que se informe a UF e o município. 
+ 
+Se preenchido valor zero, o usuário é notificado para que informe valor maior do que zero ou desmarque a UF. 
+ 
+15. Prestação de serviços de comunicação  
+
+94 
+
+
+
+ 
+Informar o valor dos serviços de comunicação, discriminando por UF e Município onde os serviços foram prestados. 
+ 
+Se houver valor informado é exigido que se informe a UF e o município. 
+ 
+Se preenchido valor zero, o usuário é notificado para que informe valor maior do que zero ou desmarque a UF. 
+ 
+Quando houver mais de uma UF deverá inserir novas ocorrências acionando “clique aqui”. 
+ 
+9.4.3.3. Mudança de Endereço do Estabelecimento 
+ 
+O contribuinte deverá selecionar a opção “sim” ou “não”. Caso responda sim, deverá prosseguir com o 
+preenchimento, informando data do evento de mudança de municípios e UF, de origem e de destino. Caso tenha 
+havido mais de uma mudança de município no período abrangido pela declaração, deverá “clicar” em adicionar novas 
+linhas para informar também essas mudanças.  
+
+ 
+ 
+9.4.3.4. Dados Referentes ao Município 
+ 
+O contribuinte deverá responder “sim” ou “não”, observando atentamente as situações abaixo descritas. Deverá ainda 
+responder a um questionário para cada município. Caso o contribuinte responda “sim” o programa lhe apresentará as 
+questões de número 16 a 23. Caso responda “não” as questões não serão apresentadas ao contribuinte.  
+ 
+
+  
+
+95 
+ 
+
+
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+96 
+
+
+
+ 
+
+ 
+16. Saídas por transferência de mercadorias entre estabelecimentos do mesmo proprietário 
+ 
+Informar todas as saídas por transferência entre estabelecimentos de mercadorias destinadas à comercialização ou 
+industrialização observando a(s) data(s) de mudança de município.  
+ 
+O valor informado nesta questão não deverá ser superior ao informado no campo 7. 
+ 
+Exemplo: Contribuinte informou R$ 1.000,00 no campo 7 e mudou de município em 30/06/2017. Portanto deverá 
+informar no campo 16 o valor das transferências realizadas no município de origem no período de 01/01/2017 a 
+30/06/2017 e no município de destino deverá prestar as informações do valor das transferências ali realizadas no 
+período de 01/07/2017 a 31/12/2017. Nesse caso, o contribuinte responderá duas vezes à questão, uma para cada 
+município, e o somatório das saídas informadas nestas respostas não poderá ser superior a R$1.000,00.  
+ 
+17. Vendas por meio de revendedores ambulantes autônomos em outros Municípios dentro do Estado em que 
+esteja localizado o estabelecimento 
+ 
+Valor total das vendas por meio de revendedores autônomos (R$): 
+Neste quadro deverá ser informado o total das vendas por meio de revendedores autônomos, cujo valor deverá ser 
+discriminado por município onde ocorreram as operações. O sistema automaticamente efetuará a soma dos valores 
+informados por município no campo ”Valor total das vendas por meio de revendedores autônomos”. 
+ 
+18. Preparo e comercialização de refeições em municípios diferentes do município de localização do 
+estabelecimento 
+ 
+Informar os municípios do Estado de localização do estabelecimento onde houve preparo de refeições e os valores 
+das vendas, que serão totalizados e exibidos ao usuário. 
+
+97 
+ 
+
+
+
+ 
+O contribuinte que preparar e comercializar refeições em outros municípios do Estado que não o de localização do 
+estabelecimento deverá discriminar as suas vendas conforme as localidades onde ocorreu o preparo e 
+comercialização.  
+ 
+Exemplo: Estabelecimento em Belo Horizonte efetuou preparo e comercialização de refeições em Contagem. Efetuou 
+também preparo e venda de refeições no Município de Divinópolis. Neste caso, o contribuinte deverá discriminar o 
+valor total de refeições preparadas e vendidas em Contagem e de Divinópolis. Neste exemplo não há necessidade de 
+informar os valores referentes às refeições que foram preparadas e vendidas em Belo Horizonte. 
+ 
+19. Produção rural ocorrida no território de mais de um Município do Estado em que esteja localizado o 
+estabelecimento 
+ 
+Informar os municípios onde houve produção e os valores proporcionais aos municípios. 
+ 
+O contribuinte que mantiver produção rural em outros municípios que não o de localização do estabelecimento 
+deverá discriminar as suas vendas conforme as localidades onde foram produzidas. 
+ 
+Exemplo: Estabelecimento em Uruguaiana-RS que explora a atividade de produção e comercialização de mel “in 
+natura” e mantém suas colméias em propriedades agrícolas situadas nos municípios vizinhos, no caso Alegrete e São 
+Borja. Nesse caso o contribuinte deverá informar separadamente por município onde foi produzido o valor 
+correspondente às vendas de mel. 
+ 
+20. Aquisição de mercadorias de produtores rurais não equiparados a comerciantes ou a industrias 
+ 
+Informar as UF e os municípios de origem das mercadorias, e os valores de compra, que serão totalizados e exibidos 
+ao usuário. 
+ 
+21. Aquisição de mercadorias de contribuintes dispensados de inscrição, exceto produtor rural 
+ 
+Informar os municípios de origem das mercadorias e os valores de compra, que serão totalizados e exibidos ao 
+usuário. 
+ 
+22. Autos de infração pagos ou com decisão administrativa irrecorrível decorrentes de saídas de mercadorias 
+ou prestações de serviço não oferecidas à tributação, somente o valor da operação 
+ 
+Informar o valor da mercadoria ou serviço que originou o crédito tributário constituído através de Auto de Infração 
+onde o contribuinte é o sujeito passivo, quando decorrentes de saídas de mercadorias ou prestações de serviços não 
+oferecidos à tributação (válido para Autos de lançamento pagos ou com decisão irrecorrível). 
+Exemplo: Auto de Infração exigindo ICMS no valor de R$ 170,00 acrescido de multa e juros, de contribuinte que 
+transportava mercadorias no valor de R$ 1.000,00 desacompanhadas de documento fiscal. O autuado pagou o Auto 
+de Infração. Nesse caso o contribuinte deverá informar o valor das mercadorias, ou seja, R$ 1.000,00. 
+ 
+23. Rateio de receita oriundo de Regime Especial concedido pela Secretaria Estadual de Fazenda (SEFAZ), de 
+decisão judicial ou outros rateios determinados pela SEFAZ 
+ 
+Regime Especial 
+Preencher o número do Regime Especial e, para cada ocorrência, o Município e o valor atribuído. 
+ 
+Decisão Judicial 
+Preencher a identificação da Decisão Judicial e, para cada ocorrência, o Município e o valor atribuído. 
+ 
+
+98 
+
+
+
+Outros Rateios determinados pela Secretaria Estadual de Fazenda 
+Preencher a origem da exigência e, para cada ocorrência, o Município e o valor atribuído - informar o valor das 
+operações atribuído a cada Município conforme estabelecido em Regime Especial, Decisão Judicial ou determinação 
+da SEFAZ, conforme o caso (trata-se de situações específicas de determinados contribuintes). 
+ 
+24. Informações sobre prestação de serviços de transporte de cargas interestadual e/ou intermunicipal com e 
+sem substituição tributária. 
+ 
+Informar o valor do frete relativo às prestações de serviços de transporte interestadual e/ou intermunicipal de cargas 
+com e sem substituição tributária, discriminando por UF e Município onde teve início a prestação do serviço de 
+transporte. 
+ 
+Deve-se observar que a UF e o Município de origem se referem ao local de origem da mercadoria. 
+ 
+Exemplo: Transportadora, com estabelecimento localizado em Salvador, é contratada por uma empresa localizada no 
+município de Ilhéus, para efetuar uma prestação de serviço de transporte, efetuando a coleta das mercadorias no 
+município de Feira de Santana e com destino final ao município de Belo Horizonte. Nesse caso a informação do frete 
+será atribuída para o município de Feira de Santana, onde efetivamente iniciou a prestação. Deve-se, portanto, 
+observar que a UF e o Município de origem se referem ao local de coleta da mercadoria. 
+
+ 
+ 
+9.5. SALVAR DADOS 
+ 
+O usuário pode acionar a funcionalidade de salvamento dos dados mesmo que ainda não tenha preenchido todos os 
+campos. O salvamento pode ocorrer a qualquer momento. 
+ 
+Não é necessário que todos os campos tenham sido preenchidos. O salvamento pode ser parcial. Após salvar os 
+dados disponíveis, o usuário pode continuar o processo normalmente, ou ainda, pode sair da declaração e voltar em 
+acesso futuro para a conclusão. 
+ 
+9.6. VERIFICAR PENDÊNCIAS 
+
+ 
+ 
+A verificação pode ser acionada em qualquer momento e os dados poderão estar em qualquer situação. O resultado 
+é exibido em um relatório que indica os campos pendentes de preenchimento. 
+ 
+A existência de pendências não impede a continuidade da declaração, que pode ser retomada para preenchimento 
+de outros campos ou fechada, permitindo que o usuário volte posteriormente e continue o processo do ponto onde 
+parou. Não é possível transmitir a declaração enquanto houver pendências. 
+ 
+
+99 
+ 
+
+
+
+Não poderão existir campos não preenchidos das informações econômicas e fiscais da PJ e dos estabelecimentos. 
+Os valores não existentes devem ser preenchidos com zero. 
+ 
+
+ 
+9.7. TRANSMITIR DEFIS 
+ 
+O usuário aciona o menu “Transmitir” para realizar a transmissão da DEFIS.  
+
+ 
+ 
+A transmissão somente será efetuada se não houver pendências. Ao concluir a transmissão, será apresentada a 
+seguinte mensagem com o menu e as informações abaixo: 
+ 
+
+ 
+ 
+9.8. IMPRIMIR DEFIS E RECIBO DE ENTREGA 
+ 
+
+100 
+
+
+
+ 
+Transmitida com sucesso a Declaração de Informações Socioeconômicas, selecionando “Gravar Recibo” o sistema 
+gera o Recibo de Entrega em formato PDF para ser visualizado, salvo ou impresso pelo usuário. 
+ 
+Caso o usuário selecione a opção “Imprimir”, é exibida uma lista das DEFIS transmitidas. 
+ 
+Clicar no ícone referente à impressão da declaração ou do recibo. 
+ 
+
+ 
+ 
+9.9. CONSULTAR DEFIS TRANSMITIDA 
+ 
+Esta função também permite consultar as Declarações de Informações Socioeconômicas e Fiscais (DEFIS) 
+transmitidas. Se o contribuinte selecionar “Consultar” serão exibidas as DEFIS transmitidas. 
+
+ 
+ 
+10. AJUDA 
+ 
+Esta função permite acessar o Manual do PGDAS-D e Defis. 
+ 
+
+101 
+ 
+
+
+
+ 
+ 
+11. SAIR  
+ 
+Esta função finaliza o programa. Existem duas maneiras de finalizar o aplicativo: por meio do menu “Sair” ou no botão 
+localizado na extremidade superior direita da tela. 
+
+ 
+ 
+ 
+ 
+
+102

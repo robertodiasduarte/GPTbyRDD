@@ -1,0 +1,426 @@
+Capítulo 1: Introdução à Classificação Nacional de Atividades Econômicas - CNAE versão 2.0
+1.1 Introdução
+Q1: O que é a CNAE? A CNAE é a classificação oficialmente adotada pelo Sistema Estatístico Nacional para produção de estatísticas por tipo de atividade econômica e pela Administração Pública na identificação da atividade econômica em cadastros e registros de pessoa jurídica.
+Q2: Qual é o propósito da CNAE? A CNAE visa proporcionar uma base padronizada para a coleta, análise e disseminação de estatísticas econômicas, aumentando a comparabilidade entre diferentes fontes nacionais e internacionais.
+Q3: Quando a CNAE 2.0 foi introduzida e por quê? A versão 2.0 da CNAE foi introduzida em 2007 para atualizar a classificação de atividades econômicas de acordo com as mudanças na economia brasileira e alinhar-se com a versão 4 da Clasificación Industrial Internacional Uniforme de todas las Actividades Económicas (CIIU/ISIC).
+Q4: Qual foi a importância da Comissão Nacional de Classificação (Concla)? A Concla, criada em 1994, estabeleceu normas e padronizou classificações e tabelas de códigos usadas no sistema estatístico e nos cadastros e registros da Administração Pública.
+1.1.1 Histórico
+Q5: Quando a CNAE foi oficializada pela primeira vez? A CNAE foi oficializada pela primeira vez em dezembro de 1994, após um processo de revisão das classificações de atividades econômicas.
+Q6: O que motivou a criação da Concla? A Concla foi criada para garantir a padronização nacional e a harmonização internacional das classificações de atividades econômicas, refletindo uma nova postura em relação à gestão da classificação.
+1.1.2 Usos da CNAE
+Q7: Quais são os principais usos da CNAE no sistema estatístico? A CNAE é usada na produção e disseminação de informações por tipo de atividade econômica nas estatísticas econômicas e socioeconômicas.
+Q8: Como a CNAE é utilizada na Administração Pública? A CNAE é utilizada para unificar os códigos de atividades nos cadastros e registros de pessoa jurídica, auxiliando na identificação detalhada da atividade econômica das entidades.
+1.1.3 Gestão da CNAE
+Q9: Qual é o papel do IBGE na gestão da CNAE? O IBGE é o órgão gestor da CNAE, responsável pela documentação da classificação, desenvolvimento de instrumentos de apoio, disseminação e atendimento aos usuários sobre a aplicação da classificação.
+Q10: Como o IBGE opera nas questões relativas às subclasses de uso da Administração Pública? O IBGE opera em regime de cogestão com a Subcomissão Técnica para a CNAE-Subclasses, coordenada pela Secretaria da Receita Federal e com a participação de representantes das três esferas de governo.
+
+Capítulo 1: Introdução à Classificação Nacional de Atividades Econômicas - CNAE versão 2.0
+1.2 Natureza e escopo da CNAE
+Q1: Qual é o objetivo principal da CNAE? O objetivo principal da CNAE é ser uma classificação padronizada das atividades econômicas produtivas, proporcionando um conjunto de categorias para a coleta e divulgação de estatísticas por tipo de atividade econômica.
+Q2: Como a CNAE é usada no sistema estatístico e na Administração Pública? No sistema estatístico, a CNAE serve para produzir estatísticas dos fenômenos derivados da participação das unidades de produção no processo econômico. Na Administração Pública, é usada para identificar a atividade econômica dos agentes produtivos nos cadastros e registros de pessoa jurídica.
+Q3: Qual é a diferença entre a CNAE e uma classificação de produtos? A CNAE é uma classificação por tipo de atividade econômica, enquanto as classificações de produtos focam nos bens e serviços produzidos, evidenciando os fluxos de entradas (insumos) e saídas (produtos) do processo produtivo.
+1.3 Princípios na construção da CNAE
+Q4: Quais são os princípios básicos na construção da CNAE? Os princípios básicos incluem a cobertura completa do universo representado, categorias mutuamente excludentes, base conceitual consistente, organização hierárquica e estabilidade durante um determinado período.
+Q5: Como a CNAE se alinha com a CIIU/ISIC? A CNAE segue os mesmos princípios de construção da CIIU/ISIC, com detalhamentos específicos para refletir a economia brasileira. Nos níveis de grupos e classes, a CNAE introduz maior detalhamento, enquanto nos níveis de seções e divisões, adota a estrutura da CIIU/ISIC.
+1.4 Estrutura e sistema de códigos da CNAE
+Q6: Como é organizada a estrutura hierárquica da CNAE? A CNAE é organizada em cinco níveis hierárquicos: seções, divisões, grupos, classes e subclasses. Cada nível é identificado por um código alfanumérico específico.
+Q7: Qual é o modelo de codificação adotado pela CNAE? A CNAE adota um modelo misto de codificação, com um código alfabético para o nível de seção e códigos numéricos para os demais níveis de agregação. O código das subclasses inclui sete dígitos, incorporando o código da classe correspondente.
+Q8: Qual é a finalidade do dígito verificador no código das classes CNAE? O dígito verificador (DV) é utilizado para garantir a consistência da chave numérica, especialmente nos casos de autoclassificação em formulários da Administração Pública.
+1.5 Notas explicativas
+Q9: Qual é a função das notas explicativas na CNAE? As notas explicativas definem o conteúdo e a abrangência das categorias da CNAE, indicando casos limites e exceções. Elas são essenciais para a correta interpretação e aplicação da classificação.
+Q10: Como as notas explicativas são estruturadas? As notas explicativas são estruturadas com comentários sobre o conteúdo central da categoria, seguidos de indicações de atividades incluídas e atividades excluídas, com referências aos códigos correspondentes.
+1.6 Atividade econômica e unidades estatísticas
+Q11: O que caracteriza uma atividade econômica? Uma atividade econômica é caracterizada pela combinação de recursos para gerar bens e serviços específicos, envolvendo um processo de produção com entrada de recursos, transformação e saída de produtos.
+Q12: Como é definida a atividade principal de uma unidade de produção? A atividade principal é definida como aquela que mais contribui para a geração do valor adicionado. As atividades secundárias são aquelas com menor valor adicionado, e as atividades auxiliares são aquelas que suportam a atividade principal e secundárias.
+Q13: O que são unidades estatísticas? Unidades estatísticas são entidades específicas, como empresas e unidades locais/estabelecimentos, que servem como unidades de observação na coleta de dados e compilação de estatísticas.
+1.7 Métodos de classificação
+Q14: Qual é o critério básico para classificar unidades na CNAE? O critério básico é classificar cada unidade de acordo com sua atividade principal, utilizando variáveis substitutas do valor adicionado, como receita de vendas ou número de pessoas ocupadas, quando os dados de valor adicionado não estão disponíveis.
+Q15: O que é o método descendente (top-down)? O método descendente é utilizado para determinar a atividade principal de unidades com múltiplas atividades, começando pela preponderância no nível mais alto da classificação e descendo até o nível de classe, garantindo a coerência hierárquica.
+1.8 Codificação de atividades específicas
+Q16: Como são tratados os casos de terceirização na CNAE? A terceirização pode envolver a contratação de mão-de-obra, funções de apoio, partes do processo produtivo ou o processo produtivo completo. Cada caso é classificado de acordo com a natureza específica do serviço contratado.
+1.9 Alterações na CNAE 2.0
+Q17: Por que as classificações de atividades econômicas precisam de revisão periódica? As revisões periódicas são necessárias para refletir mudanças na estrutura e composição da economia, bem como para atender novas demandas de dados e manter a consistência com a classificação internacional.
+Q18: Quem foi responsável pela coordenação dos trabalhos de revisão da CNAE 2.0? O IBGE foi responsável pela coordenação dos trabalhos de revisão da CNAE 2.0, com a participação de técnicos do IBGE, membros da Subcomissão Técnica para a CNAE-Subclasses e representantes de entidades públicas e privadas.
+1.10 Agregados alternativos
+Q19: O que são agregados alternativos na CNAE? Agregados alternativos são agrupamentos de categorias da CNAE que podem ser utilizados para fins específicos de análise estatística ou administrativa, permitindo flexibilidade na utilização da classificação.
+1.11 Instrumentos e mecanismos de apoio
+Q20: Quais são os instrumentos e mecanismos de apoio fornecidos pelo IBGE para a aplicação da CNAE? O IBGE fornece documentação detalhada, desenvolvimento de instrumentos de apoio, disseminação de informações e atendimento aos usuários para garantir a correta aplicação da CNAE.
+Capítulo 2: Natureza e Escopo da CNAE
+2.1 Natureza da CNAE
+Q1: O que é a CNAE? A CNAE é uma classificação padronizada das atividades econômicas produtivas, usada para coletar e divulgar estatísticas econômicas por tipo de atividade.
+Q2: Qual é a função das classificações de atividades econômicas? As classificações organizam as informações das unidades de produção para produzir estatísticas sobre os fenômenos derivados da participação dessas unidades no processo econômico.
+Q3: Como a CNAE ajuda na análise econômica? A CNAE agrupa unidades de produção com base na similaridade de funções produtivas, características dos bens e serviços, e finalidade de uso, permitindo uma análise sistematizada das atividades econômicas.
+2.2 Escopo da CNAE
+Q4: Qual é o escopo da CNAE? O escopo da CNAE é definido pelo conceito de produção econômica do Sistema de Contas Nacionais, que abrange atividades levadas a cabo por unidades institucionais usando insumos de trabalho, capital e bens e serviços para produzir novos bens e serviços.
+Q5: A CNAE é utilizada somente para produção de estatísticas? Não, além do uso nas Contas Nacionais, a CNAE é utilizada nos cadastros de pessoa jurídica e para identificar atividades econômicas em diversas entidades legais, mesmo que não sejam unidades de produção no sentido estrito das Contas Nacionais.
+Q6: A CNAE classifica produtos ou atividades econômicas? A CNAE é uma classificação por tipo de atividade econômica, não uma classificação de produtos. Ela se concentra nas unidades de produção e suas atividades, enquanto classificações de produtos focam nos bens e serviços específicos.
+Capítulo 3: Princípios na Construção da CNAE
+Q7: Quais são os princípios básicos na construção da CNAE? Os princípios incluem cobertura completa do universo representado, categorias mutuamente excludentes, uma base conceitual consistente, organização hierárquica e estabilidade ao longo do tempo.
+Q8: Como a CNAE se alinha com a CIIU/ISIC? A CNAE adota os princípios da CIIU/ISIC nos níveis de seções e divisões, introduzindo detalhamentos específicos nos níveis de grupos e classes para refletir melhor a economia brasileira.
+Q9: Quais critérios são usados para definir as classes na CNAE? As classes são definidas com base na similaridade de funções produtivas, relevância econômica, e importância relativa na estrutura produtiva do país. Além disso, critérios de continuidade e comparabilidade internacional são considerados.
+Capítulo 4: Estrutura e Sistema de Códigos da CNAE
+Q10: Como é estruturada a CNAE? A CNAE é estruturada em cinco níveis hierárquicos: seções, divisões, grupos, classes e subclasses. Cada nível é identificado por códigos alfanuméricos.
+Q11: Qual é o modelo de codificação adotado? A CNAE utiliza um modelo misto, com códigos alfabéticos para seções e códigos numéricos para os demais níveis. As subclasses têm códigos de sete dígitos que incluem o código da classe correspondente.
+Q12: Qual é a função do dígito verificador na CNAE? O dígito verificador é usado para garantir a consistência da chave numérica, especialmente em casos de autoclassificação em formulários administrativos.
+Capítulo 5: Notas Explicativas
+Q13: O que são notas explicativas? As notas explicativas definem o conteúdo e a abrangência das categorias da CNAE, indicando casos limites e exceções. São essenciais para a correta interpretação da classificação.
+Q14: Como são estruturadas as notas explicativas? As notas são estruturadas com comentários sobre o conteúdo central da categoria, seguidos de indicações de atividades incluídas e excluídas, com referências aos códigos correspondentes.
+Capítulo 6: Atividade Econômica e Unidades Estatísticas
+Q15: O que caracteriza uma atividade econômica? Uma atividade econômica é um processo que combina recursos para gerar bens e serviços, envolvendo entrada de recursos, transformação e saída de produtos.
+Q16: Como se define a atividade principal de uma unidade de produção? A atividade principal é aquela que mais contribui para a geração do valor adicionado. As atividades secundárias têm menor valor adicionado, e as auxiliares suportam as atividades principal e secundárias.
+Q17: O que são unidades estatísticas? Unidades estatísticas são entidades como empresas e unidades locais/estabelecimentos que servem como unidades de observação na coleta de dados e compilação de estatísticas.
+Capítulo 7: Métodos de Classificação
+Q18: Como se determina a classificação das unidades na CNAE? A classificação é baseada na atividade principal da unidade, utilizando variáveis substitutas do valor adicionado, como receita de vendas ou número de pessoas ocupadas, quando os dados de valor adicionado não estão disponíveis.
+Q19: O que é o método descendente (top-down)? O método descendente determina a atividade principal das unidades com múltiplas atividades, começando pela preponderância no nível mais alto da classificação e descendo até o nível de classe, garantindo coerência hierárquica.
+Capítulo 8: Codificação de Atividades Específicas
+Q20: Como são tratados os casos de terceirização na CNAE? A terceirização pode envolver a contratação de mão-de-obra, funções de apoio, partes do processo produtivo ou o processo produtivo completo. Cada caso é classificado de acordo com a natureza específica do serviço contratado.
+Capítulo 9: Alterações na CNAE 2.0
+Q21: Por que as classificações de atividades econômicas precisam de revisão periódica? As revisões periódicas são necessárias para refletir mudanças na estrutura e composição da economia, bem como para atender novas demandas de dados e manter a consistência com a classificação internacional.
+Q22: Quem coordenou os trabalhos de revisão da CNAE 2.0? O IBGE foi responsável pela coordenação dos trabalhos de revisão da CNAE 2.0, com a participação de técnicos do IBGE, membros da Subcomissão Técnica para a CNAE-Subclasses e representantes de entidades públicas e privadas.
+Capítulo 10: Agregados Alternativos
+Q23: O que são agregados alternativos na CNAE? Agregados alternativos são agrupamentos de categorias da CNAE usados para fins específicos de análise estatística ou administrativa, proporcionando flexibilidade na utilização da classificação.
+Capítulo 11: Instrumentos e Mecanismos de Apoio
+Q24: Quais são os instrumentos e mecanismos de apoio fornecidos pelo IBGE para a aplicação da CNAE? O IBGE fornece documentação detalhada, desenvolvimento de instrumentos de apoio, disseminação de informações e atendimento aos usuários para garantir a correta aplicação da CNAE.
+Capítulo 1: Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura
+1.1 Introdução
+Q1: O que compreende a seção de Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura? Esta seção compreende a exploração ordenada dos recursos naturais vegetais e animais em ambiente natural e protegido. Isso inclui atividades de cultivo agrícola, criação e produção animal, cultivo de espécies florestais, extração de madeira, coleta de produtos vegetais, exploração de animais silvestres, pesca extrativa e aquicultura.
+Q2: Quais atividades estão incluídas no cultivo de lavouras? O cultivo de lavouras é dividido em quatro segmentos principais: produção de lavouras temporárias, horticultura e floricultura, produção de lavouras permanentes e produção de sementes e mudas certificadas.
+Q3: O que está incluído na criação e produção animal? A criação e produção animal incluem a pecuária, que abrange tanto a criação de animais tradicionais quanto de animais modificados geneticamente.
+Q4: Como são classificadas as atividades de processamento de produtos agrícolas ou pecuários? O processamento realizado na própria unidade de produção é classificado na mesma categoria da produção. Se realizado por terceiros, é classificado na seção C - Indústrias de Transformação.
+1.2 Produção de Lavouras Temporárias
+Q5: O que é considerado lavouras temporárias? Lavouras temporárias são aquelas com ciclo vegetativo de curta duração, até um ano. Inclui plantas cultivadas de forma tradicional, orgânica ou geneticamente modificadas.
+Q6: Quais são alguns exemplos de lavouras temporárias? Exemplos incluem o cultivo de cereais como arroz e trigo, fibras como algodão herbáceo, cana-de-açúcar, fumo, soja e outras oleaginosas.
+1.3 Horticultura e Floricultura
+Q7: O que está incluído no grupo de horticultura e floricultura? Inclui o cultivo de produtos hortícolas e plantas da floricultura para corte, vasos, ornamentação ou paisagismo. Estes produtos podem ser cultivados em ambientes naturais ou protegidos, usando técnicas tradicionais ou orgânicas.
+Q8: Quais são algumas das plantas incluídas na horticultura? Plantas como alface, brócolis, tomate, cenoura, beterraba, e cogumelos comestíveis.
+1.4 Produção de Lavouras Permanentes
+Q9: O que caracteriza lavouras permanentes? São plantas perenes que produzem por vários anos sem a necessidade de novos plantios após cada colheita. Usam técnicas de cultivo tradicional, orgânico ou plantas geneticamente modificadas.
+Q10: Quais são exemplos de lavouras permanentes? Inclui o cultivo de laranja, uva, frutas diversas como abacate, manga, banana, café e cacau.
+1.5 Produção de Sementes e Mudas Certificadas
+Q11: O que está incluído na produção de sementes e mudas certificadas? A produção de sementes e mudas certificadas envolve produtores agrícolas especializados que utilizam sementes básicas de melhoramento genético, garantindo as características desejadas através de certificação e testes laboratoriais.
+Q12: Qual a diferença entre sementes tradicionais e geneticamente modificadas? Sementes tradicionais são obtidas através de cruzamento de plantas, enquanto as geneticamente modificadas envolvem interferência direta no DNA das plantas.
+1.6 Pecuária
+Q13: O que compreende a pecuária? A pecuária inclui a criação e produção animal, exceto animais aquáticos, e pode envolver animais geneticamente modificados.
+Q14: Quais espécies animais estão incluídas na pecuária? Espécies como bovinos, suínos, ovinos, caprinos, aves, e outros animais de grande porte como bufalinos e equinos.
+1.7 Atividades de Apoio à Agricultura e à Pecuária
+Q15: O que são atividades de apoio à agricultura? São serviços como preparo do solo, plantio, colheita, pulverização, controle de pragas e operação de equipamentos de irrigação, realizados sob contrato.
+Q16: Quais são as atividades de apoio à pecuária? Incluem serviços como inseminação artificial, manejo de animais, tosquia, e limpeza de galinheiros, realizados sob contrato.
+1.8 Atividades de Pós-Colheita
+Q17: O que são atividades de pós-colheita? Envolvem a preparação primária de produtos agrícolas para o mercado, como limpeza, lavagem, classificação e desinfecção, realizados sob contrato.
+1.9 Caça e Serviços Relacionados
+Q18: O que inclui a atividade de caça? Inclui a caça convencional, captura de animais para alimentação, obtenção de couros, pesquisa, zoológicos ou como animais de estimação, e produção de peles.
+Capítulo 2: Produção Florestal
+2.1 Introdução
+Q1: O que compreende a produção florestal? A produção florestal inclui o cultivo de espécies florestais, a produção de madeira em toras e a exploração de produtos florestais não-madeireiros, tanto em florestas plantadas quanto nativas.
+Q2: Quais atividades são envolvidas na produção florestal? Envolvem o plantio, replantio, abate de árvores, produção de madeira para usos industriais e não industriais, e coleta de produtos florestais como resinas e látex.
+2.2 Produção Florestal - Florestas Plantadas
+Q3: O que são florestas plantadas? Florestas plantadas são áreas onde espécies florestais são cultivadas intencionalmente para a produção de madeira e outros produtos florestais.
+Q4: Quais são os produtos obtidos de florestas plantadas? Incluem madeira para celulose, carvão vegetal, postes, estacas, e produtos não-madeireiros como resinas e folhas de eucalipto.
+2.3 Produção Florestal - Florestas Nativas
+Q5: O que são florestas nativas? Florestas nativas são áreas de vegetação natural onde ocorre a extração de madeira e outros produtos florestais sem que haja plantio intencional.
+Q6: Quais produtos são extraídos de florestas nativas? Incluem lenha, carvão vegetal, látex, castanha-do-pará, e outros produtos provenientes de florestas naturais.
+2.4 Atividades de Apoio à Produção Florestal
+Q7: Quais são as atividades de apoio à produção florestal? Incluem serviços florestais como inventário florestal, consultoria técnica, controle de pragas, semeadura aérea, e extinção de incêndios florestais.
+Q8: Quais atividades não são consideradas como apoio à produção florestal? Não incluem consultoria agronômica, plantio de árvores para proteção ambiental, e operações de jardinagem.
+Capítulo 3: Pesca e Aquicultura
+3.1 Introdução
+Q9: O que abrange a seção de pesca e aquicultura? Esta seção compreende a pesca e a criação de animais aquáticos, abrangendo tanto a captura de peixes e outros organismos em águas marinhas e interiores quanto o cultivo em ambientes controlados.
+Q10: Quais atividades são excluídas desta seção? Excluem-se a construção e reparação de navios, pesca esportiva, e o processamento industrial de peixes.
+3.2 Pesca
+Q11: O que está incluído na pesca? Inclui a captura de peixes, crustáceos, moluscos e outros organismos aquáticos para consumo humano ou outras finalidades, utilizando métodos tradicionais ou modernos.
+Q12: Quais são os tipos de pesca mencionados? Pesca em água salgada e pesca em água doce.
+3.3 Aquicultura
+Q13: O que é aquicultura? Aquicultura é o cultivo de organismos aquáticos, como peixes, crustáceos, moluscos, e plantas aquáticas, em ambientes controlados para aumentar a produtividade além da capacidade natural.
+Q14: Quais são os tipos de aquicultura descritos? Aquicultura em água salgada e salobra, e aquicultura em água doce.
+Capítulo 4: Indústrias Extrativas
+4.1 Introdução
+Q1: O que compreende a seção de Indústrias Extrativas? Esta seção compreende as atividades de extração de minerais em estado natural: sólidos (como carvão e minérios), líquidos (petróleo cru) e gasosos (gás natural), realizadas em minas subterrâneas, a céu aberto ou em poços.
+Q2: Quais atividades complementares são incluídas nas indústrias extrativas? Incluem atividades de beneficiamento associadas à extração, como trituração, classificação, concentração, pulverização e liquefação de gás natural, realizadas para melhorar a qualidade do produto e facilitar sua comercialização.
+4.2 Extração de Carvão Mineral
+Q3: O que inclui a extração de carvão mineral? Inclui a extração de linhito, antracito e hulha, além de beneficiamentos como limpeza, classificação e pulverização.
+Q4: Quais atividades não estão incluídas na extração de carvão mineral? Não inclui a extração de turfa, coqueificação para produção de combustíveis em coquerias independentes e fabricação de produtos da destilação do carvão mineral.
+4.3 Extração de Petróleo e Gás Natural
+Q5: O que abrange a extração de petróleo e gás natural? Inclui a extração de petróleo cru, gás natural, xisto e areias betuminosas, além das atividades de preparação e operação dos campos de petróleo e gás.
+Q6: Quais atividades não estão incluídas na extração de petróleo e gás natural? Não inclui serviços de perfuração e outras operações de campo realizadas sob contrato, prospecção de petróleo sob contrato e operação de oleodutos e gasodutos.
+4.4 Extração de Minerais Metálicos
+Q7: Quais minerais metálicos estão incluídos na extração? Inclui minerais ferrosos (como ferro), não-ferrosos (como alumínio, estanho, cobre, manganês) e preciosos (como ouro, prata e platina).
+Q8: Quais atividades são excluídas da extração de minerais metálicos? Não inclui atividades de apoio à extração realizadas sob contrato e atividades de escavação de minas não realizadas pela empresa de exploração mineral.
+4.5 Extração de Minerais Não-Metálicos
+Q9: O que está incluído na extração de minerais não-metálicos? Inclui a extração de minerais em pedreiras, depósitos aluviais, rochas e terras sedimentares, utilizados em construção, fabricação de produtos e produtos químicos.
+Q10: Quais atividades não são consideradas extração de minerais não-metálicos? Não inclui atividades de processamento de minerais não-metálicos fora do local de extração, plantas de cimento e materiais cerâmicos, e atividades de apoio à extração realizadas sob contrato.
+4.6 Atividades de Apoio à Extração de Minerais
+Q11: O que são atividades de apoio à extração de minerais? Incluem serviços especializados realizados sob contrato, como prospecção tradicional, perfurações, reperfurações, drenagem, bombeamento e transporte em locais de extração mineral.
+Q12: Quais atividades são excluídas das atividades de apoio à extração de minerais? Não inclui operação de minas e escavações, serviços especializados de reparação de máquinas para mineração, e estudos geológicos e de prospecção de subsolo.
+Capítulo 5: Indústrias de Transformação
+5.1 Introdução
+Q13: O que abrange a seção de Indústrias de Transformação? Compreende atividades que envolvem a transformação física, química e biológica de materiais, substâncias e componentes para obter produtos novos.
+Q14: Onde geralmente são desenvolvidas as atividades da indústria de transformação? São desenvolvidas em plantas industriais e fábricas, utilizando máquinas e equipamentos para manipulação de materiais.
+5.2 Transformações Industriais
+Q15: Quais atividades são consideradas transformações industriais? Incluem produção manual e artesanal, renovação e reconstituição de produtos, produção de bens tangíveis, montagem de componentes industriais, e serviços de manutenção e reparação.
+Q16: Quais serviços são incluídos na indústria de transformação? Incluem serviços industriais, montagem de produtos industriais, instalação de máquinas e equipamentos, e manutenção e reparação de máquinas.
+5.3 Limites da Indústria de Transformação
+Q17: Quais atividades são convencionadas como industriais? Incluem resfriamento, pasteurização e empacotamento de leite, fabricação de alimentos para animais a partir de desperdícios de abate, e tratamento da madeira.
+Q18: O que determina a classificação de uma atividade como parte da indústria de transformação? A transformação de insumos e materiais em um produto novo é a principal característica que define uma atividade como parte da indústria de transformação.
+Capítulo 6: Eletricidade e Gás
+6.1 Introdução
+Q1: O que compreende a seção de Eletricidade e Gás? Esta seção compreende as atividades de geração, transmissão e distribuição de eletricidade, assim como o fornecimento de gás por meio de sistemas de distribuição.
+6.2 Geração de Eletricidade
+Q2: Quais são as fontes de geração de eletricidade incluídas nesta seção? Incluem fontes hidroelétricas, termelétricas, eólicas, solares e outras fontes renováveis e não-renováveis.
+Q3: Como são classificadas as atividades de geração de eletricidade? São classificadas de acordo com a fonte de energia utilizada para a geração, como hidrelétricas, termelétricas a carvão, gás, biomassa, etc.
+6.3 Transmissão e Distribuição de Eletricidade
+Q4: O que envolve a transmissão de eletricidade? A transmissão envolve o transporte de eletricidade das usinas geradoras para subestações próximas aos centros de consumo.
+Q5: O que compreende a distribuição de eletricidade? A distribuição inclui a entrega de eletricidade das subestações para os consumidores finais, residenciais, comerciais e industriais.
+6.4 Distribuição de Gás
+Q6: Quais são as atividades incluídas na distribuição de gás? Incluem a distribuição de gás natural, liquefeito de petróleo (GLP) e outros gases combustíveis por meio de sistemas de distribuição.
+Q7: Como são classificadas as atividades de distribuição de gás? São classificadas de acordo com o tipo de gás distribuído e o método de distribuição, como canalização ou entrega de cilindros.
+Capítulo 7: Água, Esgoto, Atividades de Gestão de Resíduos e Descontaminação
+7.1 Introdução
+Q8: O que abrange a seção de Água, Esgoto, Atividades de Gestão de Resíduos e Descontaminação? Esta seção compreende as atividades de captação, tratamento e distribuição de água, gestão de esgoto e resíduos, e descontaminação de áreas e solos.
+7.2 Captação, Tratamento e Distribuição de Água
+Q9: Quais atividades são incluídas na captação, tratamento e distribuição de água? Incluem a captação de água de fontes naturais, tratamento para torná-la potável, e distribuição para consumidores residenciais, comerciais e industriais.
+Q10: Como são classificadas estas atividades? São classificadas de acordo com o tipo de serviço prestado, como fornecimento de água potável, tratamento de água e distribuição.
+7.3 Gestão de Esgoto
+Q11: O que está incluído na gestão de esgoto? Inclui a coleta, tratamento e disposição final de esgoto sanitário e industrial.
+Q12: Como são classificadas as atividades de gestão de esgoto? São classificadas conforme o tipo de esgoto tratado e os métodos utilizados, como tratamento biológico ou químico.
+7.4 Gestão de Resíduos
+Q13: Quais são as atividades de gestão de resíduos? Incluem a coleta, transporte, tratamento e disposição final de resíduos sólidos urbanos, industriais e perigosos.
+Q14: Como são classificadas estas atividades? São classificadas de acordo com o tipo de resíduo gerido e os métodos de tratamento e disposição utilizados.
+7.5 Descontaminação
+Q15: O que abrange a descontaminação? Inclui a limpeza e descontaminação de solos, águas subterrâneas e superfícies contaminadas por substâncias nocivas.
+Q16: Como são classificadas as atividades de descontaminação? São classificadas conforme o tipo de contaminante e o método de descontaminação aplicado, como remediação de solos e águas.
+Capítulo 8: Construção
+8.1 Introdução
+Q1: O que compreende a seção de Construção? Esta seção compreende a construção de edifícios, obras de engenharia civil e atividades especializadas de construção.
+Q2: Quais são os principais segmentos da construção? Os principais segmentos são a construção de edifícios, obras de infraestrutura e serviços especializados de construção.
+8.2 Construção de Edifícios
+Q3: O que está incluído na construção de edifícios? Inclui a construção de edifícios residenciais e não residenciais, bem como a reforma e ampliação de edificações existentes.
+Q4: Como são classificadas as atividades de construção de edifícios? São classificadas de acordo com o tipo de edifício construído, como residencial, comercial ou industrial.
+8.3 Obras de Engenharia Civil
+Q5: O que compreende as obras de engenharia civil? Inclui a construção de infraestrutura como estradas, pontes, túneis, redes de água e esgoto, e projetos de energia.
+Q6: Quais são alguns exemplos de obras de engenharia civil? Exemplos incluem a construção de rodovias, ferrovias, aeroportos, sistemas de irrigação e redes de distribuição de energia elétrica.
+8.4 Serviços Especializados de Construção
+Q7: O que são serviços especializados de construção? Incluem atividades específicas como demolição, preparação de terrenos, instalações elétricas, hidráulicas e de aquecimento, acabamento, e outros serviços especializados.
+Q8: Como são classificadas estas atividades? São classificadas conforme o tipo de serviço prestado, como serviços de demolição, preparação de terrenos, instalações elétricas, etc.
+Capítulo 9: Comércio; Reparação de Veículos Automotores e Motocicletas
+9.1 Introdução
+Q9: O que abrange a seção de Comércio e Reparação de Veículos Automotores e Motocicletas? Esta seção compreende as atividades de comércio atacadista e varejista, e a reparação de veículos automotores e motocicletas.
+Q10: Quais são os principais segmentos do comércio? Os principais segmentos incluem o comércio atacadista, o comércio varejista e a reparação de veículos automotores e motocicletas.
+9.2 Comércio Atacadista
+Q11: O que está incluído no comércio atacadista? Inclui a compra e venda de grandes quantidades de mercadorias para revenda ou uso industrial, comercial ou profissional.
+Q12: Como são classificadas as atividades de comércio atacadista? São classificadas conforme o tipo de produto comercializado, como alimentos, bebidas, maquinário, vestuário, etc.
+9.3 Comércio Varejista
+Q13: O que compreende o comércio varejista? Inclui a venda de mercadorias diretamente ao consumidor final para uso pessoal ou doméstico.
+Q14: Quais são alguns exemplos de comércio varejista? Exemplos incluem supermercados, lojas de vestuário, farmácias, livrarias, e lojas de eletrônicos.
+9.4 Reparação de Veículos Automotores e Motocicletas
+Q15: O que está incluído na reparação de veículos automotores e motocicletas? Inclui a manutenção, reparação e conserto de veículos automotores e motocicletas.
+Q16: Como são classificadas as atividades de reparação? São classificadas conforme o tipo de serviço prestado, como manutenção de veículos, reparação de partes específicas, serviços de funilaria e pintura, etc.
+Capítulo 10: Transporte, Armazenagem e Correio
+10.1 Introdução
+Q17: O que abrange a seção de Transporte, Armazenagem e Correio? Esta seção compreende as atividades de transporte de passageiros e carga, armazenagem de mercadorias e serviços postais e de courier.
+Q18: Quais são os principais segmentos do transporte? Os principais segmentos incluem o transporte terrestre, aquaviário, aéreo e serviços de apoio ao transporte.
+10.2 Transporte Terrestre
+Q19: O que está incluído no transporte terrestre? Inclui o transporte rodoviário e ferroviário de passageiros e cargas.
+Q20: Como são classificadas as atividades de transporte terrestre? São classificadas conforme o tipo de transporte, como transporte urbano, intermunicipal, interestadual e internacional.
+10.3 Transporte Aquaviário
+Q21: O que compreende o transporte aquaviário? Inclui o transporte de passageiros e carga por vias navegáveis, como rios, lagos e mares.
+Q22: Quais são alguns exemplos de transporte aquaviário? Exemplos incluem o transporte marítimo de contêineres, cruzeiros e ferry boats.
+10.4 Transporte Aéreo
+Q23: O que está incluído no transporte aéreo? Inclui o transporte de passageiros e carga por aviões e helicópteros.
+Q24: Como são classificadas as atividades de transporte aéreo? São classificadas conforme o tipo de serviço, como transporte regular, transporte não regular e serviços auxiliares ao transporte aéreo.
+10.5 Armazenagem
+Q25: O que compreende a armazenagem? Inclui a operação de instalações de armazenagem para todas as espécies de mercadorias.
+Q26: Quais são alguns exemplos de atividades de armazenagem? Exemplos incluem armazéns gerais, silos, terminais frigoríficos e depósitos alfandegados.
+10.6 Correio e Serviços de Courier
+Q27: O que está incluído nos serviços de correio e courier? Inclui a coleta, transporte e entrega de correspondências, encomendas e documentos.
+Q28: Como são classificadas estas atividades? São classificadas conforme o tipo de serviço, como serviços postais, serviços de courier nacional e internacional.
+Capítulo 11: Alojamento e Alimentação
+11.1 Introdução
+Q1: O que compreende a seção de Alojamento e Alimentação? Esta seção compreende as atividades de fornecimento de acomodações temporárias e de preparação e fornecimento de alimentos e bebidas para consumo imediato.
+11.2 Alojamento
+Q2: Quais atividades estão incluídas no setor de alojamento? Inclui hotéis, motéis, pousadas, albergues, campings e outras acomodações temporárias.
+Q3: Como são classificadas as atividades de alojamento? São classificadas conforme o tipo de estabelecimento e os serviços oferecidos, como hotéis, motéis, pousadas, etc.
+11.3 Alimentação
+Q4: O que compreende o setor de alimentação? Inclui restaurantes, bares, lanchonetes, serviços de catering, e fornecimento de refeições prontas.
+Q5: Quais são alguns exemplos de atividades no setor de alimentação? Exemplos incluem restaurantes, fast-food, serviços de buffet, delivery de alimentos, e cantinas.
+Capítulo 12: Informação e Comunicação
+12.1 Introdução
+Q6: O que abrange a seção de Informação e Comunicação? Esta seção compreende as atividades de produção e distribuição de conteúdo informativo e cultural, e de comunicação por diferentes meios.
+12.2 Edição e Atividades Gráficas
+Q7: O que está incluído nas atividades de edição? Inclui a publicação de livros, jornais, revistas e outros materiais impressos e digitais.
+Q8: Como são classificadas as atividades de edição e gráficas? São classificadas conforme o tipo de material publicado e os processos de impressão utilizados.
+12.3 Produção e Distribuição de Conteúdo
+Q9: O que compreende a produção e distribuição de conteúdo? Inclui a produção de filmes, vídeos, programas de televisão, gravações de áudio e distribuição desses conteúdos por diferentes plataformas.
+Q10: Quais são alguns exemplos de atividades nesta área? Exemplos incluem estúdios de cinema, emissoras de TV e rádio, serviços de streaming e produção musical.
+12.4 Telecomunicações
+Q11: O que está incluído nas telecomunicações? Inclui a transmissão de dados, voz e vídeo por redes de telecomunicações.
+Q12: Como são classificadas as atividades de telecomunicações? São classificadas conforme o tipo de serviço, como telefonia fixa, telefonia móvel, serviços de internet, e transmissão por satélite.
+12.5 Tecnologia da Informação
+Q13: O que abrange a tecnologia da informação? Inclui serviços de desenvolvimento de software, consultoria em TI, e processamento de dados.
+Q14: Quais são alguns exemplos de atividades em TI? Exemplos incluem empresas de software, provedores de serviços de internet, e consultorias em segurança da informação.
+Capítulo 13: Atividades Financeiras, de Seguros e Serviços Relacionados
+13.1 Introdução
+Q15: O que compreende a seção de Atividades Financeiras, de Seguros e Serviços Relacionados? Esta seção compreende as atividades de intermediação financeira, seguros e previdência complementar, e atividades auxiliares a serviços financeiros e de seguros.
+13.2 Intermediação Financeira
+Q16: O que está incluído na intermediação financeira? Inclui bancos, cooperativas de crédito, financeiras, corretoras de valores e outras instituições financeiras.
+Q17: Como são classificadas as atividades de intermediação financeira? São classificadas conforme o tipo de instituição financeira e os serviços prestados, como bancos comerciais, bancos de investimento, e corretoras.
+13.3 Seguros e Previdência Complementar
+Q18: O que compreende o setor de seguros e previdência complementar? Inclui seguros de vida, saúde, automóvel, e previdência privada.
+Q19: Quais são alguns exemplos de atividades neste setor? Exemplos incluem seguradoras, operadoras de planos de saúde, e fundos de pensão.
+13.4 Atividades Auxiliares a Serviços Financeiros e de Seguros
+Q20: O que está incluído nas atividades auxiliares? Inclui a gestão de fundos, corretagem de seguros, consultoria financeira, e administração de carteiras de investimentos.
+Q21: Como são classificadas as atividades auxiliares? São classificadas conforme o tipo de serviço prestado, como gestão de ativos, consultoria em investimentos, e corretagem de seguros.
+Capítulo 14: Atividades Imobiliárias
+14.1 Introdução
+Q22: O que compreende a seção de Atividades Imobiliárias? Esta seção compreende as atividades de compra, venda, aluguel e gestão de imóveis próprios ou de terceiros.
+14.2 Compra e Venda de Imóveis
+Q23: O que está incluído na compra e venda de imóveis? Inclui a negociação e transação de imóveis residenciais, comerciais e industriais.
+Q24: Como são classificadas as atividades de compra e venda de imóveis? São classificadas conforme o tipo de imóvel negociado, como residenciais, comerciais ou industriais.
+14.3 Aluguel de Imóveis
+Q25: O que compreende o aluguel de imóveis? Inclui a locação de imóveis residenciais, comerciais, industriais e terrenos.
+Q26: Quais são alguns exemplos de atividades de aluguel de imóveis? Exemplos incluem imobiliárias, empresas de administração de propriedades, e gestores de condomínios.
+14.4 Gestão Imobiliária
+Q27: O que está incluído na gestão imobiliária? Inclui a administração de propriedades, serviços de manutenção, e gerenciamento de investimentos imobiliários.
+Q28: Como são classificadas as atividades de gestão imobiliária? São classificadas conforme o tipo de serviço prestado, como administração de condomínios, manutenção de edifícios, e gestão de investimentos imobiliários.
+Capítulo 15: Atividades Profissionais, Científicas e Técnicas
+15.1 Introdução
+Q1: O que compreende a seção de Atividades Profissionais, Científicas e Técnicas? Esta seção compreende atividades especializadas que requerem um alto grau de conhecimento e formação profissional, científica e técnica.
+15.2 Atividades Jurídicas, de Contabilidade e Auditoria
+Q2: Quais atividades estão incluídas neste segmento? Incluem serviços jurídicos, contabilidade, auditoria e consultoria fiscal.
+Q3: Como são classificadas as atividades jurídicas e contábeis? São classificadas conforme o tipo de serviço prestado, como advocacia, escritórios de contabilidade, e empresas de auditoria.
+15.3 Atividades de Arquitetura e Engenharia
+Q4: O que compreende as atividades de arquitetura e engenharia? Inclui o desenvolvimento de projetos arquitetônicos e de engenharia, consultoria técnica e fiscalização de obras.
+Q5: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem escritórios de arquitetura, empresas de engenharia civil, e serviços de consultoria técnica.
+15.4 Pesquisa e Desenvolvimento Científico
+Q6: O que está incluído na pesquisa e desenvolvimento científico? Inclui atividades de pesquisa básica e aplicada em diversas áreas do conhecimento, desenvolvimento experimental e inovação tecnológica.
+Q7: Como são classificadas as atividades de pesquisa e desenvolvimento? São classificadas conforme a área de atuação, como pesquisa médica, tecnológica, agrícola, entre outras.
+15.5 Publicidade e Pesquisa de Mercado
+Q8: O que compreende a publicidade e pesquisa de mercado? Inclui a criação e veiculação de campanhas publicitárias, estudos de mercado e comportamento do consumidor.
+Q9: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem agências de publicidade, empresas de pesquisa de mercado, e consultorias de marketing.
+Capítulo 16: Atividades Administrativas e Serviços Complementares
+16.1 Introdução
+Q10: O que abrange a seção de Atividades Administrativas e Serviços Complementares? Esta seção compreende as atividades de apoio administrativo e serviços auxiliares às empresas e outros serviços complementares.
+16.2 Atividades de Apoio Administrativo
+Q11: O que está incluído nas atividades de apoio administrativo? Inclui serviços de apoio às operações diárias de uma empresa, como secretariado, gestão de arquivos, e atividades de fotocópia e impressão.
+Q12: Como são classificadas estas atividades? São classificadas conforme o tipo de serviço prestado, como serviços de secretariado, suporte administrativo, e centros de atendimento.
+16.3 Serviços de Segurança e Vigilância
+Q13: O que compreende os serviços de segurança e vigilância? Inclui serviços de segurança privada, vigilância patrimonial, transporte de valores e atividades de escolta.
+Q14: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem empresas de segurança privada, serviços de vigilância eletrônica, e empresas de transporte de valores.
+16.4 Serviços de Limpeza e Manutenção
+Q15: O que está incluído nos serviços de limpeza e manutenção? Inclui limpeza geral de edifícios, manutenção de instalações e serviços de paisagismo.
+Q16: Como são classificadas estas atividades? São classificadas conforme o tipo de serviço, como limpeza de edifícios, manutenção predial, e serviços de jardinagem.
+Capítulo 17: Administração Pública, Defesa e Seguridade Social
+17.1 Introdução
+Q17: O que abrange a seção de Administração Pública, Defesa e Seguridade Social? Esta seção compreende as atividades de administração pública em todos os níveis de governo, defesa nacional e serviços de seguridade social obrigatória.
+17.2 Administração Pública
+Q18: O que está incluído na administração pública? Inclui as atividades de órgãos executivos, legislativos, judiciais e regulatórios.
+Q19: Como são classificadas as atividades de administração pública? São classificadas conforme o nível de governo (federal, estadual ou municipal) e a função específica, como legislativa, judiciária ou regulatória.
+17.3 Defesa Nacional
+Q20: O que compreende a defesa nacional? Inclui as atividades das forças armadas, como exército, marinha e aeronáutica, e serviços de apoio relacionados.
+Q21: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem operações militares, serviços de inteligência e defesa civil.
+17.4 Seguridade Social
+Q22: O que está incluído na seguridade social? Inclui programas de aposentadoria, pensões, assistência social e seguro-desemprego.
+Q23: Como são classificadas as atividades de seguridade social? São classificadas conforme o tipo de benefício oferecido, como previdência social, assistência social, e seguro-desemprego.
+Capítulo 18: Educação
+18.1 Introdução
+Q24: O que compreende a seção de Educação? Esta seção compreende as atividades de ensino em todos os níveis e modalidades, desde a educação infantil até a educação superior e formação profissional.
+18.2 Ensino Infantil e Fundamental
+Q25: O que está incluído no ensino infantil e fundamental? Inclui a educação infantil (creches e pré-escolas) e o ensino fundamental.
+Q26: Como são classificadas as atividades de ensino infantil e fundamental? São classificadas conforme o nível de ensino, como educação infantil e ensino fundamental.
+18.3 Ensino Médio e Técnico
+Q27: O que compreende o ensino médio e técnico? Inclui o ensino médio regular, cursos técnicos e profissionalizantes.
+Q28: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem escolas de ensino médio, instituições de ensino técnico e centros de formação profissional.
+18.4 Ensino Superior
+Q29: O que está incluído no ensino superior? Inclui a educação universitária, faculdades, centros universitários e institutos de educação superior.
+Q30: Como são classificadas as atividades de ensino superior? São classificadas conforme o tipo de instituição, como universidades, faculdades e centros universitários.
+Capítulo 19: Saúde Humana e Serviços Sociais
+19.1 Introdução
+Q31: O que abrange a seção de Saúde Humana e Serviços Sociais? Esta seção compreende as atividades de saúde humana, como hospitais, clínicas e consultórios médicos, além de serviços sociais.
+19.2 Atividades de Saúde Humana
+Q32: O que está incluído nas atividades de saúde humana? Inclui serviços médicos, odontológicos, hospitalares e de diagnóstico e terapia.
+Q33: Como são classificadas as atividades de saúde? São classificadas conforme o tipo de serviço prestado, como hospitais, clínicas médicas, consultórios odontológicos, e laboratórios de análises clínicas.
+19.3 Serviços Sociais
+Q34: O que compreende os serviços sociais? Inclui atividades de assistência social, apoio à família, cuidado a idosos e deficientes, e programas de inclusão social.
+Q35: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem abrigos para idosos, centros de reabilitação, e serviços de assistência a famílias em situação de vulnerabilidade.
+Capítulo 20: Artes, Cultura, Esporte e Recreação
+20.1 Introdução
+Q36: O que abrange a seção de Artes, Cultura, Esporte e Recreação? Esta seção compreende atividades criativas, artísticas e de entretenimento, além de atividades esportivas e recreativas.
+20.2 Artes e Cultura
+Q37: O que está incluído nas atividades de artes e cultura? Inclui a produção de obras de arte, espetáculos, museus, bibliotecas e outras atividades culturais.
+Q38: Como são classificadas as atividades de artes e cultura? São classificadas conforme o tipo de atividade, como artes visuais, artes cênicas, museus e bibliotecas.
+20.3 Esporte e Recreação
+Q39: O que compreende as atividades de esporte e recreação? Inclui organizações esportivas, academias, parques de diversão e outras atividades recreativas.
+Q40: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem clubes esportivos, ginásios, academias de ginástica, e parques temáticos.
+
+Capítulo 21: Outras Atividades de Serviços
+21.1 Introdução
+Q1: O que compreende a seção de Outras Atividades de Serviços? Esta seção compreende diversas atividades de serviços que não foram classificadas nas seções anteriores, abrangendo uma ampla gama de serviços pessoais e domésticos.
+21.2 Serviços Pessoais
+Q2: Quais atividades estão incluídas nos serviços pessoais? Inclui serviços como salões de beleza, barbearias, academias de ginástica, lavanderias e tinturarias, entre outros.
+Q3: Como são classificadas as atividades de serviços pessoais? São classificadas conforme o tipo de serviço prestado, como cabeleireiros, manicures, serviços de estética, e academias de ginástica.
+21.3 Serviços Domésticos
+Q4: O que compreende os serviços domésticos? Inclui os serviços prestados por empregados domésticos, como limpeza, cozinha, cuidados infantis e cuidados de idosos.
+Q5: Quais são alguns exemplos de serviços domésticos? Exemplos incluem empregados domésticos, babás, cuidadores de idosos e governantas.
+21.4 Outras Atividades de Serviços
+Q6: O que está incluído nas outras atividades de serviços? Inclui uma variedade de serviços como consertos de bens pessoais e domésticos, serviços de encanadores, eletricistas e chaveiros.
+Q7: Como são classificadas estas atividades? São classificadas conforme o tipo de serviço prestado, como reparação de calçados, consertos de eletrodomésticos e serviços de encanamento.
+Capítulo 22: Administração Pública, Defesa e Seguridade Social
+22.1 Introdução
+Q8: O que abrange a seção de Administração Pública, Defesa e Seguridade Social? Esta seção compreende atividades de administração pública em todos os níveis de governo, defesa nacional, justiça, segurança pública, e seguridade social.
+22.2 Administração Pública
+Q9: O que está incluído na administração pública? Inclui atividades executivas, legislativas, judiciais e regulatórias.
+Q10: Como são classificadas as atividades de administração pública? São classificadas conforme o nível de governo e a função específica, como administração federal, estadual, municipal, legislativa, judiciária ou regulatória.
+22.3 Defesa Nacional e Segurança Pública
+Q11: O que compreende a defesa nacional e segurança pública? Inclui atividades das forças armadas, polícia, bombeiros, e outros serviços de segurança pública.
+Q12: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem operações militares, policiamento, serviços de bombeiros, e serviços de emergência.
+22.4 Seguridade Social
+Q13: O que está incluído na seguridade social? Inclui a previdência social, assistência social, e programas de seguro-desemprego.
+Q14: Como são classificadas as atividades de seguridade social? São classificadas conforme o tipo de programa e benefício oferecido, como aposentadorias, pensões, auxílio-doença, e assistência social.
+Capítulo 23: Organizações Internacionais e Outras Instituições Extraterritoriais
+23.1 Introdução
+Q15: O que compreende a seção de Organizações Internacionais e Outras Instituições Extraterritoriais? Esta seção compreende as atividades de organizações internacionais, como Nações Unidas, Fundo Monetário Internacional, Banco Mundial, e outras entidades supranacionais.
+23.2 Organizações Internacionais
+Q16: Quais atividades estão incluídas nas organizações internacionais? Inclui a gestão e operações de organizações internacionais, coordenação de programas e projetos, e representação de países membros.
+Q17: Como são classificadas as atividades de organizações internacionais? São classificadas conforme a organização específica e sua função, como Nações Unidas, União Europeia, e organizações regionais.
+23.3 Outras Instituições Extraterritoriais
+Q18: O que compreende as outras instituições extraterritoriais? Inclui atividades de embaixadas, consulados e outras entidades governamentais estrangeiras que operam fora de seu território nacional.
+Q19: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem operações de embaixadas, consulados, e missões diplomáticas.
+Capítulo 24: Organizações e Órgãos Extraterritoriais
+24.1 Introdução
+Q20: O que abrange a seção de Organizações e Órgãos Extraterritoriais? Esta seção compreende atividades de organizações e órgãos governamentais estrangeiros que operam fora de seus próprios territórios, além de outras organizações e entidades supranacionais.
+24.2 Organizações e Órgãos Governamentais Estrangeiros
+Q21: Quais atividades estão incluídas nas organizações e órgãos governamentais estrangeiros? Inclui as atividades de embaixadas, consulados, missões diplomáticas e representações governamentais de outros países.
+Q22: Como são classificadas estas atividades? São classificadas conforme o tipo de organização e sua função, como embaixadas, consulados, e missões diplomáticas.
+24.3 Organizações Supranacionais
+Q23: O que compreende as organizações supranacionais? Inclui organizações que operam acima do nível nacional, como a ONU, União Europeia, Banco Mundial, e outras organizações internacionais.
+Q24: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem operações da ONU, programas do Banco Mundial, e projetos da União Europeia.
+Capítulo 25: Atividades de Organizações Associativas
+25.1 Introdução
+Q1: O que compreende a seção de Atividades de Organizações Associativas? Esta seção compreende as atividades de organizações associativas, incluindo associações profissionais, de empregadores, de trabalhadores e outras associações não especificadas em outras seções.
+25.2 Atividades de Associações Empresariais e Profissionais
+Q2: Quais atividades estão incluídas nas associações empresariais e profissionais? Incluem a representação e promoção dos interesses dos membros de associações empresariais, profissionais e científicas.
+Q3: Como são classificadas estas atividades? São classificadas conforme o tipo de associação, como câmaras de comércio, ordens profissionais e associações científicas.
+25.3 Atividades de Associações de Empregadores e de Trabalhadores
+Q4: O que compreende as atividades de associações de empregadores e trabalhadores? Inclui a representação e promoção dos interesses dos empregadores e trabalhadores através de sindicatos, federações e confederações.
+Q5: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem sindicatos de trabalhadores, federações de indústrias, e associações de classe.
+25.4 Outras Atividades de Organizações Associativas
+Q6: O que está incluído nas outras atividades de organizações associativas? Inclui a representação de interesses de membros de outras organizações associativas não especificadas em outras seções.
+Q7: Como são classificadas estas atividades? São classificadas conforme o tipo de interesse representado, como associações de defesa de direitos, associações culturais e recreativas.
+Capítulo 26: Serviços Domésticos
+26.1 Introdução
+Q8: O que compreende a seção de Serviços Domésticos? Esta seção compreende as atividades de serviços domésticos prestados por empregados domésticos em residências particulares.
+26.2 Serviços de Empregados Domésticos
+Q9: Quais atividades estão incluídas nos serviços de empregados domésticos? Inclui serviços de limpeza, cozinha, cuidados infantis, cuidados de idosos e outras atividades domésticas realizadas em residências particulares.
+Q10: Como são classificadas estas atividades? São classificadas conforme o tipo de serviço prestado, como limpeza doméstica, cuidados infantis, e cuidados de idosos.
+Capítulo 27: Organismos Internacionais e Outras Instituições Extraterritoriais
+27.1 Introdução
+Q11: O que compreende a seção de Organismos Internacionais e Outras Instituições Extraterritoriais? Esta seção compreende as atividades de organismos internacionais, como as Nações Unidas, o Fundo Monetário Internacional e o Banco Mundial, além de outras instituições supranacionais.
+27.2 Organismos Internacionais
+Q12: Quais atividades estão incluídas nos organismos internacionais? Inclui a gestão e operações de organismos internacionais, a coordenação de programas e projetos, e a representação de países membros.
+Q13: Como são classificadas estas atividades? São classificadas conforme o organismo específico e sua função, como Nações Unidas, União Europeia e organismos regionais.
+27.3 Outras Instituições Extraterritoriais
+Q14: O que compreende as outras instituições extraterritoriais? Inclui atividades de embaixadas, consulados e outras entidades governamentais estrangeiras que operam fora de seu território nacional.
+Q15: Quais são alguns exemplos de atividades neste segmento? Exemplos incluem operações de embaixadas, consulados e missões diplomáticas.
+Conclusão
+28.1 Resumo Final
+Q16: O que foi abordado nos capítulos anteriores? Os capítulos anteriores abordaram uma ampla variedade de atividades econômicas, categorizadas em seções como agricultura, indústrias extrativas, construção, comércio, transporte, informação e comunicação, atividades financeiras, educação, saúde, entre outras.
+Q17: Qual é a importância da CNAE? A Classificação Nacional de Atividades Econômicas (CNAE) é essencial para padronizar a coleta, análise e disseminação de informações econômicas, facilitando a comparação entre diferentes setores e a análise de dados estatísticos.
